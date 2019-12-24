@@ -1,0 +1,3202 @@
+Game Information,,,,,,Player Statlines,,,,
+Week,Game,Match ID,Team,Opponent,Player,Sc,G,A,Sv,Sh
+1,1,1,Blizzard,Eclipse,MapleSurrup,869,3,0,3,9
+1,1,1,Blizzard,Eclipse,Barry Allen,320,1,0,0,7
+1,1,1,Eclipse,Blizzard,ballena,909,3,1,3,5
+1,1,1,Eclipse,Blizzard,Krops,838,2,1,4,4
+1,2,1,Blizzard,Eclipse,MapleSurrup,643,2,0,3,5
+1,2,1,Blizzard,Eclipse,Barry Allen,218,0,0,1,1
+1,2,1,Eclipse,Blizzard,ballena,650,2,0,2,4
+1,2,1,Eclipse,Blizzard,Krops,608,1,2,3,5
+1,3,1,Blizzard,Eclipse,MapleSurrup,709,3,1,1,5
+1,3,1,Blizzard,Eclipse,Barry Allen,891,3,2,4,5
+1,3,1,Eclipse,Blizzard,ballena,467,2,0,1,4
+1,3,1,Eclipse,Blizzard,Krops,685,0,2,4,5
+1,4,1,Blizzard,Eclipse,MapleSurrup,478,1,1,1,4
+1,4,1,Blizzard,Eclipse,Barry Allen,272,1,1,0,2
+1,4,1,Eclipse,Blizzard,ballena,557,0,3,2,2
+1,4,1,Eclipse,Blizzard,Krops,645,4,0,1,5
+1,5,1,Blizzard,Eclipse,MapleSurrup,641,1,1,3,5
+1,5,1,Blizzard,Eclipse,Barry Allen,494,2,1,0,5
+1,5,1,Eclipse,Blizzard,ballena,867,2,3,3,8
+1,5,1,Eclipse,Blizzard,Krops,854,4,1,2,3
+1,1,2,Hurricanes,Lightning,Iguane Fabuleux,557,0,0,5,2
+1,1,2,Hurricanes,Lightning,Jimmer,120,0,0,0,0
+1,1,2,Lightning,Hurricanes,Jdaaab,355,1,0,1,4
+1,1,2,Lightning,Hurricanes,iP JoKeR,176,0,1,0,3
+1,2,2,Hurricanes,Lightning,Iguane Fabuleux,516,2,1,0,2
+1,2,2,Hurricanes,Lightning,Jimmer,703,4,0,1,6
+1,2,2,Lightning,Hurricanes,Jdaaab,478,2,0,1,2
+1,2,2,Lightning,Hurricanes,iP JoKeR,422,1,2,1,2
+1,3,2,Hurricanes,Lightning,Iguane Fabuleux,472,2,0,2,4
+1,3,2,Hurricanes,Lightning,Jimmer,445,0,2,3,1
+1,3,2,Lightning,Hurricanes,Jdaaab,771,3,1,1,7
+1,3,2,Lightning,Hurricanes,iP JoKeR,370,1,1,2,2
+1,4,2,Hurricanes,Lightning,Iguane Fabuleux,651,1,2,4,4
+1,4,2,Hurricanes,Lightning,Jimmer,525,3,0,0,4
+1,4,2,Lightning,Hurricanes,Jdaaab,782,2,2,4,6
+1,4,2,Lightning,Hurricanes,iP JoKeR,717,3,0,2,7
+1,5,2,Hurricanes,Lightning,Iguane Fabuleux,610,2,1,1,5
+1,5,2,Hurricanes,Lightning,Jimmer,602,1,1,5,3
+1,5,2,Lightning,Hurricanes,Jdaaab,783,3,1,1,9
+1,5,2,Lightning,Hurricanes,iP JoKeR,382,1,1,1,3
+1,1,3,Foxes,Puffins,henrY,150,1,1,1,1
+1,1,3,Foxes,Puffins,Blazed,150,1,1,1,1
+1,1,3,Puffins,Foxes,Trent,50,0,0,0,1
+1,1,3,Puffins,Foxes,Taelo,50,0,0,0,1
+1,2,3,Foxes,Puffins,henrY,150,1,1,1,1
+1,2,3,Foxes,Puffins,Blazed,150,1,1,1,1
+1,2,3,Puffins,Foxes,Trent,50,0,0,0,1
+1,2,3,Puffins,Foxes,Taelo,50,0,0,0,1
+1,3,3,Foxes,Puffins,henrY,150,1,1,1,1
+1,3,3,Foxes,Puffins,Blazed,150,1,1,1,1
+1,3,3,Puffins,Foxes,Trent,50,0,0,0,1
+1,3,3,Puffins,Foxes,Taelo,50,0,0,0,1
+1,4,3,Foxes,Puffins,henrY,150,1,1,1,1
+1,4,3,Foxes,Puffins,Blazed,150,1,1,1,1
+1,4,3,Puffins,Foxes,Trent,50,0,0,0,1
+1,4,3,Puffins,Foxes,Taelo,50,0,0,0,1
+1,5,3,Foxes,Puffins,henrY,150,1,1,1,1
+1,5,3,Foxes,Puffins,Blazed,150,1,1,1,1
+1,5,3,Puffins,Foxes,Trent,50,0,0,0,1
+1,5,3,Puffins,Foxes,Taelo,50,0,0,0,1
+1,1,4,Sabres,Wolves,SmilezRL,623,2,0,2,3
+1,1,4,Sabres,Wolves,Giant,316,0,1,1,7
+1,1,4,Wolves,Sabres,Kou,481,0,1,3,3
+1,1,4,Wolves,Sabres,Bloop,430,1,0,1,3
+1,2,4,Sabres,Wolves,SmilezRL,513,1,0,2,4
+1,2,4,Sabres,Wolves,Giant,436,0,1,2,3
+1,2,4,Wolves,Sabres,Kou,448,1,1,0,5
+1,2,4,Wolves,Sabres,Bloop,535,1,1,3,3
+1,3,4,Sabres,Wolves,SmilezRL,623,3,0,1,5
+1,3,4,Sabres,Wolves,Giant,288,0,2,0,6
+1,3,4,Wolves,Sabres,Kou,256,0,1,1,1
+1,3,4,Wolves,Sabres,Bloop,500,1,0,3,1
+1,4,4,Sabres,Wolves,SmilezRL,640,2,2,2,2
+1,4,4,Sabres,Wolves,Giant,729,3,0,2,10
+1,4,4,Wolves,Sabres,Kou,942,2,0,6,3
+1,4,4,Wolves,Sabres,Bloop,278,0,2,1,3
+1,5,4,Sabres,Wolves,SmilezRL,417,0,1,1,3
+1,5,4,Sabres,Wolves,Giant,654,3,0,2,4
+1,5,4,Wolves,Sabres,Kou,250,1,0,0,3
+1,5,4,Wolves,Sabres,Bloop,460,1,0,3,3
+1,1,5,Aviators,Ducks,Icey6,440,1,0,1,5
+1,1,5,Aviators,Ducks,Craymin,376,1,1,0,2
+1,1,5,Ducks,Aviators,JKmadness,713,2,2,3,4
+1,1,5,Ducks,Aviators,Seanner,668,3,1,1,3
+1,2,5,Aviators,Ducks,Icey6,529,1,1,4,3
+1,2,5,Aviators,Ducks,Craymin,616,2,1,2,2
+1,2,5,Ducks,Aviators,JKmadness,546,2,1,0,4
+1,2,5,Ducks,Aviators,Seanner,466,2,0,1,6
+1,3,5,Aviators,Ducks,Icey6,586,1,2,2,6
+1,3,5,Aviators,Ducks,Craymin,449,2,0,0,5
+1,3,5,Ducks,Aviators,JKmadness,611,0,2,3,2
+1,3,5,Ducks,Aviators,Seanner,735,2,0,3,3
+1,4,5,Aviators,Ducks,Icey6,633,2,0,3,4
+1,4,5,Aviators,Ducks,Craymin,706,3,1,2,5
+1,4,5,Ducks,Aviators,JKmadness,418,1,0,1,6
+1,4,5,Ducks,Aviators,Seanner,312,0,0,2,4
+1,5,5,Aviators,Ducks,Icey6,647,2,1,3,4
+1,5,5,Aviators,Ducks,Craymin,434,1,2,0,5
+1,5,5,Ducks,Aviators,JKmadness,418,0,1,1,2
+1,5,5,Ducks,Aviators,Seanner,404,2,0,1,4
+1,1,6,Hawks,Hive,TestGravity,748,3,0,2,6
+1,1,6,Hawks,Hive,uh steve,352,0,2,1,2
+1,1,6,Hive,Hawks,cashioc,640,2,0,3,4
+1,1,6,Hive,Hawks,Satsz,563,0,2,4,1
+1,2,6,Hawks,Hive,TestGravity,647,3,1,0,8
+1,2,6,Hawks,Hive,uh steve,623,1,1,4,2
+1,2,6,Hive,Hawks,cashioc,246,0,0,1,4
+1,2,6,Hive,Hawks,Satsz,581,1,0,5,4
+1,3,6,Hawks,Hive,TestGravity,592,2,0,2,4
+1,3,6,Hawks,Hive,uh steve,352,0,1,2,1
+1,3,6,Hive,Hawks,cashioc,676,2,0,5,5
+1,3,6,Hive,Hawks,Satsz,435,1,1,0,5
+1,4,6,Hawks,Hive,TestGravity,798,3,0,2,8
+1,4,6,Hawks,Hive,uh steve,260,0,0,2,0
+1,4,6,Hive,Hawks,cashioc,404,1,0,0,4
+1,4,6,Hive,Hawks,Satsz,537,1,0,4,2
+1,5,6,Hawks,Hive,TestGravity,719,3,1,2,8
+1,5,6,Hawks,Hive,uh steve,476,1,0,3,4
+1,5,6,Hive,Hawks,cashioc,474,2,0,1,6
+1,5,6,Hive,Hawks,Satsz,450,0,0,4,1
+1,1,7,Express,Jets,Gumbachi,815,4,1,1,7
+1,1,7,Express,Jets,Mattybananas,584,2,2,1,5
+1,1,7,Jets,Express,Unborn,524,1,1,1,5
+1,1,7,Jets,Express,Tagmata,452,1,1,2,3
+1,2,7,Express,Jets,Gumbachi,432,1,1,2,3
+1,2,7,Express,Jets,Mattybananas,428,1,1,1,5
+1,2,7,Jets,Express,Unborn,795,2,1,3,4
+1,2,7,Jets,Express,Tagmata,648,1,2,3,2
+1,3,7,Express,Jets,Gumbachi,748,1,1,4,6
+1,3,7,Express,Jets,Mattybananas,222,1,0,0,3
+1,3,7,Jets,Express,Unborn,573,1,1,2,4
+1,3,7,Jets,Express,Tagmata,636,3,0,3,4
+1,4,7,Express,Jets,Gumbachi,658,2,2,3,1
+1,4,7,Express,Jets,Mattybananas,613,3,1,0,5
+1,4,7,Jets,Express,Unborn,351,1,0,2,3
+1,4,7,Jets,Express,Tagmata,274,0,1,0,3
+1,5,7,Express,Jets,Gumbachi,536,2,0,0,11
+1,5,7,Express,Jets,Mattybananas,548,1,2,1,7
+1,5,7,Jets,Express,Unborn,696,1,2,3,5
+1,5,7,Jets,Express,Tagmata,1270,3,1,9,3
+1,1,8,Knights,Spartans,TosCrazy,484,2,0,1,4
+1,1,8,Knights,Spartans,Achieves,480,1,2,2,4
+1,1,8,Spartans,Knights,Letsgobluh,821,4,1,2,6
+1,1,8,Spartans,Knights,Saucey,617,2,3,2,2
+1,2,8,Knights,Spartans,TosCrazy,721,2,0,4,1
+1,2,8,Knights,Spartans,Achieves,453,1,0,3,2
+1,2,8,Spartans,Knights,Letsgobluh,272,0,1,0,3
+1,2,8,Spartans,Knights,Saucey,390,1,0,1,5
+1,3,8,Knights,Spartans,TosCrazy,389,0,0,3,1
+1,3,8,Knights,Spartans,Achieves,438,1,0,1,5
+1,3,8,Spartans,Knights,Letsgobluh,352,1,0,0,7
+1,3,8,Spartans,Knights,Saucey,927,3,0,5,3
+1,4,8,Knights,Spartans,TosCrazy,270,0,0,3,1
+1,4,8,Knights,Spartans,Achieves,286,0,0,1,2
+1,4,8,Spartans,Knights,Letsgobluh,424,1,1,1,3
+1,4,8,Spartans,Knights,Saucey,448,1,1,2,4
+1,5,8,Knights,Spartans,TosCrazy,384,0,2,1,4
+1,5,8,Knights,Spartans,Achieves,378,2,0,0,5
+1,5,8,Spartans,Knights,Letsgobluh,317,0,0,1,1
+1,5,8,Spartans,Knights,Saucey,275,0,0,1,0
+1,1,9,Bears,Outlaws,Ato.,678,2,1,2,8
+1,1,9,Bears,Outlaws,Mage,512,2,1,1,4
+1,1,9,Outlaws,Bears,Lotty Lettuce,561,1,0,5,2
+1,1,9,Outlaws,Bears,Will,445,0,0,4,3
+1,2,9,Bears,Outlaws,Ato.,672,2,1,4,5
+1,2,9,Bears,Outlaws,Mage,462,1,1,1,4
+1,2,9,Outlaws,Bears,Lotty Lettuce,632,2,0,4,4
+1,2,9,Outlaws,Bears,Will,252,0,0,1,4
+1,3,9,Bears,Outlaws,Ato.,656,2,0,2,5
+1,3,9,Bears,Outlaws,Mage,447,0,2,2,4
+1,3,9,Outlaws,Bears,Lotty Lettuce,382,1,0,0,3
+1,3,9,Outlaws,Bears,Will,500,0,0,3,4
+1,4,9,Bears,Outlaws,Ato.,658,2,0,4,2
+1,4,9,Bears,Outlaws,Mage,216,0,0,1,2
+1,4,9,Outlaws,Bears,Lotty Lettuce,316,0,1,0,3
+1,4,9,Outlaws,Bears,Will,334,1,0,1,4
+1,5,9,Bears,Outlaws,Ato.,383,1,0,2,2
+1,5,9,Bears,Outlaws,Mage,270,0,0,1,5
+1,5,9,Outlaws,Bears,Lotty Lettuce,763,3,0,2,6
+1,5,9,Outlaws,Bears,Will,343,0,1,3,1
+1,1,10,Pirates,Rhinos,Tater,489,2,0,1,5
+1,1,10,Pirates,Rhinos,Taki,200,0,1,0,2
+1,1,10,Rhinos,Pirates,hiroH,751,4,0,2,5
+1,1,10,Rhinos,Pirates,HersheyRL,582,0,3,4,3
+1,2,10,Pirates,Rhinos,Tater,840,3,0,4,4
+1,2,10,Pirates,Rhinos,Taki,287,0,1,1,2
+1,2,10,Rhinos,Pirates,hiroH,445,1,1,2,3
+1,2,10,Rhinos,Pirates,HersheyRL,454,1,1,1,5
+1,3,10,Pirates,Rhinos,Tater,689,1,3,3,3
+1,3,10,Pirates,Rhinos,Taki,929,4,0,2,10
+1,3,10,Rhinos,Pirates,hiroH,550,2,1,0,4
+1,3,10,Rhinos,Pirates,HersheyRL,694,2,1,3,5
+1,4,10,Pirates,Rhinos,Tater,534,2,1,1,8
+1,4,10,Pirates,Rhinos,Taki,542,2,1,0,5
+1,4,10,Rhinos,Pirates,hiroH,363,0,0,3,1
+1,4,10,Rhinos,Pirates,HersheyRL,705,1,0,5,3
+1,5,10,Pirates,Rhinos,Tater,658,2,1,3,3
+1,5,10,Pirates,Rhinos,Taki,496,2,1,1,4
+1,5,10,Rhinos,Pirates,hiroH,226,1,0,0,1
+1,5,10,Rhinos,Pirates,HersheyRL,364,0,0,2,6
+1,1,11,Comets,Demolition,Apple,393,1,0,2,1
+1,1,11,Comets,Demolition,StarFax,665,3,1,1,5
+1,1,11,Demolition,Comets,Kunics,612,1,3,1,3
+1,1,11,Demolition,Comets,kccolts81,723,4,0,1,6
+1,2,11,Comets,Demolition,Apple,468,0,1,3,2
+1,2,11,Comets,Demolition,StarFax,332,1,0,1,3
+1,2,11,Demolition,Comets,Kunics,238,0,1,1,3
+1,2,11,Demolition,Comets,kccolts81,519,2,0,1,4
+1,3,11,Comets,Demolition,Apple,682,3,0,3,4
+1,3,11,Comets,Demolition,StarFax,214,0,0,1,2
+1,3,11,Demolition,Comets,Kunics,687,2,1,3,7
+1,3,11,Demolition,Comets,kccolts81,598,2,2,1,4
+1,4,11,Comets,Demolition,Apple,377,0,0,3,2
+1,4,11,Comets,Demolition,StarFax,299,0,0,2,1
+1,4,11,Demolition,Comets,Kunics,711,4,1,1,8
+1,4,11,Demolition,Comets,kccolts81,743,2,3,1,6
+1,5,11,Comets,Demolition,Apple,172,0,0,0,2
+1,5,11,Comets,Demolition,StarFax,118,0,0,0,1
+1,5,11,Demolition,Comets,Kunics,1094,4,4,3,6
+1,5,11,Demolition,Comets,kccolts81,1010,5,3,0,6
+1,1,12,Spectre,Wizards,We take Ls,731,2,1,5,6
+1,1,12,Spectre,Wizards,NovaCainRL,697,2,2,2,3
+1,1,12,Wizards,Spectre,JustTuck,651,3,0,1,6
+1,1,12,Wizards,Spectre,isosolo,587,2,0,4,5
+1,2,12,Spectre,Wizards,We take Ls,418,0,2,1,3
+1,2,12,Spectre,Wizards,NovaCainRL,820,4,0,1,7
+1,2,12,Wizards,Spectre,JustTuck,624,1,0,4,4
+1,2,12,Wizards,Spectre,isosolo,278,0,1,1,3
+1,3,12,Spectre,Wizards,We take Ls,392,1,0,2,2
+1,3,12,Spectre,Wizards,NovaCainRL,206,0,0,1,0
+1,3,12,Wizards,Spectre,JustTuck,553,2,3,0,4
+1,3,12,Wizards,Spectre,isosolo,941,5,1,1,8
+1,4,12,Spectre,Wizards,We take Ls,774,2,1,4,3
+1,4,12,Spectre,Wizards,NovaCainRL,527,1,0,4,1
+1,4,12,Wizards,Spectre,JustTuck,224,0,1,0,3
+1,4,12,Wizards,Spectre,isosolo,392,1,0,1,7
+1,5,12,Spectre,Wizards,We take Ls,522,1,1,3,3
+1,5,12,Spectre,Wizards,NovaCainRL,456,1,1,2,3
+1,5,12,Wizards,Spectre,JustTuck,586,2,0,1,4
+1,5,12,Wizards,Spectre,isosolo,556,2,1,1,8
+1,1,13,Bulls,Dodgers,BraidedAxe,390,1,0,1,2
+1,1,13,Bulls,Dodgers,Antzu,220,0,0,0,2
+1,1,13,Dodgers,Bulls,Minamacky,629,3,0,1,5
+1,1,13,Dodgers,Bulls,InanimateJ,462,1,1,2,1
+1,2,13,Bulls,Dodgers,BraidedAxe,444,1,0,1,4
+1,2,13,Bulls,Dodgers,Antzu,254,0,1,1,2
+1,2,13,Dodgers,Bulls,Minamacky,466,0,0,3,2
+1,2,13,Dodgers,Bulls,InanimateJ,257,0,0,2,0
+1,3,13,Bulls,Dodgers,BraidedAxe,619,2,3,0,5
+1,3,13,Bulls,Dodgers,Antzu,601,3,1,1,4
+1,3,13,Dodgers,Bulls,Minamacky,564,2,2,0,3
+1,3,13,Dodgers,Bulls,InanimateJ,366,2,1,0,2
+1,4,13,Bulls,Dodgers,BraidedAxe,394,2,0,0,3
+1,4,13,Bulls,Dodgers,Antzu,442,1,1,2,4
+1,4,13,Dodgers,Bulls,Minamacky,284,0,1,1,1
+1,4,13,Dodgers,Bulls,InanimateJ,451,1,0,2,2
+1,5,13,Bulls,Dodgers,BraidedAxe,370,1,0,1,2
+1,5,13,Bulls,Dodgers,Antzu,476,1,1,1,7
+1,5,13,Dodgers,Bulls,Minamacky,498,0,1,4,2
+1,5,13,Dodgers,Bulls,InanimateJ,326,1,0,1,3
+1,1,14,Elite,Tyrants,Cearu,605,3,0,0,5
+1,1,14,Elite,Tyrants,veets,329,1,0,2,3
+1,1,14,Tyrants,Elite,Jakester,552,2,0,3,3
+1,1,14,Tyrants,Elite,Saucy.,436,1,2,1,4
+1,2,14,Elite,Tyrants,Cearu,872,3,2,4,5
+1,2,14,Elite,Tyrants,veets,570,2,2,0,3
+1,2,14,Tyrants,Elite,Jakester,346,1,0,0,3
+1,2,14,Tyrants,Elite,Saucy.,516,1,1,2,3
+1,3,14,Elite,Tyrants,Cearu,462,2,0,1,5
+1,3,14,Elite,Tyrants,veets,434,1,2,0,3
+1,3,14,Tyrants,Elite,Jakester,583,2,1,1,5
+1,3,14,Tyrants,Elite,Saucy.,581,2,1,2,2
+1,4,14,Elite,Tyrants,Cearu,768,3,1,3,3
+1,4,14,Elite,Tyrants,veets,767,4,2,1,5
+1,4,14,Tyrants,Elite,Jakester,440,1,1,1,5
+1,4,14,Tyrants,Elite,Saucy.,320,1,1,0,4
+1,5,14,Elite,Tyrants,Cearu,462,2,0,2,4
+1,5,14,Elite,Tyrants,veets,516,1,2,1,5
+1,5,14,Tyrants,Elite,Jakester,427,1,0,2,1
+1,5,14,Tyrants,Elite,Saucy.,50,0,0,0,1
+1,1,15,Flames,Pandas,crossfire8255,734,1,1,6,3
+1,1,15,Flames,Pandas,Reverse Fridge,571,1,0,5,2
+1,1,15,Pandas,Flames,Wyyzard,721,4,0,1,11
+1,1,15,Pandas,Flames,dan720,604,1,3,1,5
+1,2,15,Flames,Pandas,crossfire8255,452,2,0,2,4
+1,2,15,Flames,Pandas,Reverse Fridge,334,0,1,2,3
+1,2,15,Pandas,Flames,Wyyzard,495,1,1,3,3
+1,2,15,Pandas,Flames,dan720,426,2,0,1,3
+1,3,15,Flames,Pandas,crossfire8255,708,1,1,5,3
+1,3,15,Flames,Pandas,Reverse Fridge,422,2,0,0,5
+1,3,15,Pandas,Flames,Wyyzard,381,0,1,2,4
+1,3,15,Pandas,Flames,dan720,356,1,0,2,2
+1,4,15,Flames,Pandas,crossfire8255,280,0,0,0,4
+1,4,15,Flames,Pandas,Reverse Fridge,302,0,0,0,4
+1,4,15,Pandas,Flames,Wyyzard,550,0,1,3,4
+1,4,15,Pandas,Flames,dan720,330,1,0,2,3
+1,5,15,Flames,Pandas,crossfire8255,316,0,2,1,3
+1,5,15,Flames,Pandas,Reverse Fridge,945,4,0,3,8
+1,5,15,Pandas,Flames,Wyyzard,557,1,2,3,4
+1,5,15,Pandas,Flames,dan720,932,4,1,2,6
+1,1,16,Shadow,Sharks,Oni,897,4,2,1,10
+1,1,16,Shadow,Sharks,SillyBunny,725,2,3,2,4
+1,1,16,Sharks,Shadow,Lundo,795,2,2,3,6
+1,1,16,Sharks,Shadow,Luke_Rocks,575,2,1,2,4
+1,2,16,Shadow,Sharks,Oni,617,3,1,0,4
+1,2,16,Shadow,Sharks,SillyBunny,990,3,3,4,5
+1,2,16,Sharks,Shadow,Lundo,410,0,2,1,4
+1,2,16,Sharks,Shadow,Luke_Rocks,757,4,0,1,6
+1,3,16,Shadow,Sharks,Oni,781,3,2,1,6
+1,3,16,Shadow,Sharks,SillyBunny,857,3,3,1,8
+1,3,16,Sharks,Shadow,Lundo,626,1,2,3,2
+1,3,16,Sharks,Shadow,Luke_Rocks,868,3,1,4,5
+1,4,16,Shadow,Sharks,Oni,661,3,1,0,8
+1,4,16,Shadow,Sharks,SillyBunny,567,1,1,4,4
+1,4,16,Sharks,Shadow,Lundo,1026,4,1,5,7
+1,4,16,Sharks,Shadow,Luke_Rocks,612,1,4,1,3
+1,5,16,Shadow,Sharks,Oni,506,1,1,2,2
+1,5,16,Shadow,Sharks,SillyBunny,292,1,0,0,2
+1,5,16,Sharks,Shadow,Lundo,488,2,0,0,4
+1,5,16,Sharks,Shadow,Luke_Rocks,546,2,0,2,3
+2,1,17,Lightning,Eclipse,Ajax,607,1,1,4,3
+2,1,17,Lightning,Eclipse,RED,600,2,1,2,6
+2,1,17,Eclipse,Lightning,Other Ninja,543,1,0,3,3
+2,1,17,Eclipse,Lightning,ballena,384,0,1,2,3
+2,2,17,Lightning,Eclipse,Ajax,509,1,4,0,3
+2,2,17,Lightning,Eclipse,RED,1028,5,1,3,7
+2,2,17,Eclipse,Lightning,Other Ninja,331,1,0,1,2
+2,2,17,Eclipse,Lightning,ballena,407,1,1,1,3
+2,3,17,Lightning,Eclipse,Ajax,206,0,0,1,1
+2,3,17,Lightning,Eclipse,RED,386,0,0,2,4
+2,3,17,Eclipse,Lightning,Other Ninja,510,2,0,2,3
+2,3,17,Eclipse,Lightning,ballena,505,0,1,4,3
+2,4,17,Lightning,Eclipse,Ajax,661,3,0,2,5
+2,4,17,Lightning,Eclipse,RED,439,0,3,0,2
+2,4,17,Eclipse,Lightning,Other Ninja,262,1,0,1,2
+2,4,17,Eclipse,Lightning,ballena,454,1,1,2,2
+2,5,17,Lightning,Eclipse,Ajax,562,2,1,2,5
+2,5,17,Lightning,Eclipse,RED,456,1,0,2,3
+2,5,17,Eclipse,Lightning,Other Ninja,460,0,1,3,4
+2,5,17,Eclipse,Lightning,ballena,437,1,0,2,2
+2,1,18,Blizzard,Hurricanes,Barry Allen,701,3,0,0,5
+2,1,18,Blizzard,Hurricanes,Scoobert Doobert,289,0,1,1,4
+2,1,18,Hurricanes,Blizzard,Peabs,466,0,0,3,2
+2,1,18,Hurricanes,Blizzard,Jab,459,2,0,2,2
+2,2,18,Blizzard,Hurricanes,Barry Allen,606,2,1,1,2
+2,2,18,Blizzard,Hurricanes,Scoobert Doobert,709,2,1,3,5
+2,2,18,Hurricanes,Blizzard,Peabs,573,2,0,1,6
+2,2,18,Hurricanes,Blizzard,Jab,443,0,2,2,3
+2,3,18,Blizzard,Hurricanes,Barry Allen,622,2,1,1,5
+2,3,18,Blizzard,Hurricanes,Scoobert Doobert,412,1,1,1,3
+2,3,18,Hurricanes,Blizzard,Peabs,565,1,1,3,3
+2,3,18,Hurricanes,Blizzard,Jab,482,1,1,2,3
+2,4,18,Blizzard,Hurricanes,Barry Allen,622,2,1,1,5
+2,4,18,Blizzard,Hurricanes,Scoobert Doobert,412,1,1,1,3
+2,4,18,Hurricanes,Blizzard,Peabs,565,1,1,3,3
+2,4,18,Hurricanes,Blizzard,Jab,482,1,1,2,3
+2,5,18,Blizzard,Hurricanes,Barry Allen,315,0,0,2,1
+2,5,18,Blizzard,Hurricanes,Scoobert Doobert,417,0,0,4,1
+2,5,18,Hurricanes,Blizzard,Peabs,294,1,0,0,2
+2,5,18,Hurricanes,Blizzard,Jab,344,1,1,0,6
+2,1,19,Wolves,Puffins,Zack,601,2,2,1,6
+2,1,19,Wolves,Puffins,Haimgame,532,2,1,1,5
+2,1,19,Puffins,Wolves,Bolio,486,0,0,5,2
+2,1,19,Puffins,Wolves,KittenDuck,347,0,0,3,0
+2,2,19,Wolves,Puffins,Zack,897,4,0,3,4
+2,2,19,Wolves,Puffins,Haimgame,242,0,1,1,1
+2,2,19,Puffins,Wolves,Bolio,330,1,0,0,3
+2,2,19,Puffins,Wolves,KittenDuck,384,1,1,0,6
+2,3,19,Wolves,Puffins,Zack,338,0,1,1,3
+2,3,19,Wolves,Puffins,Haimgame,396,1,0,2,3
+2,3,19,Puffins,Wolves,Bolio,587,2,1,2,4
+2,3,19,Puffins,Wolves,KittenDuck,502,1,2,1,4
+2,4,19,Wolves,Puffins,Zack,236,0,0,1,2
+2,4,19,Wolves,Puffins,Haimgame,404,0,0,3,3
+2,4,19,Puffins,Wolves,Bolio,642,2,2,2,4
+2,4,19,Puffins,Wolves,KittenDuck,925,3,2,3,5
+2,5,19,Wolves,Puffins,Zack,606,1,2,2,7
+2,5,19,Wolves,Puffins,Haimgame,509,2,1,1,4
+2,5,19,Puffins,Wolves,Bolio,814,4,0,3,5
+2,5,19,Puffins,Wolves,KittenDuck,676,0,2,4,2
+2,1,20,Foxes,Sabres,henrY,718,3,1,2,6
+2,1,20,Foxes,Sabres,Laff,708,3,0,3,3
+2,1,20,Sabres,Foxes,SmilezRL,537,2,1,1,3
+2,1,20,Sabres,Foxes,Prosperity2K,474,2,1,0,5
+2,2,20,Foxes,Sabres,henrY,446,1,1,2,3
+2,2,20,Foxes,Sabres,Laff,518,2,0,2,3
+2,2,20,Sabres,Foxes,SmilezRL,490,2,0,1,4
+2,2,20,Sabres,Foxes,Prosperity2K,178,0,0,1,2
+2,3,20,Foxes,Sabres,henrY,486,1,0,4,3
+2,3,20,Foxes,Sabres,Laff,432,1,1,1,4
+2,3,20,Sabres,Foxes,SmilezRL,339,0,1,2,6
+2,3,20,Sabres,Foxes,Prosperity2K,497,3,0,0,3
+2,4,20,Foxes,Sabres,henrY,364,0,1,2,3
+2,4,20,Foxes,Sabres,Laff,623,3,0,1,5
+2,4,20,Sabres,Foxes,SmilezRL,484,1,0,2,3
+2,4,20,Sabres,Foxes,Prosperity2K,491,1,0,3,2
+2,5,20,Foxes,Sabres,henrY,470,1,2,2,5
+2,5,20,Foxes,Sabres,Laff,945,4,1,3,5
+2,5,20,Sabres,Foxes,SmilezRL,474,1,0,2,2
+2,5,20,Sabres,Foxes,Prosperity2K,378,1,0,2,5
+2,1,21,Hive,Ducks,Satsz,785,3,1,1,10
+2,1,21,Hive,Ducks,Toonifisch,697,3,2,1,5
+2,1,21,Ducks,Hive,Jack Colt,570,1,0,4,2
+2,1,21,Ducks,Hive,BlueMars2,263,0,0,2,1
+2,2,21,Hive,Ducks,Satsz,677,2,0,3,4
+2,2,21,Hive,Ducks,Toonifisch,308,0,1,2,2
+2,2,21,Ducks,Hive,Jack Colt,875,2,2,5,5
+2,2,21,Ducks,Hive,BlueMars2,597,3,1,1,7
+2,3,21,Hive,Ducks,Satsz,604,2,1,2,7
+2,3,21,Hive,Ducks,Toonifisch,442,1,1,2,4
+2,3,21,Ducks,Hive,Jack Colt,436,0,0,3,4
+2,3,21,Ducks,Hive,BlueMars2,237,0,0,1,4
+2,4,21,Hive,Ducks,Satsz,729,2,1,3,5
+2,4,21,Hive,Ducks,Toonifisch,737,3,0,3,4
+2,4,21,Ducks,Hive,Jack Colt,706,2,1,4,4
+2,4,21,Ducks,Hive,BlueMars2,689,2,1,2,5
+2,5,21,Hive,Ducks,Satsz,754,1,3,3,7
+2,5,21,Hive,Ducks,Toonifisch,984,5,1,1,10
+2,5,21,Ducks,Hive,Jack Colt,833,1,3,5,5
+2,5,21,Ducks,Hive,BlueMars2,975,4,1,4,6
+2,1,22,Aviators,Hawks,Icey6,567,1,2,2,3
+2,1,22,Aviators,Hawks,Vitali,558,2,1,0,4
+2,1,22,Hawks,Aviators,TestGravity,893,4,0,2,7
+2,1,22,Hawks,Aviators,Zayo,593,1,3,2,2
+2,2,22,Aviators,Hawks,Icey6,308,0,1,0,5
+2,2,22,Aviators,Hawks,Vitali,443,1,0,2,3
+2,2,22,Hawks,Aviators,TestGravity,673,1,3,2,5
+2,2,22,Hawks,Aviators,Zayo,909,4,0,3,3
+2,3,22,Aviators,Hawks,Icey6,348,0,1,2,4
+2,3,22,Aviators,Hawks,Vitali,425,1,0,2,2
+2,3,22,Hawks,Aviators,TestGravity,1101,6,0,2,8
+2,3,22,Hawks,Aviators,Zayo,345,0,2,1,2
+2,4,22,Aviators,Hawks,Icey6,395,0,0,4,0
+2,4,22,Aviators,Hawks,Vitali,289,0,0,3,2
+2,4,22,Hawks,Aviators,TestGravity,638,2,1,2,10
+2,4,22,Hawks,Aviators,Zayo,771,5,0,0,7
+2,5,22,Aviators,Hawks,Icey6,264,0,1,2,2
+2,5,22,Aviators,Hawks,Vitali,556,2,0,2,5
+2,5,22,Hawks,Aviators,TestGravity,768,2,3,3,4
+2,5,22,Hawks,Aviators,Zayo,834,4,1,2,6
+2,1,23,Spartans,Jets,Sinnicole,765,3,1,0,7
+2,1,23,Spartans,Jets,Saucey,437,1,2,0,4
+2,1,23,Jets,Spartans,Tagmata,803,3,0,3,4
+2,1,23,Jets,Spartans,thomas,336,0,1,2,2
+2,2,23,Spartans,Jets,Sinnicole,934,6,0,1,10
+2,2,23,Spartans,Jets,Saucey,648,1,4,1,6
+2,2,23,Jets,Spartans,Tagmata,823,2,1,5,5
+2,2,23,Jets,Spartans,thomas,681,2,1,4,1
+2,3,23,Spartans,Jets,Sinnicole,581,2,0,2,4
+2,3,23,Spartans,Jets,Saucey,514,1,1,2,7
+2,3,23,Jets,Spartans,Tagmata,816,2,0,5,3
+2,3,23,Jets,Spartans,thomas,468,0,1,4,3
+2,4,23,Spartans,Jets,Sinnicole,757,3,1,1,13
+2,4,23,Spartans,Jets,Saucey,545,1,3,1,3
+2,4,23,Jets,Spartans,Tagmata,917,1,0,10,2
+2,4,23,Jets,Spartans,thomas,317,1,0,1,2
+2,5,23,Spartans,Jets,Sinnicole,751,2,2,3,4
+2,5,23,Spartans,Jets,Saucey,476,2,0,2,3
+2,5,23,Jets,Spartans,Tagmata,620,2,1,0,7
+2,5,23,Jets,Spartans,thomas,342,1,2,1,2
+2,1,24,Express,Knights,GOYO,587,3,0,1,4
+2,1,24,Express,Knights,Pops,578,2,2,1,5
+2,1,24,Knights,Express,oogga,246,0,0,1,2
+2,1,24,Knights,Express,PuffTheDargon,186,0,0,0,2
+2,2,24,Express,Knights,GOYO,791,4,1,0,6
+2,2,24,Express,Knights,Pops,752,2,2,2,6
+2,2,24,Knights,Express,oogga,517,2,1,1,2
+2,2,24,Knights,Express,PuffTheDargon,532,2,1,1,4
+2,3,24,Express,Knights,GOYO,734,3,1,2,6
+2,3,24,Express,Knights,Pops,602,2,0,3,5
+2,3,24,Knights,Express,oogga,807,4,2,1,6
+2,3,24,Knights,Express,PuffTheDargon,756,2,4,2,5
+2,4,24,Express,Knights,GOYO,386,0,0,3,0
+2,4,24,Express,Knights,Pops,466,0,0,3,2
+2,4,24,Knights,Express,oogga,379,1,0,0,5
+2,4,24,Knights,Express,PuffTheDargon,351,0,1,1,4
+2,5,24,Express,Knights,GOYO,613,2,1,2,3
+2,5,24,Express,Knights,Pops,518,2,2,0,4
+2,5,24,Knights,Express,oogga,703,4,1,0,3
+2,5,24,Knights,Express,PuffTheDargon,607,3,1,0,7
+2,1,25,Rhinos,Outlaws,Korluss,273,0,0,1,4
+2,1,25,Rhinos,Outlaws,Giraffegirl,271,0,0,3,2
+2,1,25,Outlaws,Rhinos,Will,967,4,1,4,4
+2,1,25,Outlaws,Rhinos,Stovvadz,645,3,1,1,10
+2,2,25,Rhinos,Outlaws,Korluss,423,1,0,3,2
+2,2,25,Rhinos,Outlaws,Giraffegirl,238,0,0,2,3
+2,2,25,Outlaws,Rhinos,Will,369,1,0,1,3
+2,2,25,Outlaws,Rhinos,Stovvadz,732,3,1,1,6
+2,3,25,Rhinos,Outlaws,Korluss,362,0,0,2,4
+2,3,25,Rhinos,Outlaws,Giraffegirl,270,0,0,1,3
+2,3,25,Outlaws,Rhinos,Will,440,2,0,1,5
+2,3,25,Outlaws,Rhinos,Stovvadz,406,1,0,1,4
+2,4,25,Rhinos,Outlaws,Korluss,695,3,0,1,3
+2,4,25,Rhinos,Outlaws,Giraffegirl,603,3,1,0,7
+2,4,25,Outlaws,Rhinos,Will,592,3,0,2,3
+2,4,25,Outlaws,Rhinos,Stovvadz,607,1,3,2,4
+2,5,25,Rhinos,Outlaws,Korluss,594,1,0,3,3
+2,5,25,Rhinos,Outlaws,Giraffegirl,289,0,1,2,1
+2,5,25,Outlaws,Rhinos,Will,522,2,2,2,3
+2,5,25,Outlaws,Rhinos,Stovvadz,807,5,2,0,8
+2,1,26,Bears,Pirates,KILT,708,2,1,3,5
+2,1,26,Bears,Pirates,Ato.,690,3,1,2,5
+2,1,26,Pirates,Bears,Tater,492,1,0,2,3
+2,1,26,Pirates,Bears,Cali,142,0,0,0,2
+2,2,26,Bears,Pirates,KILT,554,2,1,2,4
+2,2,26,Bears,Pirates,Ato.,932,3,1,4,5
+2,2,26,Pirates,Bears,Tater,306,1,0,0,4
+2,2,26,Pirates,Bears,Cali,427,1,1,1,6
+2,3,26,Bears,Pirates,KILT,576,1,0,4,2
+2,3,26,Bears,Pirates,Ato.,436,0,1,4,0
+2,3,26,Pirates,Bears,Tater,422,2,0,0,5
+2,3,26,Pirates,Bears,Cali,216,0,0,0,5
+2,4,26,Bears,Pirates,KILT,707,3,0,1,5
+2,4,26,Bears,Pirates,Ato.,906,4,2,2,7
+2,4,26,Pirates,Bears,Tater,312,1,0,0,4
+2,4,26,Pirates,Bears,Cali,272,0,1,1,1
+2,5,26,Bears,Pirates,KILT,333,0,1,2,3
+2,5,26,Bears,Pirates,Ato.,422,1,0,1,2
+2,5,26,Pirates,Bears,Tater,713,3,0,0,5
+2,5,26,Pirates,Bears,Cali,156,0,0,0,2
+2,1,27,Wizards,Demolition,TrashVan,599,2,1,1,5
+2,1,27,Wizards,Demolition,JustTuck,522,1,0,3,2
+2,1,27,Demolition,Wizards,Seven,567,2,0,2,5
+2,1,27,Demolition,Wizards,ImBad,369,0,1,1,3
+2,2,27,Wizards,Demolition,TrashVan,813,4,2,0,7
+2,2,27,Wizards,Demolition,JustTuck,805,3,3,1,6
+2,2,27,Demolition,Wizards,Seven,338,1,0,1,1
+2,2,27,Demolition,Wizards,ImBad,257,0,0,2,1
+2,3,27,Wizards,Demolition,TrashVan,1044,6,2,0,12
+2,3,27,Wizards,Demolition,JustTuck,957,3,3,3,2
+2,3,27,Demolition,Wizards,Seven,701,3,0,3,4
+2,3,27,Demolition,Wizards,ImBad,472,1,2,1,3
+2,4,27,Wizards,Demolition,TrashVan,448,1,1,1,4
+2,4,27,Wizards,Demolition,JustTuck,460,2,0,0,4
+2,4,27,Demolition,Wizards,Seven,405,0,1,2,2
+2,4,27,Demolition,Wizards,ImBad,290,1,0,1,1
+2,5,27,Wizards,Demolition,TrashVan,581,1,1,3,4
+2,5,27,Wizards,Demolition,JustTuck,820,3,0,3,4
+2,5,27,Demolition,Wizards,Seven,539,2,0,2,5
+2,5,27,Demolition,Wizards,ImBad,319,0,1,1,4
+2,1,28,Comets,Spectre,Tunloink,567,1,0,3,6
+2,1,28,Comets,Spectre,StarFax,376,1,0,2,2
+2,1,28,Spectre,Comets,C^2,812,2,2,3,5
+2,1,28,Spectre,Comets,snip,745,3,1,1,7
+2,2,28,Comets,Spectre,Tunloink,506,2,0,1,7
+2,2,28,Comets,Spectre,StarFax,638,1,2,4,8
+2,2,28,Spectre,Comets,C^2,940,4,1,3,7
+2,2,28,Spectre,Comets,snip,523,1,2,2,4
+2,3,28,Comets,Spectre,Tunloink,418,0,2,1,3
+2,3,28,Comets,Spectre,StarFax,620,2,0,3,3
+2,3,28,Spectre,Comets,C^2,616,2,2,0,5
+2,3,28,Spectre,Comets,snip,1219,6,1,3,10
+2,4,28,Comets,Spectre,Tunloink,552,2,0,2,8
+2,4,28,Comets,Spectre,StarFax,396,1,1,2,2
+2,4,28,Spectre,Comets,C^2,636,2,0,2,3
+2,4,28,Spectre,Comets,snip,518,0,2,4,2
+2,5,28,Comets,Spectre,Tunloink,793,3,0,7,4
+2,5,28,Comets,Spectre,StarFax,944,3,0,7,4
+2,5,28,Spectre,Comets,C^2,432,2,0,0,8
+2,5,28,Spectre,Comets,snip,519,0,2,3,3
+2,1,29,Tyrants,Dodgers,Jakester,502,0,0,3,3
+2,1,29,Tyrants,Dodgers,Saucy.,278,0,0,2,3
+2,1,29,Dodgers,Tyrants,bits,619,1,1,4,6
+2,1,29,Dodgers,Tyrants,Minamacky,424,1,1,1,4
+2,2,29,Tyrants,Dodgers,Jakester,519,1,1,1,2
+2,2,29,Tyrants,Dodgers,Saucy.,359,1,0,2,2
+2,2,29,Dodgers,Tyrants,bits,543,1,2,1,4
+2,2,29,Dodgers,Tyrants,Minamacky,607,3,0,0,6
+2,3,29,Tyrants,Dodgers,Jakester,581,1,2,3,2
+2,3,29,Tyrants,Dodgers,Saucy.,724,3,1,2,6
+2,3,29,Dodgers,Tyrants,bits,841,3,0,1,5
+2,3,29,Dodgers,Tyrants,Minamacky,306,1,1,0,3
+2,4,29,Tyrants,Dodgers,Jakester,278,0,0,2,4
+2,4,29,Tyrants,Dodgers,Saucy.,520,0,0,6,0
+2,4,29,Dodgers,Tyrants,bits,720,3,0,2,6
+2,4,29,Dodgers,Tyrants,Minamacky,360,0,2,0,6
+2,5,29,Tyrants,Dodgers,Jakester,362,1,0,1,4
+2,5,29,Tyrants,Dodgers,Saucy.,388,1,0,2,2
+2,5,29,Dodgers,Tyrants,bits,684,3,1,1,4
+2,5,29,Dodgers,Tyrants,Minamacky,599,2,0,3,5
+2,1,30,Bulls,Elite,RainbowNoms,445,1,0,3,2
+2,1,30,Bulls,Elite,Antzu,380,1,1,1,1
+2,1,30,Elite,Bulls,veets,552,3,0,1,4
+2,1,30,Elite,Bulls,El Diablo Rojo,423,0,3,0,4
+2,2,30,Bulls,Elite,RainbowNoms,624,1,0,4,4
+2,2,30,Bulls,Elite,Antzu,380,0,1,1,3
+2,2,30,Elite,Bulls,veets,490,1,3,1,3
+2,2,30,Elite,Bulls,El Diablo Rojo,1091,4,1,4,9
+2,3,30,Bulls,Elite,RainbowNoms,960,4,1,3,5
+2,3,30,Bulls,Elite,Antzu,498,2,2,0,6
+2,3,30,Elite,Bulls,veets,336,1,0,1,2
+2,3,30,Elite,Bulls,El Diablo Rojo,449,0,0,3,2
+2,4,30,Bulls,Elite,RainbowNoms,857,3,0,4,6
+2,4,30,Bulls,Elite,Antzu,401,0,1,2,2
+2,4,30,Elite,Bulls,veets,385,1,0,2,4
+2,4,30,Elite,Bulls,El Diablo Rojo,634,1,1,4,6
+2,5,30,Bulls,Elite,RainbowNoms,450,0,0,3,0
+2,5,30,Bulls,Elite,Antzu,405,1,0,1,4
+2,5,30,Elite,Bulls,veets,190,0,0,0,0
+2,5,30,Elite,Bulls,El Diablo Rojo,350,0,0,1,5
+2,1,31,Sharks,Pandas,Twigler,456,1,1,1,4
+2,1,31,Sharks,Pandas,W/\\/E,334,1,0,1,5
+2,1,31,Pandas,Sharks,Wyyzard,572,0,1,5,1
+2,1,31,Pandas,Sharks,Not Juice,340,1,0,1,3
+2,2,31,Sharks,Pandas,Twigler,208,0,0,1,2
+2,2,31,Sharks,Pandas,W/\\/E,335,1,0,2,1
+2,2,31,Pandas,Sharks,Wyyzard,800,3,1,2,6
+2,2,31,Pandas,Sharks,Not Juice,430,2,1,0,4
+2,3,31,Sharks,Pandas,Twigler,319,0,0,2,3
+2,3,31,Sharks,Pandas,W/\\/E,178,0,0,0,3
+2,3,31,Pandas,Sharks,Wyyzard,644,1,2,3,2
+2,3,31,Pandas,Sharks,Not Juice,517,2,0,2,3
+2,4,31,Sharks,Pandas,Twigler,582,2,2,0,5
+2,4,31,Sharks,Pandas,W/\\/E,859,4,2,1,8
+2,4,31,Pandas,Sharks,Wyyzard,667,2,1,4,3
+2,4,31,Pandas,Sharks,Not Juice,542,2,1,1,4
+2,5,31,Sharks,Pandas,Twigler,266,1,1,0,3
+2,5,31,Sharks,Pandas,W/\\/E,663,2,0,2,4
+2,5,31,Pandas,Sharks,Wyyzard,635,2,0,3,3
+2,5,31,Pandas,Sharks,Not Juice,280,0,2,0,4
+2,1,32,Flames,Shadow,Cedric,537,1,0,3,1
+2,1,32,Flames,Shadow,crossfire8255,304,0,0,2,3
+2,1,32,Shadow,Flames,synthex,494,2,0,0,4
+2,1,32,Shadow,Flames,Oni,389,0,0,2,4
+2,2,32,Flames,Shadow,Cedric,633,3,0,1,5
+2,2,32,Flames,Shadow,crossfire8255,422,1,1,2,2
+2,2,32,Shadow,Flames,synthex,505,0,2,3,3
+2,2,32,Shadow,Flames,Oni,400,2,0,0,4
+2,3,32,Flames,Shadow,Cedric,935,4,0,4,5
+2,3,32,Flames,Shadow,crossfire8255,474,0,1,3,5
+2,3,32,Shadow,Flames,synthex,530,1,1,1,7
+2,3,32,Shadow,Flames,Oni,730,2,0,5,5
+2,4,32,Flames,Shadow,Cedric,636,1,1,5,2
+2,4,32,Flames,Shadow,crossfire8255,701,3,1,1,5
+2,4,32,Shadow,Flames,synthex,314,0,1,1,3
+2,4,32,Shadow,Flames,Oni,420,1,0,2,5
+2,5,32,Flames,Shadow,Cedric,697,2,0,4,3
+2,5,32,Flames,Shadow,crossfire8255,421,0,0,3,3
+2,5,32,Shadow,Flames,synthex,494,1,0,2,3
+2,5,32,Shadow,Flames,Oni,334,0,1,1,6
+3,1,33,Lightning,Blizzard,Jdaaab,685,2,0,4,4
+3,1,33,Lightning,Blizzard,Panda,128,0,0,0,2
+3,1,33,Blizzard,Lightning,MapleSurrup,644,2,1,2,5
+3,1,33,Blizzard,Lightning,Lad,445,1,0,2,3
+3,2,33,Lightning,Blizzard,Jdaaab,446,1,1,0,5
+3,2,33,Lightning,Blizzard,Panda,300,1,0,0,3
+3,2,33,Blizzard,Lightning,MapleSurrup,625,1,0,3,1
+3,2,33,Blizzard,Lightning,Lad,237,0,0,1,1
+3,3,33,Lightning,Blizzard,Jdaaab,874,3,0,3,5
+3,3,33,Lightning,Blizzard,Panda,331,0,0,1,2
+3,3,33,Blizzard,Lightning,MapleSurrup,656,2,0,2,5
+3,3,33,Blizzard,Lightning,Lad,270,0,0,1,3
+3,4,33,Lightning,Blizzard,Jdaaab,464,1,0,2,8
+3,4,33,Lightning,Blizzard,Panda,395,1,1,1,5
+3,4,33,Blizzard,Lightning,MapleSurrup,812,2,3,2,5
+3,4,33,Blizzard,Lightning,Lad,1109,4,2,5,5
+3,5,33,Lightning,Blizzard,Jdaaab,560,1,1,2,4
+3,5,33,Lightning,Blizzard,Panda,332,1,1,0,1
+3,5,33,Blizzard,Lightning,MapleSurrup,589,2,1,2,4
+3,5,33,Blizzard,Lightning,Lad,428,2,1,0,2
+3,1,34,Eclipse,Hurricanes,ballena,497,1,1,2,2
+3,1,34,Eclipse,Hurricanes,dog,471,2,0,1,5
+3,1,34,Hurricanes,Eclipse,Iguane Fabuleux,632,2,0,4,4
+3,1,34,Hurricanes,Eclipse,Jimmer,238,0,1,0,3
+3,2,34,Eclipse,Hurricanes,ballena,474,1,1,1,5
+3,2,34,Eclipse,Hurricanes,dog,459,2,0,1,3
+3,2,34,Hurricanes,Eclipse,Iguane Fabuleux,388,1,0,1,3
+3,2,34,Hurricanes,Eclipse,Jimmer,198,0,0,1,1
+3,3,34,Eclipse,Hurricanes,ballena,742,2,1,3,5
+3,3,34,Eclipse,Hurricanes,dog,892,3,1,5,4
+3,3,34,Hurricanes,Eclipse,Iguane Fabuleux,600,2,1,1,6
+3,3,34,Hurricanes,Eclipse,Jimmer,651,2,2,3,5
+3,4,34,Eclipse,Hurricanes,ballena,581,1,0,4,6
+3,4,34,Eclipse,Hurricanes,dog,210,0,0,1,4
+3,4,34,Hurricanes,Eclipse,Iguane Fabuleux,755,1,2,4,5
+3,4,34,Hurricanes,Eclipse,Jimmer,747,3,0,3,7
+3,5,34,Eclipse,Hurricanes,ballena,849,3,0,3,8
+3,5,34,Eclipse,Hurricanes,dog,176,0,0,0,3
+3,5,34,Hurricanes,Eclipse,Iguane Fabuleux,684,2,2,3,4
+3,5,34,Hurricanes,Eclipse,Jimmer,620,2,2,1,4
+3,1,35,Wolves,Foxes,Zack,647,2,1,2,6
+3,1,35,Wolves,Foxes,Kou,501,2,0,1,6
+3,1,35,Foxes,Wolves,ohmeon,646,2,1,3,4
+3,1,35,Foxes,Wolves,Blazed,662,1,2,4,3
+3,2,35,Wolves,Foxes,Zack,729,2,2,1,9
+3,2,35,Wolves,Foxes,Kou,516,2,1,1,5
+3,2,35,Foxes,Wolves,ohmeon,875,2,3,3,3
+3,2,35,Foxes,Wolves,Blazed,873,3,1,3,4
+3,3,35,Wolves,Foxes,Zack,508,2,2,0,4
+3,3,35,Wolves,Foxes,Kou,817,3,2,1,6
+3,3,35,Foxes,Wolves,ohmeon,270,1,0,0,1
+3,3,35,Foxes,Wolves,Blazed,543,0,1,4,2
+3,4,35,Wolves,Foxes,Zack,1173,6,3,0,13
+3,4,35,Wolves,Foxes,Kou,844,3,4,1,8
+3,4,35,Foxes,Wolves,ohmeon,425,0,1,3,1
+3,4,35,Foxes,Wolves,Blazed,593,1,0,5,1
+3,5,35,Wolves,Foxes,Zack,749,4,1,0,6
+3,5,35,Wolves,Foxes,Kou,398,1,2,1,3
+3,5,35,Foxes,Wolves,ohmeon,403,2,0,1,3
+3,5,35,Foxes,Wolves,Blazed,336,1,0,1,1
+3,1,36,Puffins,Sabres,Uorodin,686,3,0,2,4
+3,1,36,Puffins,Sabres,Bolio,549,0,2,3,1
+3,1,36,Sabres,Puffins,Grizz1y,588,2,0,1,4
+3,1,36,Sabres,Puffins,Giant,438,0,2,2,2
+3,2,36,Puffins,Sabres,Uorodin,303,0,0,2,1
+3,2,36,Puffins,Sabres,Bolio,377,0,0,4,1
+3,2,36,Sabres,Puffins,Grizz1y,545,2,0,1,5
+3,2,36,Sabres,Puffins,Giant,281,0,1,1,5
+3,3,36,Puffins,Sabres,Uorodin,644,2,2,2,5
+3,3,36,Puffins,Sabres,Bolio,715,3,1,1,7
+3,3,36,Sabres,Puffins,Grizz1y,510,0,0,4,3
+3,3,36,Sabres,Puffins,Giant,336,1,0,1,3
+3,4,36,Puffins,Sabres,Uorodin,367,1,0,1,3
+3,4,36,Puffins,Sabres,Bolio,410,0,1,3,2
+3,4,36,Sabres,Puffins,Grizz1y,654,3,0,1,3
+3,4,36,Sabres,Puffins,Giant,611,2,2,1,6
+3,5,36,Puffins,Sabres,Uorodin,646,3,1,1,5
+3,5,36,Puffins,Sabres,Bolio,778,3,3,0,6
+3,5,36,Sabres,Puffins,Grizz1y,591,2,1,2,4
+3,5,36,Sabres,Puffins,Giant,454,1,2,2,0
+3,1,37,Hive,Aviators,Toonifisch,798,3,1,4,6
+3,1,37,Hive,Aviators,CashioC,615,2,3,1,4
+3,1,37,Aviators,Hive,Icey6,550,2,0,2,4
+3,1,37,Aviators,Hive,Jdubbz,216,0,1,1,4
+3,2,37,Hive,Aviators,Toonifisch,320,1,0,1,1
+3,2,37,Hive,Aviators,CashioC,328,0,1,1,4
+3,2,37,Aviators,Hive,Icey6,490,2,0,2,3
+3,2,37,Aviators,Hive,Jdubbz,418,1,2,0,5
+3,3,37,Hive,Aviators,Toonifisch,210,0,0,0,1
+3,3,37,Hive,Aviators,CashioC,402,1,0,1,3
+3,3,37,Aviators,Hive,Icey6,621,2,2,1,4
+3,3,37,Aviators,Hive,Jdubbz,579,2,1,2,3
+3,4,37,Hive,Aviators,Toonifisch,361,0,0,3,1
+3,4,37,Hive,Aviators,CashioC,446,0,0,2,4
+3,4,37,Aviators,Hive,Icey6,412,1,0,1,6
+3,4,37,Aviators,Hive,Jdubbz,461,1,0,3,2
+3,5,37,Hive,Aviators,Toonifisch,538,1,1,0,5
+3,5,37,Hive,Aviators,CashioC,790,1,1,5,6
+3,5,37,Aviators,Hive,Icey6,950,3,0,5,7
+3,5,37,Aviators,Hive,Jdubbz,556,0,2,3,4
+3,1,38,Ducks,Hawks,Seanner,780,3,2,1,6
+3,1,38,Ducks,Hawks,BlueMars2,524,2,1,0,3
+3,1,38,Hawks,Ducks,GodraciR,482,2,0,2,4
+3,1,38,Hawks,Ducks,uh steve,268,0,0,1,0
+3,2,38,Ducks,Hawks,Seanner,505,0,1,4,1
+3,2,38,Ducks,Hawks,BlueMars2,510,1,0,3,5
+3,2,38,Hawks,Ducks,GodraciR,340,0,1,2,5
+3,2,38,Hawks,Ducks,uh steve,548,2,0,2,4
+3,3,38,Ducks,Hawks,Seanner,965,4,3,2,11
+3,3,38,Ducks,Hawks,BlueMars2,615,3,1,0,5
+3,3,38,Hawks,Ducks,GodraciR,152,0,0,1,1
+3,3,38,Hawks,Ducks,uh steve,479,0,0,5,3
+3,4,38,Ducks,Hawks,Seanner,903,4,2,2,7
+3,4,38,Ducks,Hawks,BlueMars2,645,2,4,0,8
+3,4,38,Hawks,Ducks,GodraciR,553,1,1,4,2
+3,4,38,Hawks,Ducks,uh steve,546,2,0,3,2
+3,5,38,Ducks,Hawks,Seanner,618,2,1,2,5
+3,5,38,Ducks,Hawks,BlueMars2,583,2,1,1,3
+3,5,38,Hawks,Ducks,GodraciR,476,1,1,2,2
+3,5,38,Hawks,Ducks,uh steve,571,2,0,2,4
+3,1,39,Spartans,Express,Spork,751,2,0,4,5
+3,1,39,Spartans,Express,Letsgobluh,324,0,1,2,3
+3,1,39,Express,Spartans,Mattybananas,516,2,1,1,5
+3,1,39,Express,Spartans,GOYO,514,1,2,2,5
+3,2,39,Spartans,Express,Spork,338,0,2,1,4
+3,2,39,Spartans,Express,Letsgobluh,632,3,0,3,4
+3,2,39,Express,Spartans,Mattybananas,630,2,2,1,7
+3,2,39,Express,Spartans,GOYO,418,2,1,1,4
+3,3,39,Spartans,Express,Spork,436,1,1,2,3
+3,3,39,Spartans,Express,Letsgobluh,696,1,1,4,3
+3,3,39,Express,Spartans,Mattybananas,787,3,0,3,5
+3,3,39,Express,Spartans,GOYO,208,0,0,1,2
+3,4,39,Spartans,Express,Spork,438,1,1,2,3
+3,4,39,Spartans,Express,Letsgobluh,520,1,0,4,1
+3,4,39,Express,Spartans,Mattybananas,470,2,0,1,6
+3,4,39,Express,Spartans,GOYO,327,1,0,1,7
+3,5,39,Spartans,Express,Spork,619,1,1,2,5
+3,5,39,Spartans,Express,Letsgobluh,548,2,1,1,4
+3,5,39,Express,Spartans,Mattybananas,617,1,1,2,4
+3,5,39,Express,Spartans,GOYO,396,1,1,1,3
+3,1,40,Jets,Knights,Plumato,252,0,0,2,3
+3,1,40,Jets,Knights,Unborn,198,0,0,1,2
+3,1,40,Knights,Jets,oogga,870,4,1,3,7
+3,1,40,Knights,Jets,TosCrazy,528,2,2,1,4
+3,2,40,Jets,Knights,Plumato,692,2,4,2,2
+3,2,40,Jets,Knights,Unborn,962,4,2,3,6
+3,2,40,Knights,Jets,oogga,959,5,2,1,8
+3,2,40,Knights,Jets,TosCrazy,814,3,5,0,7
+3,3,40,Jets,Knights,Plumato,166,0,0,0,1
+3,3,40,Jets,Knights,Unborn,691,4,0,0,8
+3,3,40,Knights,Jets,oogga,1116,5,3,2,5
+3,3,40,Knights,Jets,TosCrazy,662,3,1,2,3
+3,4,40,Jets,Knights,Plumato,438,2,0,1,6
+3,4,40,Jets,Knights,Unborn,499,1,1,2,3
+3,4,40,Knights,Jets,oogga,320,0,0,2,3
+3,4,40,Knights,Jets,TosCrazy,230,0,0,2,2
+3,5,40,Jets,Knights,Plumato,435,1,1,2,1
+3,5,40,Jets,Knights,Unborn,422,1,1,2,6
+3,5,40,Knights,Jets,oogga,500,1,1,1,5
+3,5,40,Knights,Jets,TosCrazy,456,2,1,1,2
+3,1,41,Rhinos,Bears,Korluss,430,0,2,1,3
+3,1,41,Rhinos,Bears,hiroH,630,2,0,2,5
+3,1,41,Bears,Rhinos,KILT,394,1,0,0,4
+3,1,41,Bears,Rhinos,Koalemos,453,0,0,3,2
+3,2,41,Rhinos,Bears,Korluss,515,2,0,2,2
+3,2,41,Rhinos,Bears,hiroH,268,0,2,0,4
+3,2,41,Bears,Rhinos,KILT,1029,5,1,2,8
+3,2,41,Bears,Rhinos,Koalemos,584,1,3,2,3
+3,3,41,Rhinos,Bears,Korluss,465,1,1,2,5
+3,3,41,Rhinos,Bears,hiroH,424,1,1,1,2
+3,3,41,Bears,Rhinos,KILT,348,0,1,2,2
+3,3,41,Bears,Rhinos,Koalemos,429,1,0,1,6
+3,4,41,Rhinos,Bears,Korluss,426,2,0,1,4
+3,4,41,Rhinos,Bears,hiroH,384,0,2,2,6
+3,4,41,Bears,Rhinos,KILT,664,2,0,4,4
+3,4,41,Bears,Rhinos,Koalemos,332,2,0,0,4
+3,5,41,Rhinos,Bears,Korluss,725,1,3,5,1
+3,5,41,Rhinos,Bears,hiroH,787,3,0,4,5
+3,5,41,Bears,Rhinos,KILT,296,0,1,1,4
+3,5,41,Bears,Rhinos,Koalemos,520,2,0,1,10
+3,1,42,Outlaws,Pirates,Stovvadz,676,1,2,4,0
+3,1,42,Outlaws,Pirates,Lotty Lettuce,630,2,0,4,2
+3,1,42,Pirates,Outlaws,SirGamble,378,1,0,0,9
+3,1,42,Pirates,Outlaws,Taki,314,0,0,1,2
+3,2,42,Outlaws,Pirates,Stovvadz,543,3,0,1,6
+3,2,42,Outlaws,Pirates,Lotty Lettuce,480,1,2,1,4
+3,2,42,Pirates,Outlaws,SirGamble,423,0,0,3,1
+3,2,42,Pirates,Outlaws,Taki,569,1,0,3,3
+3,3,42,Outlaws,Pirates,Stovvadz,822,3,4,0,9
+3,3,42,Outlaws,Pirates,Lotty Lettuce,1026,5,3,0,8
+3,3,42,Pirates,Outlaws,SirGamble,509,1,0,4,1
+3,3,42,Pirates,Outlaws,Taki,677,1,1,5,3
+3,4,42,Outlaws,Pirates,Stovvadz,384,2,0,0,5
+3,4,42,Outlaws,Pirates,Lotty Lettuce,571,1,1,3,3
+3,4,42,Pirates,Outlaws,SirGamble,426,1,0,2,3
+3,4,42,Pirates,Outlaws,Taki,487,1,0,2,5
+3,5,42,Outlaws,Pirates,Stovvadz,521,1,4,1,3
+3,5,42,Outlaws,Pirates,Lotty Lettuce,1215,6,1,2,9
+3,5,42,Pirates,Outlaws,SirGamble,773,4,1,0,3
+3,5,42,Pirates,Outlaws,Taki,708,2,2,2,7
+3,1,43,Wizards,Comets,Smurf,265,0,0,1,3
+3,1,43,Wizards,Comets,isosolo,272,0,0,1,4
+3,1,43,Comets,Wizards,Erayne,524,2,0,2,3
+3,1,43,Comets,Wizards,Apple,754,1,1,4,2
+3,2,43,Wizards,Comets,Smurf,749,4,0,1,10
+3,2,43,Wizards,Comets,isosolo,449,1,3,0,5
+3,2,43,Comets,Wizards,Erayne,615,3,0,2,6
+3,2,43,Comets,Wizards,Apple,580,0,2,5,1
+3,3,43,Wizards,Comets,Smurf,545,1,2,1,9
+3,3,43,Wizards,Comets,isosolo,470,2,0,1,7
+3,3,43,Comets,Wizards,Erayne,915,3,0,6,4
+3,3,43,Comets,Wizards,Apple,585,2,0,3,2
+3,4,43,Wizards,Comets,Smurf,875,5,1,2,6
+3,4,43,Wizards,Comets,isosolo,718,2,2,3,6
+3,4,43,Comets,Wizards,Erayne,761,4,2,1,6
+3,4,43,Comets,Wizards,Apple,732,2,2,3,6
+3,5,43,Wizards,Comets,Smurf,805,5,0,0,11
+3,5,43,Wizards,Comets,isosolo,626,1,3,3,4
+3,5,43,Comets,Wizards,Erayne,616,3,0,2,6
+3,5,43,Comets,Wizards,Apple,741,2,1,5,2
+3,1,44,Demolition,Spectre,kccolts81,678,3,0,1,4
+3,1,44,Demolition,Spectre,ImBad,577,1,2,3,2
+3,1,44,Spectre,Demolition,We take Ls,378,1,0,0,4
+3,1,44,Spectre,Demolition,C^2,306,0,1,1,3
+3,2,44,Demolition,Spectre,kccolts81,679,3,2,1,5
+3,2,44,Demolition,Spectre,ImBad,698,2,1,3,2
+3,2,44,Spectre,Demolition,We take Ls,1006,5,1,2,10
+3,2,44,Spectre,Demolition,C^2,328,1,1,1,3
+3,3,44,Demolition,Spectre,kccolts81,713,2,0,4,2
+3,3,44,Demolition,Spectre,ImBad,316,0,2,0,2
+3,3,44,Spectre,Demolition,We take Ls,548,2,1,1,7
+3,3,44,Spectre,Demolition,C^2,404,1,1,0,4
+3,4,44,Demolition,Spectre,kccolts81,791,4,1,1,8
+3,4,44,Demolition,Spectre,ImBad,626,1,3,3,3
+3,4,44,Spectre,Demolition,We take Ls,643,3,1,0,7
+3,4,44,Spectre,Demolition,C^2,399,1,1,2,2
+3,5,44,Demolition,Spectre,kccolts81,282,1,0,0,2
+3,5,44,Demolition,Spectre,ImBad,672,2,1,3,2
+3,5,44,Spectre,Demolition,We take Ls,801,4,0,1,6
+3,5,44,Spectre,Demolition,C^2,274,0,2,0,2
+3,1,45,Tyrants,Bulls,Saucy.,597,1,0,2,5
+3,1,45,Tyrants,Bulls,Majik,573,1,0,3,3
+3,1,45,Bulls,Tyrants,BraidedAxe,723,2,1,3,2
+3,1,45,Bulls,Tyrants,RainbowNoms,617,1,1,2,6
+3,2,45,Tyrants,Bulls,Saucy.,464,1,2,1,3
+3,2,45,Tyrants,Bulls,Majik,534,2,1,1,4
+3,2,45,Bulls,Tyrants,BraidedAxe,470,1,1,1,1
+3,2,45,Bulls,Tyrants,RainbowNoms,508,1,1,2,3
+3,3,45,Tyrants,Bulls,Saucy.,762,3,0,3,5
+3,3,45,Tyrants,Bulls,Majik,908,3,1,5,4
+3,3,45,Bulls,Tyrants,BraidedAxe,472,2,0,1,7
+3,3,45,Bulls,Tyrants,RainbowNoms,364,1,1,0,5
+3,4,45,Tyrants,Bulls,Saucy.,513,1,1,3,4
+3,4,45,Tyrants,Bulls,Majik,396,2,0,1,4
+3,4,45,Bulls,Tyrants,BraidedAxe,833,2,3,2,6
+3,4,45,Bulls,Tyrants,RainbowNoms,788,4,0,3,5
+3,5,45,Tyrants,Bulls,Saucy.,471,2,0,1,3
+3,5,45,Tyrants,Bulls,Majik,491,1,0,3,3
+3,5,45,Bulls,Tyrants,BraidedAxe,738,3,1,2,5
+3,5,45,Bulls,Tyrants,RainbowNoms,501,1,3,1,3
+3,1,46,Dodgers,Elite,InanimateJ,356,1,0,1,2
+3,1,46,Dodgers,Elite,Whiffles,328,1,0,1,4
+3,1,46,Elite,Dodgers,Cearu,623,3,1,2,6
+3,1,46,Elite,Dodgers,El Diablo Rojo,859,4,1,2,5
+3,2,46,Dodgers,Elite,InanimateJ,166,0,0,0,5
+3,2,46,Dodgers,Elite,Whiffles,184,0,0,1,4
+3,2,46,Elite,Dodgers,Cearu,896,5,1,3,6
+3,2,46,Elite,Dodgers,El Diablo Rojo,1000,4,2,3,7
+3,3,46,Dodgers,Elite,InanimateJ,467,1,0,3,4
+3,3,46,Dodgers,Elite,Whiffles,445,1,0,2,4
+3,3,46,Elite,Dodgers,Cearu,863,2,3,3,6
+3,3,46,Elite,Dodgers,El Diablo Rojo,726,3,1,3,5
+3,4,46,Dodgers,Elite,InanimateJ,565,2,1,2,4
+3,4,46,Dodgers,Elite,Whiffles,530,2,0,2,6
+3,4,46,Elite,Dodgers,Cearu,689,3,1,2,6
+3,4,46,Elite,Dodgers,El Diablo Rojo,756,2,2,3,5
+3,5,46,Dodgers,Elite,InanimateJ,311,0,1,1,2
+3,5,46,Dodgers,Elite,Whiffles,452,1,0,2,3
+3,5,46,Elite,Dodgers,Cearu,1140,4,1,4,10
+3,5,46,Elite,Dodgers,El Diablo Rojo,565,2,3,0,4
+3,1,47,Sharks,Flames,Luke_Rocks,20,0,0,0,1
+3,1,47,Sharks,Flames,Twigler,20,0,0,0,1
+3,1,47,Flames,Sharks,Keltini,220,1,1,1,1
+3,1,47,Flames,Sharks,crossfire8255,220,1,1,1,1
+3,2,47,Sharks,Flames,Luke_Rocks,20,0,0,0,1
+3,2,47,Sharks,Flames,Twigler,20,0,0,0,1
+3,2,47,Flames,Sharks,Keltini,220,1,1,1,1
+3,2,47,Flames,Sharks,crossfire8255,220,1,1,1,1
+3,3,47,Sharks,Flames,Luke_Rocks,20,0,0,0,1
+3,3,47,Sharks,Flames,Twigler,20,0,0,0,1
+3,3,47,Flames,Sharks,Keltini,220,1,1,1,1
+3,3,47,Flames,Sharks,crossfire8255,220,1,1,1,1
+3,4,47,Sharks,Flames,Luke_Rocks,20,0,0,0,1
+3,4,47,Sharks,Flames,Twigler,20,0,0,0,1
+3,4,47,Flames,Sharks,Keltini,220,1,1,1,1
+3,4,47,Flames,Sharks,crossfire8255,220,1,1,1,1
+3,5,47,Sharks,Flames,Luke_Rocks,20,0,0,0,1
+3,5,47,Sharks,Flames,Twigler,20,0,0,0,1
+3,5,47,Flames,Sharks,Keltini,220,1,1,1,1
+3,5,47,Flames,Sharks,crossfire8255,220,1,1,1,1
+3,1,48,Pandas,Shadow,dan720,614,1,2,3,4
+3,1,48,Pandas,Shadow,Red Line,918,3,1,4,6
+3,1,48,Shadow,Pandas,Oni,552,1,1,2,6
+3,1,48,Shadow,Pandas,UnearthlyLegend,372,1,0,1,2
+3,2,48,Pandas,Shadow,dan720,269,0,0,3,1
+3,2,48,Pandas,Shadow,Red Line,379,0,0,2,1
+3,2,48,Shadow,Pandas,Oni,278,1,0,0,4
+3,2,48,Shadow,Pandas,UnearthlyLegend,363,0,1,2,3
+3,3,48,Pandas,Shadow,dan720,650,0,2,6,3
+3,3,48,Pandas,Shadow,Red Line,681,3,0,2,6
+3,3,48,Shadow,Pandas,Oni,434,1,0,2,5
+3,3,48,Shadow,Pandas,UnearthlyLegend,466,0,1,2,6
+3,4,48,Pandas,Shadow,dan720,531,1,1,3,2
+3,4,48,Pandas,Shadow,Red Line,592,2,1,1,6
+3,4,48,Shadow,Pandas,Oni,286,0,0,2,2
+3,4,48,Shadow,Pandas,UnearthlyLegend,238,0,0,2,3
+3,5,48,Pandas,Shadow,dan720,467,0,1,3,1
+3,5,48,Pandas,Shadow,Red Line,618,2,0,2,6
+3,5,48,Shadow,Pandas,Oni,523,1,0,2,6
+3,5,48,Shadow,Pandas,UnearthlyLegend,238,0,0,1,0
+4,1,49,Foxes,Eclipse,henrY,1165,3,1,4,5
+4,1,49,Foxes,Eclipse,ohmeon,587,1,0,5,2
+4,1,49,Eclipse,Foxes,Krops,710,1,2,1,6
+4,1,49,Eclipse,Foxes,Other Ninja,728,2,1,3,7
+4,2,49,Foxes,Eclipse,henrY,411,0,0,3,3
+4,2,49,Foxes,Eclipse,ohmeon,324,0,0,2,5
+4,2,49,Eclipse,Foxes,Krops,540,1,1,2,3
+4,2,49,Eclipse,Foxes,Other Ninja,447,1,0,2,7
+4,3,49,Foxes,Eclipse,henrY,675,2,3,1,5
+4,3,49,Foxes,Eclipse,ohmeon,673,3,1,2,5
+4,3,49,Eclipse,Foxes,Krops,356,1,0,1,3
+4,3,49,Eclipse,Foxes,Other Ninja,560,2,1,2,3
+4,4,49,Foxes,Eclipse,henrY,770,3,1,2,6
+4,4,49,Foxes,Eclipse,ohmeon,540,2,2,0,9
+4,4,49,Eclipse,Foxes,Krops,534,0,0,5,2
+4,4,49,Eclipse,Foxes,Other Ninja,345,0,0,3,1
+4,5,49,Foxes,Eclipse,henrY,284,0,0,1,3
+4,5,49,Foxes,Eclipse,ohmeon,116,0,0,0,3
+4,5,49,Eclipse,Foxes,Krops,460,1,0,3,1
+4,5,49,Eclipse,Foxes,Other Ninja,556,2,0,2,4
+4,1,50,Sabres,Lightning,Grizz1y,739,3,1,2,6
+4,1,50,Sabres,Lightning,SmilezRL,537,1,3,0,6
+4,1,50,Lightning,Sabres,Dtr,673,2,0,3,6
+4,1,50,Lightning,Sabres,Ajax,579,0,2,4,2
+4,2,50,Sabres,Lightning,Grizz1y,544,1,1,3,3
+4,2,50,Sabres,Lightning,SmilezRL,585,2,0,2,6
+4,2,50,Lightning,Sabres,Dtr,551,0,0,4,4
+4,2,50,Lightning,Sabres,Ajax,230,0,0,2,2
+4,3,50,Sabres,Lightning,Grizz1y,614,3,0,1,5
+4,3,50,Sabres,Lightning,SmilezRL,785,2,2,4,5
+4,3,50,Lightning,Sabres,Dtr,515,2,0,1,7
+4,3,50,Lightning,Sabres,Ajax,282,0,1,0,5
+4,4,50,Sabres,Lightning,Grizz1y,412,2,0,1,7
+4,4,50,Sabres,Lightning,SmilezRL,410,1,1,1,6
+4,4,50,Lightning,Sabres,Dtr,423,0,0,4,2
+4,4,50,Lightning,Sabres,Ajax,494,1,0,4,2
+4,5,50,Sabres,Lightning,Grizz1y,623,3,0,2,5
+4,5,50,Sabres,Lightning,SmilezRL,353,0,1,2,1
+4,5,50,Lightning,Sabres,Dtr,264,0,0,2,2
+4,5,50,Lightning,Sabres,Ajax,394,2,0,0,5
+4,1,51,Blizzard,Puffins,Lad,549,3,0,1,4
+4,1,51,Blizzard,Puffins,Barry Allen,491,0,3,1,5
+4,1,51,Puffins,Blizzard,Y-Low,666,1,3,2,4
+4,1,51,Puffins,Blizzard,KittenDuck,567,3,0,1,3
+4,2,51,Blizzard,Puffins,Lad,415,1,1,0,4
+4,2,51,Blizzard,Puffins,Barry Allen,416,1,1,1,4
+4,2,51,Puffins,Blizzard,Y-Low,218,0,1,0,0
+4,2,51,Puffins,Blizzard,KittenDuck,485,1,0,3,3
+4,3,51,Blizzard,Puffins,Lad,421,1,0,2,5
+4,3,51,Blizzard,Puffins,Barry Allen,264,0,0,0,7
+4,3,51,Puffins,Blizzard,Y-Low,904,3,1,4,4
+4,3,51,Puffins,Blizzard,KittenDuck,586,1,2,2,3
+4,4,51,Blizzard,Puffins,Lad,426,2,0,0,4
+4,4,51,Blizzard,Puffins,Barry Allen,531,1,1,2,4
+4,4,51,Puffins,Blizzard,Y-Low,264,0,1,1,0
+4,4,51,Puffins,Blizzard,KittenDuck,555,1,0,3,3
+4,5,51,Blizzard,Puffins,Lad,649,2,2,1,3
+4,5,51,Blizzard,Puffins,Barry Allen,820,2,1,5,9
+4,5,51,Puffins,Blizzard,Y-Low,579,1,2,3,3
+4,5,51,Puffins,Blizzard,KittenDuck,687,2,1,3,6
+4,1,52,Hurricanes,Wolves,Jab,346,1,0,1,2
+4,1,52,Hurricanes,Wolves,Jimmer,324,1,0,1,5
+4,1,52,Wolves,Hurricanes,Haimgame,240,0,1,0,1
+4,1,52,Wolves,Hurricanes,Kou,792,4,0,2,6
+4,2,52,Hurricanes,Wolves,Jab,474,2,0,2,3
+4,2,52,Hurricanes,Wolves,Jimmer,384,0,2,2,2
+4,2,52,Wolves,Hurricanes,Haimgame,489,2,0,2,5
+4,2,52,Wolves,Hurricanes,Kou,447,1,1,1,4
+4,3,52,Hurricanes,Wolves,Jab,1006,4,1,3,9
+4,3,52,Hurricanes,Wolves,Jimmer,489,1,2,2,1
+4,3,52,Wolves,Hurricanes,Haimgame,533,2,0,1,6
+4,3,52,Wolves,Hurricanes,Kou,403,0,2,2,2
+4,4,52,Hurricanes,Wolves,Jab,477,2,0,2,5
+4,4,52,Hurricanes,Wolves,Jimmer,591,1,1,4,4
+4,4,52,Wolves,Hurricanes,Haimgame,1052,3,3,5,5
+4,4,52,Wolves,Hurricanes,Kou,655,3,2,0,6
+4,5,52,Hurricanes,Wolves,Jab,306,0,1,1,5
+4,5,52,Hurricanes,Wolves,Jimmer,665,2,0,6,3
+4,5,52,Wolves,Hurricanes,Haimgame,765,2,2,4,5
+4,5,52,Wolves,Hurricanes,Kou,661,4,0,0,7
+4,1,53,Express,Ducks,Gumbachi,795,4,1,1,6
+4,1,53,Express,Ducks,Pops,579,1,3,1,6
+4,1,53,Ducks,Express,Jack Colt,649,3,1,2,4
+4,1,53,Ducks,Express,JKmadness,622,1,2,2,1
+4,2,53,Express,Ducks,Gumbachi,534,2,0,1,7
+4,2,53,Express,Ducks,Pops,498,1,1,2,3
+4,2,53,Ducks,Express,Jack Colt,394,1,1,1,3
+4,2,53,Ducks,Express,JKmadness,450,1,1,2,3
+4,3,53,Express,Ducks,Gumbachi,801,4,1,1,8
+4,3,53,Express,Ducks,Pops,502,1,2,1,3
+4,3,53,Ducks,Express,Jack Colt,595,1,0,5,1
+4,3,53,Ducks,Express,JKmadness,481,1,0,2,4
+4,4,53,Express,Ducks,Gumbachi,150,1,1,1,1
+4,4,53,Express,Ducks,Pops,150,1,1,1,1
+4,4,53,Ducks,Express,Jack Colt,50,0,0,0,1
+4,4,53,Ducks,Express,JKmadness,50,0,0,0,1
+4,5,53,Express,Ducks,Gumbachi,150,1,1,1,1
+4,5,53,Express,Ducks,Pops,150,1,1,1,1
+4,5,53,Ducks,Express,Jack Colt,50,0,0,0,1
+4,5,53,Ducks,Express,JKmadness,50,0,0,0,1
+4,1,54,Knights,Hive,oogga,755,3,0,2,4
+4,1,54,Knights,Hive,Achieves,384,0,2,2,2
+4,1,54,Hive,Knights,Anömäly,586,0,2,3,3
+4,1,54,Hive,Knights,Zuberite,376,2,0,0,4
+4,2,54,Knights,Hive,oogga,934,4,1,3,9
+4,2,54,Knights,Hive,Achieves,426,2,1,1,6
+4,2,54,Hive,Knights,Anömäly,632,1,1,4,5
+4,2,54,Hive,Knights,Zuberite,375,1,0,2,4
+4,3,54,Knights,Hive,oogga,418,2,0,1,2
+4,3,54,Knights,Hive,Achieves,500,1,1,2,2
+4,3,54,Hive,Knights,Anömäly,266,0,0,0,5
+4,3,54,Hive,Knights,Zuberite,266,0,0,1,1
+4,4,54,Knights,Hive,oogga,292,1,2,0,3
+4,4,54,Knights,Hive,Achieves,547,3,0,1,5
+4,4,54,Hive,Knights,Anömäly,200,2,0,0,0
+4,4,54,Hive,Knights,Zuberite,173,0,0,1,1
+4,5,54,Knights,Hive,oogga,150,1,1,1,1
+4,5,54,Knights,Hive,Achieves,150,1,1,1,1
+4,5,54,Hive,Knights,Anömäly,50,0,0,0,1
+4,5,54,Hive,Knights,Zuberite,50,0,0,0,1
+4,1,55,Aviators,Jets,Vitali,576,2,0,1,3
+4,1,55,Aviators,Jets,Jdubbz,394,0,1,3,2
+4,1,55,Jets,Aviators,Unborn,472,2,0,1,4
+4,1,55,Jets,Aviators,Plumato,372,1,0,1,4
+4,2,55,Aviators,Jets,Vitali,1148,6,1,2,11
+4,2,55,Aviators,Jets,Jdubbz,679,2,5,0,4
+4,2,55,Jets,Aviators,Unborn,544,1,1,3,3
+4,2,55,Jets,Aviators,Plumato,733,2,1,3,3
+4,3,55,Aviators,Jets,Vitali,515,2,0,2,4
+4,3,55,Aviators,Jets,Jdubbz,536,1,2,2,3
+4,3,55,Jets,Aviators,Unborn,228,0,0,1,4
+4,3,55,Jets,Aviators,Plumato,275,0,0,1,1
+4,4,55,Aviators,Jets,Vitali,368,0,1,2,1
+4,4,55,Aviators,Jets,Jdubbz,665,2,0,2,7
+4,4,55,Jets,Aviators,Unborn,623,3,1,1,6
+4,4,55,Jets,Aviators,Plumato,652,2,0,3,6
+4,5,55,Aviators,Jets,Vitali,806,3,2,2,9
+4,5,55,Aviators,Jets,Jdubbz,856,4,0,3,6
+4,5,55,Jets,Aviators,Unborn,341,1,0,1,2
+4,5,55,Jets,Aviators,Plumato,669,0,1,5,5
+4,1,56,Hawks,Spartans,Zayo,678,3,1,1,8
+4,1,56,Hawks,Spartans,uh steve,591,2,2,1,5
+4,1,56,Spartans,Hawks,Sinnicole,838,2,2,3,5
+4,1,56,Spartans,Hawks,Saucey,601,2,1,3,2
+4,2,56,Hawks,Spartans,Zayo,403,1,0,2,3
+4,2,56,Hawks,Spartans,uh steve,280,0,0,1,1
+4,2,56,Spartans,Hawks,Sinnicole,1015,5,0,3,7
+4,2,56,Spartans,Hawks,Saucey,424,1,2,0,4
+4,3,56,Hawks,Spartans,Zayo,465,0,1,3,4
+4,3,56,Hawks,Spartans,uh steve,549,1,0,4,3
+4,3,56,Spartans,Hawks,Sinnicole,613,1,3,1,5
+4,3,56,Spartans,Hawks,Saucey,918,4,1,3,7
+4,4,56,Hawks,Spartans,Zayo,668,2,1,3,5
+4,4,56,Hawks,Spartans,uh steve,577,3,0,1,4
+4,4,56,Spartans,Hawks,Sinnicole,584,2,1,2,4
+4,4,56,Spartans,Hawks,Saucey,655,1,1,3,4
+4,5,56,Hawks,Spartans,Zayo,595,1,1,3,4
+4,5,56,Hawks,Spartans,uh steve,441,2,0,2,4
+4,5,56,Spartans,Hawks,Sinnicole,310,0,1,1,5
+4,5,56,Spartans,Hawks,Saucey,451,1,0,3,2
+4,1,57,Comets,Outlaws,Tunloink,425,1,0,1,4
+4,1,57,Comets,Outlaws,Apple,256,0,0,1,1
+4,1,57,Outlaws,Comets,Lotty Lettuce,439,0,0,4,4
+4,1,57,Outlaws,Comets,Will,138,0,0,0,0
+4,2,57,Comets,Outlaws,Tunloink,477,0,1,2,5
+4,2,57,Comets,Outlaws,Apple,440,2,0,1,5
+4,2,57,Outlaws,Comets,Lotty Lettuce,386,0,0,3,1
+4,2,57,Outlaws,Comets,Will,504,0,0,4,2
+4,3,57,Comets,Outlaws,Tunloink,373,0,0,1,6
+4,3,57,Comets,Outlaws,Apple,425,1,0,1,3
+4,3,57,Outlaws,Comets,Lotty Lettuce,865,2,0,4,4
+4,3,57,Outlaws,Comets,Will,453,0,2,1,2
+4,4,57,Comets,Outlaws,Tunloink,442,1,1,0,7
+4,4,57,Comets,Outlaws,Apple,601,2,0,2,5
+4,4,57,Outlaws,Comets,Lotty Lettuce,597,2,0,3,2
+4,4,57,Outlaws,Comets,Will,755,2,1,4,4
+4,5,57,Comets,Outlaws,Tunloink,372,1,0,1,4
+4,5,57,Comets,Outlaws,Apple,271,0,0,2,2
+4,5,57,Outlaws,Comets,Lotty Lettuce,733,1,1,5,3
+4,5,57,Outlaws,Comets,Will,388,1,1,1,1
+4,1,58,Spectre,Rhinos,snip,851,5,0,2,5
+4,1,58,Spectre,Rhinos,We take Ls,556,2,2,1,2
+4,1,58,Rhinos,Spectre,hiroH,208,0,0,0,1
+4,1,58,Rhinos,Spectre,Giraffegirl,116,0,0,0,4
+4,2,58,Spectre,Rhinos,snip,817,3,3,1,8
+4,2,58,Spectre,Rhinos,We take Ls,786,3,3,0,4
+4,2,58,Rhinos,Spectre,hiroH,490,1,0,3,1
+4,2,58,Rhinos,Spectre,Giraffegirl,433,1,1,2,1
+4,3,58,Spectre,Rhinos,snip,395,0,3,0,4
+4,3,58,Spectre,Rhinos,We take Ls,617,4,0,0,4
+4,3,58,Rhinos,Spectre,hiroH,378,1,1,0,2
+4,3,58,Rhinos,Spectre,Giraffegirl,497,1,1,3,1
+4,4,58,Spectre,Rhinos,snip,393,1,1,2,1
+4,4,58,Spectre,Rhinos,We take Ls,628,2,0,4,1
+4,4,58,Rhinos,Spectre,hiroH,200,0,0,0,6
+4,4,58,Rhinos,Spectre,Giraffegirl,206,0,0,0,2
+4,5,58,Spectre,Rhinos,snip,1440,6,8,0,10
+4,5,58,Spectre,Rhinos,We take Ls,1388,8,3,1,9
+4,5,58,Rhinos,Spectre,hiroH,379,1,0,2,2
+4,5,58,Rhinos,Spectre,Giraffegirl,244,0,0,2,0
+4,1,59,Bears,Demolition,Mage,622,2,0,3,3
+4,1,59,Bears,Demolition,KILT,495,0,2,3,4
+4,1,59,Demolition,Bears,kccolts81,723,3,0,2,4
+4,1,59,Demolition,Bears,Seven,498,0,3,2,6
+4,2,59,Bears,Demolition,Mage,318,0,1,1,3
+4,2,59,Bears,Demolition,KILT,368,1,0,1,2
+4,2,59,Demolition,Bears,kccolts81,580,2,1,1,3
+4,2,59,Demolition,Bears,Seven,586,2,1,2,4
+4,3,59,Bears,Demolition,Mage,394,1,2,0,2
+4,3,59,Bears,Demolition,KILT,797,3,0,3,5
+4,3,59,Demolition,Bears,kccolts81,331,0,1,1,2
+4,3,59,Demolition,Bears,Seven,486,1,0,2,3
+4,4,59,Bears,Demolition,Mage,392,1,0,2,1
+4,4,59,Bears,Demolition,KILT,544,1,0,3,4
+4,4,59,Demolition,Bears,kccolts81,754,3,1,2,5
+4,4,59,Demolition,Bears,Seven,484,1,1,1,5
+4,5,59,Bears,Demolition,Mage,439,1,0,2,3
+4,5,59,Bears,Demolition,KILT,206,0,0,0,1
+4,5,59,Demolition,Bears,kccolts81,366,1,1,1,2
+4,5,59,Demolition,Bears,Seven,485,1,0,2,2
+4,1,60,Pirates,Wizards,Taki,486,2,0,1,4
+4,1,60,Pirates,Wizards,Cali,363,1,0,1,3
+4,1,60,Wizards,Pirates,Smurf,452,1,0,2,3
+4,1,60,Wizards,Pirates,JustTuck,362,1,0,1,2
+4,2,60,Pirates,Wizards,Taki,354,1,0,1,5
+4,2,60,Pirates,Wizards,Cali,402,1,0,1,4
+4,2,60,Wizards,Pirates,Smurf,774,2,2,3,3
+4,2,60,Wizards,Pirates,JustTuck,630,2,2,2,5
+4,3,60,Pirates,Wizards,Taki,570,0,1,3,4
+4,3,60,Pirates,Wizards,Cali,723,3,0,1,9
+4,3,60,Wizards,Pirates,Smurf,662,1,0,4,3
+4,3,60,Wizards,Pirates,JustTuck,728,1,1,4,5
+4,4,60,Pirates,Wizards,Taki,800,2,4,2,6
+4,4,60,Pirates,Wizards,Cali,745,4,1,1,5
+4,4,60,Wizards,Pirates,Smurf,688,2,2,2,8
+4,4,60,Wizards,Pirates,JustTuck,637,2,2,3,0
+4,5,60,Pirates,Wizards,Taki,375,0,0,2,5
+4,5,60,Pirates,Wizards,Cali,311,0,0,1,2
+4,5,60,Wizards,Pirates,Smurf,425,0,0,3,3
+4,5,60,Wizards,Pirates,JustTuck,592,2,0,1,3
+4,1,61,Flames,Dodgers,Keltini,905,4,0,1,6
+4,1,61,Flames,Dodgers,Reverse Fridge,555,0,3,2,3
+4,1,61,Dodgers,Flames,bits,1059,4,1,4,7
+4,1,61,Dodgers,Flames,Whiffles,552,1,2,2,2
+4,2,61,Flames,Dodgers,Keltini,653,1,2,2,9
+4,2,61,Flames,Dodgers,Reverse Fridge,444,2,0,1,4
+4,2,61,Dodgers,Flames,bits,529,1,0,3,4
+4,2,61,Dodgers,Flames,Whiffles,300,0,0,2,3
+4,3,61,Flames,Dodgers,Keltini,623,1,1,3,6
+4,3,61,Flames,Dodgers,Reverse Fridge,379,2,0,0,3
+4,3,61,Dodgers,Flames,bits,398,1,0,1,4
+4,3,61,Dodgers,Flames,Whiffles,417,1,0,3,3
+4,4,61,Flames,Dodgers,Keltini,787,1,2,4,1
+4,4,61,Flames,Dodgers,Reverse Fridge,564,2,0,3,4
+4,4,61,Dodgers,Flames,bits,372,0,1,1,4
+4,4,61,Dodgers,Flames,Whiffles,210,1,0,1,5
+4,5,61,Flames,Dodgers,Keltini,416,2,0,0,4
+4,5,61,Flames,Dodgers,Reverse Fridge,198,0,1,1,2
+4,5,61,Dodgers,Flames,bits,419,1,1,1,2
+4,5,61,Dodgers,Flames,Whiffles,571,2,1,2,3
+4,1,62,Shadow,Tyrants,SillyBunny,513,2,0,2,5
+4,1,62,Shadow,Tyrants,UnearthlyLegend,429,0,2,2,1
+4,1,62,Tyrants,Shadow,Jakester,676,3,0,1,5
+4,1,62,Tyrants,Shadow,Majik,549,1,2,2,2
+4,2,62,Shadow,Tyrants,SillyBunny,406,2,0,0,8
+4,2,62,Shadow,Tyrants,UnearthlyLegend,248,1,1,0,3
+4,2,62,Tyrants,Shadow,Jakester,725,2,2,3,4
+4,2,62,Tyrants,Shadow,Majik,672,2,1,4,2
+4,3,62,Shadow,Tyrants,SillyBunny,481,1,1,2,3
+4,3,62,Shadow,Tyrants,UnearthlyLegend,452,2,1,1,6
+4,3,62,Tyrants,Shadow,Jakester,519,1,3,1,6
+4,3,62,Tyrants,Shadow,Majik,727,3,1,3,4
+4,4,62,Shadow,Tyrants,SillyBunny,252,0,1,0,7
+4,4,62,Shadow,Tyrants,UnearthlyLegend,254,1,0,0,3
+4,4,62,Tyrants,Shadow,Jakester,579,2,1,2,3
+4,4,62,Tyrants,Shadow,Majik,861,3,2,4,3
+4,5,62,Shadow,Tyrants,SillyBunny,530,2,0,1,6
+4,5,62,Shadow,Tyrants,UnearthlyLegend,501,0,2,3,6
+4,5,62,Tyrants,Shadow,Jakester,1005,4,0,5,5
+4,5,62,Tyrants,Shadow,Majik,1042,3,3,4,8
+4,1,63,Bulls,Pandas,Mike MMI,613,2,0,3,2
+4,1,63,Bulls,Pandas,RainbowNoms,485,1,0,2,3
+4,1,63,Pandas,Bulls,dan720,681,2,1,2,6
+4,1,63,Pandas,Bulls,Not Juice,535,3,1,0,3
+4,2,63,Bulls,Pandas,Mike MMI,182,0,1,0,0
+4,2,63,Bulls,Pandas,RainbowNoms,774,2,0,5,3
+4,2,63,Pandas,Bulls,dan720,792,3,2,1,8
+4,2,63,Pandas,Bulls,Not Juice,625,3,1,0,5
+4,3,63,Bulls,Pandas,Mike MMI,418,1,0,2,2
+4,3,63,Bulls,Pandas,RainbowNoms,698,1,1,5,5
+4,3,63,Pandas,Bulls,dan720,441,1,0,1,5
+4,3,63,Pandas,Bulls,Not Juice,462,0,0,4,4
+4,4,63,Bulls,Pandas,Mike MMI,663,3,2,1,6
+4,4,63,Bulls,Pandas,RainbowNoms,511,2,1,1,6
+4,4,63,Pandas,Bulls,dan720,567,2,2,1,4
+4,4,63,Pandas,Bulls,Not Juice,610,2,0,3,2
+4,5,63,Bulls,Pandas,Mike MMI,507,1,1,2,4
+4,5,63,Bulls,Pandas,RainbowNoms,675,2,1,2,7
+4,5,63,Pandas,Bulls,dan720,662,2,1,3,4
+4,5,63,Pandas,Bulls,Not Juice,727,2,2,2,4
+4,1,64,Elite,Sharks,Lex,1023,5,1,2,4
+4,1,64,Elite,Sharks,TyTy,586,2,2,1,6
+4,1,64,Sharks,Elite,W/\\/E,1002,5,1,3,7
+4,1,64,Sharks,Elite,Luke_Rocks,465,1,1,1,4
+4,2,64,Elite,Sharks,Lex,598,1,1,4,3
+4,2,64,Elite,Sharks,TyTy,813,3,1,4,5
+4,2,64,Sharks,Elite,W/\\/E,464,2,1,0,8
+4,2,64,Sharks,Elite,Luke_Rocks,691,1,1,4,5
+4,3,64,Elite,Sharks,Lex,836,3,0,3,5
+4,3,64,Elite,Sharks,TyTy,360,1,0,0,2
+4,3,64,Sharks,Elite,W/\\/E,689,3,0,3,4
+4,3,64,Sharks,Elite,Luke_Rocks,433,0,3,0,4
+4,4,64,Elite,Sharks,Lex,666,2,0,3,5
+4,4,64,Elite,Sharks,TyTy,290,1,0,1,4
+4,4,64,Sharks,Elite,W/\\/E,577,1,2,2,4
+4,4,64,Sharks,Elite,Luke_Rocks,944,4,1,3,7
+4,5,64,Elite,Sharks,Lex,534,2,1,1,3
+4,5,64,Elite,Sharks,TyTy,486,2,1,1,4
+4,5,64,Sharks,Elite,W/\\/E,458,1,1,2,2
+4,5,64,Sharks,Elite,Luke_Rocks,501,2,0,1,4
+5,1,65,Puffins,Eclipse,Uorodin,626,2,1,2,2
+5,1,65,Puffins,Eclipse,KittenDuck,617,2,0,3,4
+5,1,65,Eclipse,Puffins,dog,311,0,0,2,3
+5,1,65,Eclipse,Puffins,Other Ninja,234,0,0,0,6
+5,2,65,Puffins,Eclipse,Uorodin,605,0,1,6,4
+5,2,65,Puffins,Eclipse,KittenDuck,551,2,0,2,4
+5,2,65,Eclipse,Puffins,dog,384,1,2,0,5
+5,2,65,Eclipse,Puffins,Other Ninja,617,2,0,3,7
+5,3,65,Puffins,Eclipse,Uorodin,659,3,0,1,6
+5,3,65,Puffins,Eclipse,KittenDuck,378,1,1,1,2
+5,3,65,Eclipse,Puffins,dog,412,1,0,2,2
+5,3,65,Eclipse,Puffins,Other Ninja,379,0,0,3,1
+5,4,65,Puffins,Eclipse,Uorodin,259,0,0,1,1
+5,4,65,Puffins,Eclipse,KittenDuck,450,1,0,2,4
+5,4,65,Eclipse,Puffins,dog,394,1,0,0,4
+5,4,65,Eclipse,Puffins,Other Ninja,486,1,0,2,2
+5,5,65,Puffins,Eclipse,Uorodin,496,2,1,0,6
+5,5,65,Puffins,Eclipse,KittenDuck,392,1,1,1,4
+5,5,65,Eclipse,Puffins,dog,691,3,1,2,5
+5,5,65,Eclipse,Puffins,Other Ninja,813,3,2,3,4
+5,1,66,Wolves,Lightning,MattRochie,1160,5,0,3,9
+5,1,66,Wolves,Lightning,Haimgame,322,0,2,2,1
+5,1,66,Lightning,Wolves,RED,320,0,2,1,1
+5,1,66,Lightning,Wolves,Ajax,655,2,0,4,6
+5,2,66,Wolves,Lightning,MattRochie,592,2,2,1,5
+5,2,66,Wolves,Lightning,Haimgame,585,2,1,2,5
+5,2,66,Lightning,Wolves,RED,733,2,1,3,6
+5,2,66,Lightning,Wolves,Ajax,479,1,1,3,2
+5,3,66,Wolves,Lightning,MattRochie,889,3,4,3,4
+5,3,66,Wolves,Lightning,Haimgame,1133,6,2,2,9
+5,3,66,Lightning,Wolves,RED,595,3,0,0,5
+5,3,66,Lightning,Wolves,Ajax,198,0,1,0,5
+5,4,66,Wolves,Lightning,MattRochie,792,3,3,1,8
+5,4,66,Wolves,Lightning,Haimgame,690,3,2,1,5
+5,4,66,Lightning,Wolves,RED,434,1,0,2,4
+5,4,66,Lightning,Wolves,Ajax,255,0,0,2,1
+5,5,66,Wolves,Lightning,MattRochie,1026,3,3,5,4
+5,5,66,Wolves,Lightning,Haimgame,738,3,2,1,4
+5,5,66,Lightning,Wolves,RED,410,2,0,0,4
+5,5,66,Lightning,Wolves,Ajax,357,0,1,2,6
+5,1,67,Blizzard,Foxes,Scoobert Doobert,756,4,0,2,6
+5,1,67,Blizzard,Foxes,MapleSurrup,561,1,4,0,5
+5,1,67,Foxes,Blizzard,Laff,794,2,2,4,4
+5,1,67,Foxes,Blizzard,Blazed,464,2,1,1,3
+5,2,67,Blizzard,Foxes,Scoobert Doobert,793,5,0,1,6
+5,2,67,Blizzard,Foxes,MapleSurrup,254,0,1,1,5
+5,2,67,Foxes,Blizzard,Laff,833,1,3,4,8
+5,2,67,Foxes,Blizzard,Blazed,527,3,0,1,1
+5,3,67,Blizzard,Foxes,Scoobert Doobert,593,0,3,3,4
+5,3,67,Blizzard,Foxes,MapleSurrup,916,4,0,3,7
+5,3,67,Foxes,Blizzard,Laff,624,0,0,6,4
+5,3,67,Foxes,Blizzard,Blazed,293,0,0,1,3
+5,4,67,Blizzard,Foxes,Scoobert Doobert,150,1,1,1,1
+5,4,67,Blizzard,Foxes,MapleSurrup,150,1,1,1,1
+5,4,67,Foxes,Blizzard,Laff,50,0,0,0,1
+5,4,67,Foxes,Blizzard,Blazed,50,0,0,0,1
+5,5,67,Blizzard,Foxes,Scoobert Doobert,150,1,1,1,1
+5,5,67,Blizzard,Foxes,MapleSurrup,150,1,1,1,1
+5,5,67,Foxes,Blizzard,Laff,50,0,0,0,1
+5,5,67,Foxes,Blizzard,Blazed,50,0,0,0,1
+5,1,68,Hurricanes,Sabres,Peabs,641,3,0,1,7
+5,1,68,Hurricanes,Sabres,Iguane Fabuleux,448,1,0,1,5
+5,1,68,Sabres,Hurricanes,SmilezRL,510,0,0,4,2
+5,1,68,Sabres,Hurricanes,Grizz1y,224,0,0,1,0
+5,2,68,Hurricanes,Sabres,Peabs,872,4,1,2,6
+5,2,68,Hurricanes,Sabres,Iguane Fabuleux,464,1,2,2,2
+5,2,68,Sabres,Hurricanes,SmilezRL,284,0,0,2,5
+5,2,68,Sabres,Hurricanes,Grizz1y,300,0,0,1,1
+5,3,68,Hurricanes,Sabres,Peabs,544,1,1,2,8
+5,3,68,Hurricanes,Sabres,Iguane Fabuleux,498,2,0,2,6
+5,3,68,Sabres,Hurricanes,SmilezRL,496,0,0,5,4
+5,3,68,Sabres,Hurricanes,Grizz1y,485,1,0,3,2
+5,4,68,Hurricanes,Sabres,Peabs,150,1,1,1,1
+5,4,68,Hurricanes,Sabres,Iguane Fabuleux,150,1,1,1,1
+5,4,68,Sabres,Hurricanes,SmilezRL,50,0,0,0,1
+5,4,68,Sabres,Hurricanes,Grizz1y,50,0,0,0,1
+5,5,68,Hurricanes,Sabres,Peabs,150,1,1,1,1
+5,5,68,Hurricanes,Sabres,Iguane Fabuleux,150,1,1,1,1
+5,5,68,Sabres,Hurricanes,SmilezRL,50,0,0,0,1
+5,5,68,Sabres,Hurricanes,Grizz1y,50,0,0,0,1
+5,1,69,Jets,Ducks,Tagmata,556,2,1,1,2
+5,1,69,Jets,Ducks,Plumato,657,3,1,2,3
+5,1,69,Ducks,Jets,Seanner,412,2,0,0,3
+5,1,69,Ducks,Jets,easy359,400,1,1,1,4
+5,2,69,Jets,Ducks,Tagmata,717,4,0,2,6
+5,2,69,Jets,Ducks,Plumato,397,0,3,1,4
+5,2,69,Ducks,Jets,Seanner,573,1,2,3,4
+5,2,69,Ducks,Jets,easy359,776,4,1,1,6
+5,3,69,Jets,Ducks,Tagmata,969,3,0,4,7
+5,3,69,Jets,Ducks,Plumato,296,0,1,0,4
+5,3,69,Ducks,Jets,Seanner,544,1,0,3,2
+5,3,69,Ducks,Jets,easy359,474,1,1,1,5
+5,4,69,Jets,Ducks,Tagmata,469,2,1,1,7
+5,4,69,Jets,Ducks,Plumato,565,1,0,3,4
+5,4,69,Ducks,Jets,Seanner,478,2,0,1,5
+5,4,69,Ducks,Jets,easy359,806,2,2,4,5
+5,5,69,Jets,Ducks,Tagmata,407,0,0,2,2
+5,5,69,Jets,Ducks,Plumato,258,1,0,0,3
+5,5,69,Ducks,Jets,Seanner,458,2,1,1,3
+5,5,69,Ducks,Jets,easy359,634,2,2,1,4
+5,1,70,Spartans,Hive,Spork,792,3,3,0,6
+5,1,70,Spartans,Hive,Sinnicole,764,3,3,0,4
+5,1,70,Hive,Spartans,Shazzy,674,3,0,2,4
+5,1,70,Hive,Spartans,Pletheros,339,0,3,0,3
+5,2,70,Spartans,Hive,Spork,407,1,1,1,3
+5,2,70,Spartans,Hive,Sinnicole,701,3,1,1,7
+5,2,70,Hive,Spartans,Shazzy,437,1,0,2,2
+5,2,70,Hive,Spartans,Pletheros,512,1,1,3,2
+5,3,70,Spartans,Hive,Spork,698,3,1,2,4
+5,3,70,Spartans,Hive,Sinnicole,700,1,3,2,4
+5,3,70,Hive,Spartans,Shazzy,535,1,1,1,5
+5,3,70,Hive,Spartans,Pletheros,555,2,0,2,2
+5,4,70,Spartans,Hive,Spork,238,0,0,2,3
+5,4,70,Spartans,Hive,Sinnicole,333,0,0,2,3
+5,4,70,Hive,Spartans,Shazzy,660,1,0,3,6
+5,4,70,Hive,Spartans,Pletheros,470,1,0,3,2
+5,5,70,Spartans,Hive,Spork,196,0,1,0,3
+5,5,70,Spartans,Hive,Sinnicole,444,2,0,0,6
+5,5,70,Hive,Spartans,Shazzy,866,2,1,5,2
+5,5,70,Hive,Spartans,Pletheros,545,2,2,1,3
+5,1,71,Aviators,Express,Icey6,404,1,0,2,5
+5,1,71,Aviators,Express,Craymin,309,0,1,2,2
+5,1,71,Express,Aviators,Gumbachi,991,4,0,4,6
+5,1,71,Express,Aviators,GOYO,411,0,2,2,4
+5,2,71,Aviators,Express,Icey6,543,3,0,0,3
+5,2,71,Aviators,Express,Craymin,460,0,2,2,3
+5,2,71,Express,Aviators,Gumbachi,779,3,2,1,6
+5,2,71,Express,Aviators,GOYO,676,2,3,2,3
+5,3,71,Aviators,Express,Icey6,335,0,0,2,4
+5,3,71,Aviators,Express,Craymin,214,0,0,1,2
+5,3,71,Express,Aviators,Gumbachi,778,4,0,1,5
+5,3,71,Express,Aviators,GOYO,477,0,4,2,5
+5,4,71,Aviators,Express,Icey6,466,2,1,0,5
+5,4,71,Aviators,Express,Craymin,452,1,1,2,6
+5,4,71,Express,Aviators,Gumbachi,878,2,3,3,5
+5,4,71,Express,Aviators,GOYO,843,5,2,1,5
+5,5,71,Aviators,Express,Icey6,756,1,0,7,7
+5,5,71,Aviators,Express,Craymin,407,1,1,1,2
+5,5,71,Express,Aviators,Gumbachi,676,1,1,5,7
+5,5,71,Express,Aviators,GOYO,954,5,1,2,8
+5,1,72,Hawks,Knights,Zayo,619,3,0,1,8
+5,1,72,Hawks,Knights,GodraciR,488,2,1,0,4
+5,1,72,Knights,Hawks,TosCrazy,776,2,1,3,7
+5,1,72,Knights,Hawks,PuffTheDargon,426,1,2,0,3
+5,2,72,Hawks,Knights,Zayo,509,2,0,2,3
+5,2,72,Hawks,Knights,GodraciR,344,1,1,1,2
+5,2,72,Knights,Hawks,TosCrazy,695,3,1,0,6
+5,2,72,Knights,Hawks,PuffTheDargon,487,2,0,2,4
+5,3,72,Hawks,Knights,Zayo,633,3,0,1,6
+5,3,72,Hawks,Knights,GodraciR,541,0,1,4,3
+5,3,72,Knights,Hawks,TosCrazy,583,0,3,3,2
+5,3,72,Knights,Hawks,PuffTheDargon,705,4,0,0,9
+5,4,72,Hawks,Knights,Zayo,542,2,1,2,6
+5,4,72,Hawks,Knights,GodraciR,814,4,0,4,5
+5,4,72,Knights,Hawks,TosCrazy,539,2,0,2,5
+5,4,72,Knights,Hawks,PuffTheDargon,467,0,2,3,5
+5,5,72,Hawks,Knights,Zayo,610,0,1,4,5
+5,5,72,Hawks,Knights,GodraciR,571,2,0,1,4
+5,5,72,Knights,Hawks,TosCrazy,460,1,0,1,5
+5,5,72,Knights,Hawks,PuffTheDargon,429,0,0,3,4
+5,1,73,Demolition,Outlaws,Kunics,150,1,1,1,1
+5,1,73,Demolition,Outlaws,Seven,150,1,1,1,1
+5,1,73,Outlaws,Demolition,Kioshi,50,0,0,0,1
+5,1,73,Outlaws,Demolition,Stovvadz,50,0,0,0,1
+5,2,73,Demolition,Outlaws,Kunics,150,1,1,1,1
+5,2,73,Demolition,Outlaws,Seven,150,1,1,1,1
+5,2,73,Outlaws,Demolition,Kioshi,50,0,0,0,1
+5,2,73,Outlaws,Demolition,Stovvadz,50,0,0,0,1
+5,3,73,Demolition,Outlaws,Kunics,150,1,1,1,1
+5,3,73,Demolition,Outlaws,Seven,150,1,1,1,1
+5,3,73,Outlaws,Demolition,Kioshi,50,0,0,0,1
+5,3,73,Outlaws,Demolition,Stovvadz,50,0,0,0,1
+5,4,73,Demolition,Outlaws,Kunics,150,1,1,1,1
+5,4,73,Demolition,Outlaws,Seven,150,1,1,1,1
+5,4,73,Outlaws,Demolition,Kioshi,50,0,0,0,1
+5,4,73,Outlaws,Demolition,Stovvadz,50,0,0,0,1
+5,5,73,Demolition,Outlaws,Kunics,150,1,1,1,1
+5,5,73,Demolition,Outlaws,Seven,150,1,1,1,1
+5,5,73,Outlaws,Demolition,Kioshi,50,0,0,0,1
+5,5,73,Outlaws,Demolition,Stovvadz,50,0,0,0,1
+5,1,74,Wizards,Rhinos,isosolo,150,1,1,1,1
+5,1,74,Wizards,Rhinos,JustTuck,150,1,1,1,1
+5,1,74,Rhinos,Wizards,Korluss,50,0,0,0,1
+5,1,74,Rhinos,Wizards,Giraffegirl,50,0,0,0,1
+5,2,74,Wizards,Rhinos,isosolo,150,1,1,1,1
+5,2,74,Wizards,Rhinos,JustTuck,150,1,1,1,1
+5,2,74,Rhinos,Wizards,Korluss,50,0,0,0,1
+5,2,74,Rhinos,Wizards,Giraffegirl,50,0,0,0,1
+5,3,74,Wizards,Rhinos,isosolo,150,1,1,1,1
+5,3,74,Wizards,Rhinos,JustTuck,150,1,1,1,1
+5,3,74,Rhinos,Wizards,Korluss,50,0,0,0,1
+5,3,74,Rhinos,Wizards,Giraffegirl,50,0,0,0,1
+5,4,74,Wizards,Rhinos,isosolo,150,1,1,1,1
+5,4,74,Wizards,Rhinos,JustTuck,150,1,1,1,1
+5,4,74,Rhinos,Wizards,Korluss,50,0,0,0,1
+5,4,74,Rhinos,Wizards,Giraffegirl,50,0,0,0,1
+5,5,74,Wizards,Rhinos,isosolo,150,1,1,1,1
+5,5,74,Wizards,Rhinos,JustTuck,150,1,1,1,1
+5,5,74,Rhinos,Wizards,Korluss,50,0,0,0,1
+5,5,74,Rhinos,Wizards,Giraffegirl,50,0,0,0,1
+5,1,75,Bears,Comets,KILT,706,3,0,2,5
+5,1,75,Bears,Comets,Koalemos,389,1,0,1,3
+5,1,75,Comets,Bears,Erayne,468,2,0,1,3
+5,1,75,Comets,Bears,Tunloink,438,0,1,3,3
+5,2,75,Bears,Comets,KILT,597,3,0,1,4
+5,2,75,Bears,Comets,Koalemos,637,1,1,4,3
+5,2,75,Comets,Bears,Erayne,480,2,0,1,4
+5,2,75,Comets,Bears,Tunloink,430,1,1,0,4
+5,3,75,Bears,Comets,KILT,823,1,1,7,4
+5,3,75,Bears,Comets,Koalemos,449,1,1,2,4
+5,3,75,Comets,Bears,Erayne,802,3,1,3,8
+5,3,75,Comets,Bears,Tunloink,618,2,2,2,7
+5,4,75,Bears,Comets,KILT,392,0,0,3,3
+5,4,75,Bears,Comets,Koalemos,185,0,0,1,1
+5,4,75,Comets,Bears,Erayne,478,2,1,0,6
+5,4,75,Comets,Bears,Tunloink,881,5,1,1,8
+5,5,75,Bears,Comets,KILT,715,3,1,2,6
+5,5,75,Bears,Comets,Koalemos,468,2,0,2,2
+5,5,75,Comets,Bears,Erayne,468,1,0,1,5
+5,5,75,Comets,Bears,Tunloink,241,0,0,1,3
+5,1,76,Pirates,Spectre,Tater,736,3,0,3,7
+5,1,76,Pirates,Spectre,SirGamble,444,0,1,3,1
+5,1,76,Spectre,Pirates,We take Ls,880,4,0,1,7
+5,1,76,Spectre,Pirates,NovaCainRL,628,1,2,3,4
+5,2,76,Pirates,Spectre,Tater,521,1,0,3,3
+5,2,76,Pirates,Spectre,SirGamble,298,0,1,1,0
+5,2,76,Spectre,Pirates,We take Ls,865,4,0,1,8
+5,2,76,Spectre,Pirates,NovaCainRL,457,0,4,1,3
+5,3,76,Pirates,Spectre,Tater,989,4,3,1,6
+5,3,76,Pirates,Spectre,SirGamble,765,4,1,0,4
+5,3,76,Spectre,Pirates,We take Ls,404,1,1,0,3
+5,3,76,Spectre,Pirates,NovaCainRL,529,2,1,2,3
+5,4,76,Pirates,Spectre,Tater,929,4,0,3,7
+5,4,76,Pirates,Spectre,SirGamble,272,0,1,2,1
+5,4,76,Spectre,Pirates,We take Ls,284,0,0,2,5
+5,4,76,Spectre,Pirates,NovaCainRL,316,0,0,2,2
+5,5,76,Pirates,Spectre,Tater,607,1,0,3,8
+5,5,76,Pirates,Spectre,SirGamble,228,0,1,0,3
+5,5,76,Spectre,Pirates,We take Ls,460,1,0,2,3
+5,5,76,Spectre,Pirates,NovaCainRL,853,1,0,6,5
+5,1,77,Pandas,Dodgers,Red Line,629,1,2,3,3
+5,1,77,Pandas,Dodgers,Not Juice,508,2,1,1,3
+5,1,77,Dodgers,Pandas,bits,292,0,0,0,3
+5,1,77,Dodgers,Pandas,InanimateJ,160,0,0,1,2
+5,2,77,Pandas,Dodgers,Red Line,691,2,2,2,6
+5,2,77,Pandas,Dodgers,Not Juice,745,2,2,3,3
+5,2,77,Dodgers,Pandas,bits,779,3,0,2,6
+5,2,77,Dodgers,Pandas,InanimateJ,192,0,1,0,4
+5,3,77,Pandas,Dodgers,Red Line,665,2,2,2,5
+5,3,77,Pandas,Dodgers,Not Juice,768,3,1,1,5
+5,3,77,Dodgers,Pandas,bits,607,1,1,2,2
+5,3,77,Dodgers,Pandas,InanimateJ,426,1,0,2,5
+5,4,77,Pandas,Dodgers,Red Line,698,1,1,5,4
+5,4,77,Pandas,Dodgers,Not Juice,571,1,1,2,1
+5,4,77,Dodgers,Pandas,bits,1034,3,3,3,8
+5,4,77,Dodgers,Pandas,InanimateJ,561,3,1,0,6
+5,5,77,Pandas,Dodgers,Red Line,770,3,0,3,5
+5,5,77,Pandas,Dodgers,Not Juice,338,0,1,2,1
+5,5,77,Dodgers,Pandas,bits,521,1,0,2,4
+5,5,77,Dodgers,Pandas,InanimateJ,140,0,0,0,2
+5,1,78,Sharks,Tyrants,W/\\/E,343,0,0,2,4
+5,1,78,Sharks,Tyrants,Lundo,332,0,0,3,2
+5,1,78,Tyrants,Sharks,Jakester,821,2,3,3,4
+5,1,78,Tyrants,Sharks,Majik,753,4,1,2,6
+5,2,78,Sharks,Tyrants,W/\\/E,882,4,2,1,11
+5,2,78,Sharks,Tyrants,Lundo,550,2,2,0,9
+5,2,78,Tyrants,Sharks,Jakester,467,0,1,5,2
+5,2,78,Tyrants,Sharks,Majik,736,3,0,3,3
+5,3,78,Sharks,Tyrants,W/\\/E,168,0,0,1,2
+5,3,78,Sharks,Tyrants,Lundo,434,2,0,0,5
+5,3,78,Tyrants,Sharks,Jakester,755,4,0,2,5
+5,3,78,Tyrants,Sharks,Majik,182,0,1,0,1
+5,4,78,Sharks,Tyrants,W/\\/E,362,1,2,0,3
+5,4,78,Sharks,Tyrants,Lundo,537,2,0,2,6
+5,4,78,Tyrants,Sharks,Jakester,395,0,1,2,1
+5,4,78,Tyrants,Sharks,Majik,526,2,0,2,4
+5,5,78,Sharks,Tyrants,W/\\/E,488,2,0,1,3
+5,5,78,Sharks,Tyrants,Lundo,474,1,2,2,4
+5,5,78,Tyrants,Sharks,Jakester,644,1,1,4,1
+5,5,78,Tyrants,Sharks,Majik,578,3,0,0,6
+5,1,79,Bulls,Flames,BraidedAxe,565,2,0,2,2
+5,1,79,Bulls,Flames,Mike MMI,273,0,1,1,0
+5,1,79,Flames,Bulls,Cedric,551,3,0,0,6
+5,1,79,Flames,Bulls,Reverse Fridge,316,0,2,1,2
+5,2,79,Bulls,Flames,BraidedAxe,1022,6,0,2,7
+5,2,79,Bulls,Flames,Mike MMI,512,0,3,3,2
+5,2,79,Flames,Bulls,Cedric,595,1,2,3,5
+5,2,79,Flames,Bulls,Reverse Fridge,641,3,0,1,6
+5,3,79,Bulls,Flames,BraidedAxe,491,0,2,2,3
+5,3,79,Bulls,Flames,Mike MMI,414,2,0,0,6
+5,3,79,Flames,Bulls,Cedric,434,1,0,2,5
+5,3,79,Flames,Bulls,Reverse Fridge,563,2,0,2,3
+5,4,79,Bulls,Flames,BraidedAxe,751,3,0,2,6
+5,4,79,Bulls,Flames,Mike MMI,336,0,1,2,2
+5,4,79,Flames,Bulls,Cedric,635,0,4,3,4
+5,4,79,Flames,Bulls,Reverse Fridge,662,4,0,1,4
+5,5,79,Bulls,Flames,BraidedAxe,654,2,0,3,7
+5,5,79,Bulls,Flames,Mike MMI,210,0,0,1,2
+5,5,79,Flames,Bulls,Cedric,454,1,1,1,4
+5,5,79,Flames,Bulls,Reverse Fridge,846,3,1,3,5
+5,1,80,Elite,Shadow,Lex,663,3,1,2,6
+5,1,80,Elite,Shadow,veets,390,1,1,1,1
+5,1,80,Shadow,Elite,SillyBunny,380,2,0,0,3
+5,1,80,Shadow,Elite,synthex,236,0,0,1,3
+5,2,80,Elite,Shadow,Lex,416,1,2,1,4
+5,2,80,Elite,Shadow,veets,741,3,0,3,5
+5,2,80,Shadow,Elite,SillyBunny,314,1,0,0,3
+5,2,80,Shadow,Elite,synthex,449,1,1,2,5
+5,3,80,Elite,Shadow,Lex,404,1,0,1,1
+5,3,80,Elite,Shadow,veets,248,0,1,1,2
+5,3,80,Shadow,Elite,SillyBunny,471,1,3,1,1
+5,3,80,Shadow,Elite,synthex,675,3,1,0,6
+5,4,80,Elite,Shadow,Lex,503,1,1,3,4
+5,4,80,Elite,Shadow,veets,387,1,0,1,4
+5,4,80,Shadow,Elite,SillyBunny,501,0,1,4,3
+5,4,80,Shadow,Elite,synthex,633,3,0,1,6
+5,5,80,Elite,Shadow,Lex,605,2,1,1,3
+5,5,80,Elite,Shadow,veets,681,2,2,3,5
+5,5,80,Shadow,Elite,SillyBunny,449,2,0,1,4
+5,5,80,Shadow,Elite,synthex,411,0,2,1,5
+6,1,81,Wolves,Blizzard,MattRochie,726,2,1,3,10
+6,1,81,Wolves,Blizzard,Kou,400,1,1,1,1
+6,1,81,Blizzard,Wolves,Barry Allen,433,1,0,1,5
+6,1,81,Blizzard,Wolves,Scoobert Doobert,650,1,0,5,3
+6,2,81,Wolves,Blizzard,MattRochie,662,1,1,3,4
+6,2,81,Wolves,Blizzard,Kou,347,1,1,1,1
+6,2,81,Blizzard,Wolves,Barry Allen,626,3,0,1,5
+6,2,81,Blizzard,Wolves,Scoobert Doobert,352,0,1,2,4
+6,3,81,Wolves,Blizzard,MattRochie,735,3,0,2,9
+6,3,81,Wolves,Blizzard,Kou,428,0,3,2,1
+6,3,81,Blizzard,Wolves,Barry Allen,552,1,2,3,5
+6,3,81,Blizzard,Wolves,Scoobert Doobert,913,4,0,2,7
+6,4,81,Wolves,Blizzard,MattRochie,702,3,0,2,5
+6,4,81,Wolves,Blizzard,Kou,407,0,3,1,6
+6,4,81,Blizzard,Wolves,Barry Allen,424,2,0,0,4
+6,4,81,Blizzard,Wolves,Scoobert Doobert,344,0,0,3,1
+6,5,81,Wolves,Blizzard,MattRochie,606,1,3,2,5
+6,5,81,Wolves,Blizzard,Kou,983,5,0,1,9
+6,5,81,Blizzard,Wolves,Barry Allen,852,3,0,4,5
+6,5,81,Blizzard,Wolves,Scoobert Doobert,484,0,2,3,3
+6,1,82,Puffins,Hurricanes,Uorodin,639,2,1,3,6
+6,1,82,Puffins,Hurricanes,KittenDuck,636,2,2,0,5
+6,1,82,Hurricanes,Puffins,Iguane Fabuleux,686,2,0,4,3
+6,1,82,Hurricanes,Puffins,AcePocket,536,1,2,2,3
+6,2,82,Puffins,Hurricanes,Uorodin,280,0,0,2,2
+6,2,82,Puffins,Hurricanes,KittenDuck,363,0,0,3,2
+6,2,82,Hurricanes,Puffins,Iguane Fabuleux,534,1,1,2,6
+6,2,82,Hurricanes,Puffins,AcePocket,326,1,0,1,3
+6,3,82,Puffins,Hurricanes,Uorodin,336,0,0,3,0
+6,3,82,Puffins,Hurricanes,KittenDuck,747,2,0,3,3
+6,3,82,Hurricanes,Puffins,Iguane Fabuleux,276,0,0,0,7
+6,3,82,Hurricanes,Puffins,AcePocket,268,0,0,1,2
+6,4,82,Puffins,Hurricanes,Uorodin,662,2,2,3,3
+6,4,82,Puffins,Hurricanes,KittenDuck,798,3,2,1,6
+6,4,82,Hurricanes,Puffins,Iguane Fabuleux,684,2,1,3,6
+6,4,82,Hurricanes,Puffins,AcePocket,452,2,0,1,3
+6,5,82,Puffins,Hurricanes,Uorodin,608,2,0,2,4
+6,5,82,Puffins,Hurricanes,KittenDuck,592,1,1,2,5
+6,5,82,Hurricanes,Puffins,Iguane Fabuleux,849,2,0,5,5
+6,5,82,Hurricanes,Puffins,AcePocket,282,0,0,0,3
+6,1,83,Lightning,Foxes,Lutvara,1197,6,1,3,9
+6,1,83,Lightning,Foxes,RED,725,1,5,2,3
+6,1,83,Foxes,Lightning,ohmeon,473,1,0,2,3
+6,1,83,Foxes,Lightning,Blazed,447,1,1,1,5
+6,2,83,Lightning,Foxes,Lutvara,718,4,1,0,8
+6,2,83,Lightning,Foxes,RED,721,2,1,2,8
+6,2,83,Foxes,Lightning,ohmeon,919,5,0,3,6
+6,2,83,Foxes,Lightning,Blazed,678,0,3,4,2
+6,3,83,Lightning,Foxes,Lutvara,717,2,2,3,4
+6,3,83,Lightning,Foxes,RED,783,4,1,0,6
+6,3,83,Foxes,Lightning,ohmeon,391,1,0,1,2
+6,3,83,Foxes,Lightning,Blazed,355,0,0,3,3
+6,4,83,Lightning,Foxes,Lutvara,667,3,1,2,7
+6,4,83,Lightning,Foxes,RED,422,1,1,1,2
+6,4,83,Foxes,Lightning,ohmeon,406,1,0,2,4
+6,4,83,Foxes,Lightning,Blazed,234,0,0,2,2
+6,5,83,Lightning,Foxes,Lutvara,734,3,0,3,6
+6,5,83,Lightning,Foxes,RED,736,2,3,2,5
+6,5,83,Foxes,Lightning,ohmeon,464,2,0,1,4
+6,5,83,Foxes,Lightning,Blazed,383,0,1,3,2
+6,1,84,Eclipse,Sabres,Krops,394,0,0,4,1
+6,1,84,Eclipse,Sabres,dog,347,0,0,3,1
+6,1,84,Sabres,Eclipse,Prosperity2K,578,2,0,2,7
+6,1,84,Sabres,Eclipse,Giant,388,1,2,0,3
+6,2,84,Eclipse,Sabres,Krops,426,0,1,4,0
+6,2,84,Eclipse,Sabres,dog,459,1,0,2,3
+6,2,84,Sabres,Eclipse,Prosperity2K,650,2,2,1,5
+6,2,84,Sabres,Eclipse,Giant,659,3,2,0,6
+6,3,84,Eclipse,Sabres,Krops,230,0,0,0,6
+6,3,84,Eclipse,Sabres,dog,537,1,0,3,5
+6,3,84,Sabres,Eclipse,Prosperity2K,865,1,1,6,4
+6,3,84,Sabres,Eclipse,Giant,540,1,0,4,2
+6,4,84,Eclipse,Sabres,Krops,626,1,3,2,1
+6,4,84,Eclipse,Sabres,dog,852,4,0,2,7
+6,4,84,Sabres,Eclipse,Prosperity2K,600,1,1,3,3
+6,4,84,Sabres,Eclipse,Giant,310,1,1,0,4
+6,5,84,Eclipse,Sabres,Krops,595,2,2,1,6
+6,5,84,Eclipse,Sabres,dog,408,2,1,0,5
+6,5,84,Sabres,Eclipse,Prosperity2K,272,1,0,0,1
+6,5,84,Sabres,Eclipse,Giant,456,0,1,3,2
+6,1,85,Spartans,Aviators,Sinnicole,841,4,1,1,8
+6,1,85,Spartans,Aviators,Letsgobluh,394,2,0,0,5
+6,1,85,Aviators,Spartans,sgtmc50cal,657,3,0,2,5
+6,1,85,Aviators,Spartans,Craymin,523,0,3,2,0
+6,2,85,Spartans,Aviators,Sinnicole,612,2,2,1,4
+6,2,85,Spartans,Aviators,Letsgobluh,508,2,1,1,2
+6,2,85,Aviators,Spartans,sgtmc50cal,409,1,1,1,3
+6,2,85,Aviators,Spartans,Craymin,369,1,0,1,3
+6,3,85,Spartans,Aviators,Sinnicole,364,0,0,1,6
+6,3,85,Spartans,Aviators,Letsgobluh,208,0,0,1,0
+6,3,85,Aviators,Spartans,sgtmc50cal,254,1,0,0,2
+6,3,85,Aviators,Spartans,Craymin,779,1,1,4,2
+6,4,85,Spartans,Aviators,Sinnicole,444,1,1,1,4
+6,4,85,Spartans,Aviators,Letsgobluh,580,1,1,2,4
+6,4,85,Aviators,Spartans,sgtmc50cal,520,0,1,3,2
+6,4,85,Aviators,Spartans,Craymin,455,1,0,2,5
+6,5,85,Spartans,Aviators,Sinnicole,429,0,1,2,7
+6,5,85,Spartans,Aviators,Letsgobluh,527,3,0,1,4
+6,5,85,Aviators,Spartans,sgtmc50cal,446,1,1,2,2
+6,5,85,Aviators,Spartans,Craymin,532,1,0,4,2
+6,1,86,Jets,Hawks,Unborn,454,1,0,2,2
+6,1,86,Jets,Hawks,Tagmata,633,2,0,3,6
+6,1,86,Hawks,Jets,TestGravity,604,1,1,3,4
+6,1,86,Hawks,Jets,Sparcnova,324,1,0,1,4
+6,2,86,Jets,Hawks,Unborn,401,0,2,3,3
+6,2,86,Jets,Hawks,Tagmata,713,2,0,5,3
+6,2,86,Hawks,Jets,TestGravity,910,3,2,4,7
+6,2,86,Hawks,Jets,Sparcnova,663,3,1,0,9
+6,3,86,Jets,Hawks,Unborn,418,1,1,1,2
+6,3,86,Jets,Hawks,Tagmata,515,1,0,4,1
+6,3,86,Hawks,Jets,TestGravity,1000,5,1,1,9
+6,3,86,Hawks,Jets,Sparcnova,294,1,1,0,2
+6,4,86,Jets,Hawks,Unborn,659,1,1,4,0
+6,4,86,Jets,Hawks,Tagmata,477,1,0,3,4
+6,4,86,Hawks,Jets,TestGravity,705,3,0,2,7
+6,4,86,Hawks,Jets,Sparcnova,609,2,3,0,4
+6,5,86,Jets,Hawks,Unborn,507,1,1,2,4
+6,5,86,Jets,Hawks,Tagmata,458,1,1,2,2
+6,5,86,Hawks,Jets,TestGravity,952,5,0,3,8
+6,5,86,Hawks,Jets,Sparcnova,436,1,2,0,2
+6,1,87,Hive,Express,Toonifisch,438,1,0,1,1
+6,1,87,Hive,Express,JO3_YOUN9,314,0,1,1,4
+6,1,87,Express,Hive,Pops,943,3,3,3,4
+6,1,87,Express,Hive,Mattybananas,785,4,2,0,8
+6,2,87,Hive,Express,Toonifisch,350,1,0,1,5
+6,2,87,Hive,Express,JO3_YOUN9,454,0,0,4,4
+6,2,87,Express,Hive,Pops,597,1,2,3,7
+6,2,87,Express,Hive,Mattybananas,887,3,1,4,5
+6,3,87,Hive,Express,Toonifisch,826,3,0,3,2
+6,3,87,Hive,Express,JO3_YOUN9,597,0,2,6,2
+6,3,87,Express,Hive,Pops,414,1,0,1,5
+6,3,87,Express,Hive,Mattybananas,450,1,1,1,6
+6,4,87,Hive,Express,Toonifisch,357,0,0,4,3
+6,4,87,Hive,Express,JO3_YOUN9,439,0,0,4,2
+6,4,87,Express,Hive,Pops,328,2,2,1,7
+6,4,87,Express,Hive,Mattybananas,722,2,2,3,6
+6,5,87,Hive,Express,Toonifisch,256,0,1,0,4
+6,5,87,Hive,Express,JO3_YOUN9,,,,,
+6,5,87,Express,Hive,Pops,358,1,2,4,4
+6,5,87,Express,Hive,Mattybananas,424,2,0,1,3
+6,1,88,Ducks,Knights,BlueMars2,539,1,1,4,1
+6,1,88,Ducks,Knights,cahewa,536,1,0,4,2
+6,1,88,Knights,Ducks,PuffTheDargon,707,2,3,0,9
+6,1,88,Knights,Ducks,Achieves,637,3,1,0,6
+6,2,88,Ducks,Knights,BlueMars2,437,0,2,2,3
+6,2,88,Ducks,Knights,cahewa,670,3,0,2,5
+6,2,88,Knights,Ducks,PuffTheDargon,590,1,3,2,4
+6,2,88,Knights,Ducks,Achieves,872,3,1,3,4
+6,3,88,Ducks,Knights,BlueMars2,749,4,0,2,7
+6,3,88,Ducks,Knights,cahewa,327,0,2,1,1
+6,3,88,Knights,Ducks,PuffTheDargon,864,5,0,2,7
+6,3,88,Knights,Ducks,Achieves,637,1,3,2,3
+6,4,88,Ducks,Knights,BlueMars2,497,0,1,2,1
+6,4,88,Ducks,Knights,cahewa,308,1,0,1,4
+6,4,88,Knights,Ducks,PuffTheDargon,781,4,1,0,3
+6,4,88,Knights,Ducks,Achieves,536,1,2,2,5
+6,5,88,Ducks,Knights,BlueMars2,605,2,1,3,3
+6,5,88,Ducks,Knights,cahewa,518,1,0,5,2
+6,5,88,Knights,Ducks,PuffTheDargon,520,2,2,0,6
+6,5,88,Knights,Ducks,Achieves,608,2,1,2,6
+6,1,89,Wizards,Bears,Smurf,853,2,1,5,3
+6,1,89,Wizards,Bears,TrashVan,246,1,0,0,2
+6,1,89,Bears,Wizards,Koalemos,534,2,1,2,5
+6,1,89,Bears,Wizards,Mage,492,2,1,0,4
+6,2,89,Wizards,Bears,Smurf,601,2,1,2,4
+6,2,89,Wizards,Bears,TrashVan,555,2,1,2,4
+6,2,89,Bears,Wizards,Koalemos,416,1,2,1,3
+6,2,89,Bears,Wizards,Mage,543,2,1,2,6
+6,3,89,Wizards,Bears,Smurf,972,6,0,0,9
+6,3,89,Wizards,Bears,TrashVan,594,1,3,2,3
+6,3,89,Bears,Wizards,Koalemos,314,1,0,1,4
+6,3,89,Bears,Wizards,Mage,426,0,0,3,4
+6,4,89,Wizards,Bears,Smurf,859,4,0,3,8
+6,4,89,Wizards,Bears,TrashVan,465,0,3,0,2
+6,4,89,Bears,Wizards,Koalemos,530,2,2,1,4
+6,4,89,Bears,Wizards,Mage,888,4,0,2,5
+6,5,89,Wizards,Bears,Smurf,673,3,0,1,5
+6,5,89,Wizards,Bears,TrashVan,212,0,1,0,0
+6,5,89,Bears,Wizards,Koalemos,678,3,2,1,4
+6,5,89,Bears,Wizards,Mage,619,2,3,1,3
+6,1,90,Demolition,Pirates,Kunics,485,1,0,3,2
+6,1,90,Demolition,Pirates,ImBad,258,0,1,2,3
+6,1,90,Pirates,Demolition,Cali,663,3,0,2,7
+6,1,90,Pirates,Demolition,SirGamble,542,1,1,3,4
+6,2,90,Demolition,Pirates,Kunics,455,1,0,1,5
+6,2,90,Demolition,Pirates,ImBad,230,0,0,2,2
+6,2,90,Pirates,Demolition,Cali,716,1,2,4,4
+6,2,90,Pirates,Demolition,SirGamble,547,3,0,1,4
+6,3,90,Demolition,Pirates,Kunics,683,2,0,4,4
+6,3,90,Demolition,Pirates,ImBad,435,1,1,1,3
+6,3,90,Pirates,Demolition,Cali,703,3,1,2,6
+6,3,90,Pirates,Demolition,SirGamble,417,1,1,1,4
+6,4,90,Demolition,Pirates,Kunics,337,0,0,2,3
+6,4,90,Demolition,Pirates,ImBad,465,0,0,3,7
+6,4,90,Pirates,Demolition,Cali,911,3,1,4,7
+6,4,90,Pirates,Demolition,SirGamble,506,1,2,2,3
+6,5,90,Demolition,Pirates,Kunics,902,3,0,4,4
+6,5,90,Demolition,Pirates,ImBad,248,0,1,0,3
+6,5,90,Pirates,Demolition,Cali,733,4,0,1,7
+6,5,90,Pirates,Demolition,SirGamble,482,0,2,2,3
+6,1,91,Rhinos,Comets,Korluss,346,0,1,2,3
+6,1,91,Rhinos,Comets,HersheyRL,521,2,0,1,3
+6,1,91,Comets,Rhinos,Tunloink,384,0,1,2,3
+6,1,91,Comets,Rhinos,Rolo,318,1,0,0,3
+6,2,91,Rhinos,Comets,Korluss,631,1,2,3,1
+6,2,91,Rhinos,Comets,HersheyRL,629,2,1,2,5
+6,2,91,Comets,Rhinos,Tunloink,284,0,0,1,6
+6,2,91,Comets,Rhinos,Rolo,134,0,0,0,0
+6,3,91,Rhinos,Comets,Korluss,452,1,2,0,5
+6,3,91,Rhinos,Comets,HersheyRL,765,3,1,2,5
+6,3,91,Comets,Rhinos,Tunloink,643,3,0,2,6
+6,3,91,Comets,Rhinos,Rolo,337,0,1,3,1
+6,4,91,Rhinos,Comets,Korluss,489,1,1,2,3
+6,4,91,Rhinos,Comets,HersheyRL,836,4,1,1,6
+6,4,91,Comets,Rhinos,Tunloink,400,2,1,0,4
+6,4,91,Comets,Rhinos,Rolo,597,1,1,4,3
+6,5,91,Rhinos,Comets,Korluss,336,1,0,1,4
+6,5,91,Rhinos,Comets,HersheyRL,670,1,1,4,6
+6,5,91,Comets,Rhinos,Tunloink,831,2,1,4,8
+6,5,91,Comets,Rhinos,Rolo,342,1,2,0,2
+6,1,92,Outlaws,Spectre,Lotty Lettuce,582,2,1,0,8
+6,1,92,Outlaws,Spectre,Stovvadz,248,1,0,0,6
+6,1,92,Spectre,Outlaws,snip,975,3,0,6,3
+6,1,92,Spectre,Outlaws,NovaCainRL,524,1,2,2,1
+6,2,92,Outlaws,Spectre,Lotty Lettuce,474,0,2,1,5
+6,2,92,Outlaws,Spectre,Stovvadz,344,2,0,0,6
+6,2,92,Spectre,Outlaws,snip,1021,3,0,5,4
+6,2,92,Spectre,Outlaws,NovaCainRL,509,0,3,2,3
+6,3,92,Outlaws,Spectre,Lotty Lettuce,751,3,1,0,7
+6,3,92,Outlaws,Spectre,Stovvadz,510,2,2,0,2
+6,3,92,Spectre,Outlaws,snip,227,0,1,1,0
+6,3,92,Spectre,Outlaws,NovaCainRL,503,1,0,2,2
+6,4,92,Outlaws,Spectre,Lotty Lettuce,1010,5,0,1,10
+6,4,92,Outlaws,Spectre,Stovvadz,459,0,1,3,6
+6,4,92,Spectre,Outlaws,snip,585,1,0,3,5
+6,4,92,Spectre,Outlaws,NovaCainRL,639,0,1,5,2
+6,5,92,Outlaws,Spectre,Lotty Lettuce,1234,8,0,0,10
+6,5,92,Outlaws,Spectre,Stovvadz,489,1,2,1,4
+6,5,92,Spectre,Outlaws,snip,318,0,0,2,1
+6,5,92,Spectre,Outlaws,NovaCainRL,274,0,0,1,0
+6,1,93,Sharks,Bulls,Lundo,556,2,0,2,4
+6,1,93,Sharks,Bulls,Twigler,552,0,1,3,6
+6,1,93,Bulls,Sharks,Antzu,530,1,0,2,7
+6,1,93,Bulls,Sharks,Maseface26,401,0,0,3,1
+6,2,93,Sharks,Bulls,Lundo,469,1,0,4,2
+6,2,93,Sharks,Bulls,Twigler,489,1,0,3,3
+6,2,93,Bulls,Sharks,Antzu,350,1,1,0,5
+6,2,93,Bulls,Sharks,Maseface26,664,2,1,3,7
+6,3,93,Sharks,Bulls,Lundo,598,2,0,2,3
+6,3,93,Sharks,Bulls,Twigler,522,2,1,1,4
+6,3,93,Bulls,Sharks,Antzu,452,1,2,0,4
+6,3,93,Bulls,Sharks,Maseface26,756,4,1,2,6
+6,4,93,Sharks,Bulls,Lundo,458,2,0,0,6
+6,4,93,Sharks,Bulls,Twigler,250,0,0,0,3
+6,4,93,Bulls,Sharks,Antzu,596,1,2,3,1
+6,4,93,Bulls,Sharks,Maseface26,613,3,0,1,5
+6,5,93,Sharks,Bulls,Lundo,842,4,0,4,6
+6,5,93,Sharks,Bulls,Twigler,343,0,3,0,3
+6,5,93,Bulls,Sharks,Antzu,710,3,0,2,7
+6,5,93,Bulls,Sharks,Maseface26,156,0,1,0,0
+6,1,94,Pandas,Elite,Wyyzard,1021,4,1,5,6
+6,1,94,Pandas,Elite,Red Line,723,2,2,2,5
+6,1,94,Elite,Pandas,Lex,590,2,0,3,5
+6,1,94,Elite,Pandas,El Diablo Rojo,372,0,2,1,5
+6,2,94,Pandas,Elite,Wyyzard,492,2,1,1,6
+6,2,94,Pandas,Elite,Red Line,472,1,1,1,6
+6,2,94,Elite,Pandas,Lex,1005,4,1,5,4
+6,2,94,Elite,Pandas,El Diablo Rojo,593,2,3,1,5
+6,3,94,Pandas,Elite,Wyyzard,699,3,1,2,5
+6,3,94,Pandas,Elite,Red Line,620,1,2,3,3
+6,3,94,Elite,Pandas,Lex,462,2,1,2,3
+6,3,94,Elite,Pandas,El Diablo Rojo,438,1,2,1,5
+6,4,94,Pandas,Elite,Wyyzard,474,1,1,1,3
+6,4,94,Pandas,Elite,Red Line,444,2,1,0,5
+6,4,94,Elite,Pandas,Lex,210,0,0,0,2
+6,4,94,Elite,Pandas,El Diablo Rojo,469,0,0,3,2
+6,5,94,Pandas,Elite,Wyyzard,434,1,1,0,7
+6,5,94,Pandas,Elite,Red Line,815,3,1,1,4
+6,5,94,Elite,Pandas,Lex,524,0,1,3,3
+6,5,94,Elite,Pandas,El Diablo Rojo,434,1,0,3,1
+6,1,95,Tyrants,Flames,Majik,336,1,0,2,2
+6,1,95,Tyrants,Flames,Bloop,302,0,1,0,3
+6,1,95,Flames,Tyrants,Keltini,989,5,1,2,7
+6,1,95,Flames,Tyrants,Reverse Fridge,591,2,3,1,3
+6,2,95,Tyrants,Flames,Majik,478,0,1,3,3
+6,2,95,Tyrants,Flames,Bloop,411,1,0,2,4
+6,2,95,Flames,Tyrants,Keltini,645,2,0,3,5
+6,2,95,Flames,Tyrants,Reverse Fridge,606,2,2,1,6
+6,3,95,Tyrants,Flames,Majik,557,1,0,3,4
+6,3,95,Tyrants,Flames,Bloop,463,1,1,3,6
+6,3,95,Flames,Tyrants,Keltini,1387,7,0,5,13
+6,3,95,Flames,Tyrants,Reverse Fridge,485,1,3,1,2
+6,4,95,Tyrants,Flames,Majik,550,1,1,2,3
+6,4,95,Tyrants,Flames,Bloop,242,1,0,0,2
+6,4,95,Flames,Tyrants,Keltini,801,3,2,0,5
+6,4,95,Flames,Tyrants,Reverse Fridge,404,2,0,0,3
+6,5,95,Tyrants,Flames,Majik,598,1,1,4,1
+6,5,95,Tyrants,Flames,Bloop,528,1,1,2,7
+6,5,95,Flames,Tyrants,Keltini,824,2,1,3,9
+6,5,95,Flames,Tyrants,Reverse Fridge,318,1,1,0,2
+6,1,96,Dodgers,Shadow,Minamacky,545,3,1,0,4
+6,1,96,Dodgers,Shadow,InanimateJ,401,1,0,1,4
+6,1,96,Shadow,Dodgers,synthex,1051,5,2,1,6
+6,1,96,Shadow,Dodgers,SillyBunny,715,3,1,3,3
+6,2,96,Dodgers,Shadow,Minamacky,491,1,1,2,4
+6,2,96,Dodgers,Shadow,InanimateJ,591,2,0,3,3
+6,2,96,Shadow,Dodgers,synthex,1020,4,2,3,9
+6,2,96,Shadow,Dodgers,SillyBunny,615,3,2,0,5
+6,3,96,Dodgers,Shadow,Minamacky,753,4,0,1,5
+6,3,96,Dodgers,Shadow,InanimateJ,711,2,2,3,5
+6,3,96,Shadow,Dodgers,synthex,543,2,0,2,6
+6,3,96,Shadow,Dodgers,SillyBunny,356,0,0,2,3
+6,4,96,Dodgers,Shadow,Minamacky,481,1,0,4,3
+6,4,96,Dodgers,Shadow,InanimateJ,566,1,1,3,2
+6,4,96,Shadow,Dodgers,synthex,750,3,1,1,10
+6,4,96,Shadow,Dodgers,SillyBunny,540,2,1,1,3
+6,5,96,Dodgers,Shadow,Minamacky,727,2,1,5,3
+6,5,96,Dodgers,Shadow,InanimateJ,653,3,2,1,4
+6,5,96,Shadow,Dodgers,synthex,648,2,1,2,6
+6,5,96,Shadow,Dodgers,SillyBunny,470,2,1,0,5
+7,1,97,Sabres,Blizzard,Prosperity2K,508,0,2,4,2
+7,1,97,Sabres,Blizzard,Giant,408,2,0,1,4
+7,1,97,Blizzard,Sabres,MapleSurrup,791,5,0,1,6
+7,1,97,Blizzard,Sabres,Lad,703,1,5,2,5
+7,2,97,Sabres,Blizzard,Prosperity2K,562,1,0,3,6
+7,2,97,Sabres,Blizzard,Giant,416,1,1,1,6
+7,2,97,Blizzard,Sabres,MapleSurrup,930,2,3,5,4
+7,2,97,Blizzard,Sabres,Lad,823,3,1,3,6
+7,3,97,Sabres,Blizzard,Prosperity2K,488,2,0,0,7
+7,3,97,Sabres,Blizzard,Giant,468,1,2,0,6
+7,3,97,Blizzard,Sabres,MapleSurrup,565,1,0,4,1
+7,3,97,Blizzard,Sabres,Lad,348,0,0,3,2
+7,4,97,Sabres,Blizzard,Prosperity2K,520,2,1,0,5
+7,4,97,Sabres,Blizzard,Giant,599,2,2,2,4
+7,4,97,Blizzard,Sabres,MapleSurrup,530,1,0,3,2
+7,4,97,Blizzard,Sabres,Lad,352,0,1,1,1
+7,5,97,Sabres,Blizzard,Prosperity2K,698,2,1,3,4
+7,5,97,Sabres,Blizzard,Giant,668,2,1,2,6
+7,5,97,Blizzard,Sabres,MapleSurrup,636,2,2,2,5
+7,5,97,Blizzard,Sabres,Lad,821,3,2,3,6
+7,1,98,Foxes,Hurricanes,Deluxe,863,2,0,5,6
+7,1,98,Foxes,Hurricanes,Blazed,186,0,1,0,2
+7,1,98,Hurricanes,Foxes,Peabs,1006,3,2,3,8
+7,1,98,Hurricanes,Foxes,Jimmer,564,2,2,2,4
+7,2,98,Foxes,Hurricanes,Deluxe,852,2,1,4,6
+7,2,98,Foxes,Hurricanes,Blazed,388,1,1,0,6
+7,2,98,Hurricanes,Foxes,Peabs,471,0,0,4,5
+7,2,98,Hurricanes,Foxes,Jimmer,343,0,0,2,3
+7,3,98,Foxes,Hurricanes,Deluxe,1074,4,1,4,8
+7,3,98,Foxes,Hurricanes,Blazed,420,1,2,1,1
+7,3,98,Hurricanes,Foxes,Peabs,268,0,0,2,5
+7,3,98,Hurricanes,Foxes,Jimmer,364,1,0,1,2
+7,4,98,Foxes,Hurricanes,Deluxe,1160,4,2,5,8
+7,4,98,Foxes,Hurricanes,Blazed,482,2,1,1,3
+7,4,98,Hurricanes,Foxes,Peabs,871,3,1,3,7
+7,4,98,Hurricanes,Foxes,Jimmer,535,2,2,1,5
+7,5,98,Foxes,Hurricanes,Deluxe,608,2,1,2,6
+7,5,98,Foxes,Hurricanes,Blazed,392,1,1,0,4
+7,5,98,Hurricanes,Foxes,Peabs,408,1,0,2,5
+7,5,98,Hurricanes,Foxes,Jimmer,364,0,0,3,1
+7,1,99,Lightning,Puffins,RED,353,0,0,2,1
+7,1,99,Lightning,Puffins,Dtr,261,0,0,3,0
+7,1,99,Puffins,Lightning,Bolio,865,3,3,1,10
+7,1,99,Puffins,Lightning,Uorodin,601,3,1,0,7
+7,2,99,Lightning,Puffins,RED,254,0,1,0,1
+7,2,99,Lightning,Puffins,Dtr,376,1,0,1,3
+7,2,99,Puffins,Lightning,Bolio,512,2,0,1,3
+7,2,99,Puffins,Lightning,Uorodin,391,1,0,2,1
+7,3,99,Lightning,Puffins,RED,378,0,1,2,2
+7,3,99,Lightning,Puffins,Dtr,364,1,0,2,0
+7,3,99,Puffins,Lightning,Bolio,476,2,0,0,4
+7,3,99,Puffins,Lightning,Uorodin,284,0,1,1,3
+7,4,99,Lightning,Puffins,RED,416,2,1,0,5
+7,4,99,Lightning,Puffins,Dtr,571,1,2,1,7
+7,4,99,Puffins,Lightning,Bolio,806,3,2,3,5
+7,4,99,Puffins,Lightning,Uorodin,482,2,1,0,5
+7,5,99,Lightning,Puffins,RED,270,0,1,0,3
+7,5,99,Lightning,Puffins,Dtr,511,1,0,4,2
+7,5,99,Puffins,Lightning,Bolio,681,3,0,2,5
+7,5,99,Puffins,Lightning,Uorodin,617,2,3,1,6
+7,1,100,Eclipse,Wolves,Other Ninja,576,1,1,4,4
+7,1,100,Eclipse,Wolves,ballena,412,1,1,1,5
+7,1,100,Wolves,Eclipse,Haimgame,431,0,1,3,1
+7,1,100,Wolves,Eclipse,Zack,430,1,0,2,5
+7,2,100,Eclipse,Wolves,Other Ninja,462,2,0,1,5
+7,2,100,Eclipse,Wolves,ballena,548,0,1,4,5
+7,2,100,Wolves,Eclipse,Haimgame,407,0,2,2,2
+7,2,100,Wolves,Eclipse,Zack,887,3,0,5,9
+7,3,100,Eclipse,Wolves,Other Ninja,370,1,1,0,2
+7,3,100,Eclipse,Wolves,ballena,500,1,1,2,3
+7,3,100,Wolves,Eclipse,Haimgame,261,0,0,2,0
+7,3,100,Wolves,Eclipse,Zack,687,3,0,1,5
+7,4,100,Eclipse,Wolves,Other Ninja,384,1,2,0,4
+7,4,100,Eclipse,Wolves,ballena,835,3,1,5,6
+7,4,100,Wolves,Eclipse,Haimgame,434,2,0,1,4
+7,4,100,Wolves,Eclipse,Zack,588,1,1,3,6
+7,5,100,Eclipse,Wolves,Other Ninja,400,2,0,0,7
+7,5,100,Eclipse,Wolves,ballena,270,0,1,0,2
+7,5,100,Wolves,Eclipse,Haimgame,519,2,1,2,2
+7,5,100,Wolves,Eclipse,Zack,740,1,2,5,1
+7,1,101,Knights,Aviators,Achieves,563,2,1,1,7
+7,1,101,Knights,Aviators,oogga,506,1,1,2,2
+7,1,101,Aviators,Knights,Vitali,635,2,0,3,4
+7,1,101,Aviators,Knights,sgtmc50cal,282,0,0,2,2
+7,2,101,Knights,Aviators,Achieves,290,0,0,2,1
+7,2,101,Knights,Aviators,oogga,511,2,0,2,2
+7,2,101,Aviators,Knights,Vitali,496,2,1,0,4
+7,2,101,Aviators,Knights,sgtmc50cal,254,1,0,0,3
+7,3,101,Knights,Aviators,Achieves,290,0,0,2,1
+7,3,101,Knights,Aviators,oogga,511,2,0,2,2
+7,3,101,Aviators,Knights,Vitali,496,2,1,0,4
+7,3,101,Aviators,Knights,sgtmc50cal,254,1,0,0,3
+7,4,101,Knights,Aviators,Achieves,236,0,0,2,1
+7,4,101,Knights,Aviators,oogga,557,2,0,1,5
+7,4,101,Aviators,Knights,Vitali,687,3,2,1,7
+7,4,101,Aviators,Knights,sgtmc50cal,853,3,2,3,5
+7,5,101,Knights,Aviators,Achieves,320,1,0,0,4
+7,5,101,Knights,Aviators,oogga,547,0,1,5,5
+7,5,101,Aviators,Knights,Vitali,701,1,2,4,5
+7,5,101,Aviators,Knights,sgtmc50cal,597,3,0,2,5
+7,1,102,Express,Hawks,Gumbachi,798,2,2,4,3
+7,1,102,Express,Hawks,GOYO,547,2,1,3,2
+7,1,102,Hawks,Express,Zayo,490,2,1,0,7
+7,1,102,Hawks,Express,TestGravity,436,1,1,1,5
+7,2,102,Express,Hawks,Gumbachi,1180,4,1,6,7
+7,2,102,Express,Hawks,GOYO,368,1,2,0,3
+7,2,102,Hawks,Express,Zayo,220,0,0,1,4
+7,2,102,Hawks,Express,TestGravity,424,1,0,2,5
+7,3,102,Express,Hawks,Gumbachi,633,0,0,7,5
+7,3,102,Express,Hawks,GOYO,357,0,0,3,3
+7,3,102,Hawks,Express,Zayo,644,2,1,3,6
+7,3,102,Hawks,Express,TestGravity,831,2,2,4,5
+7,4,102,Express,Hawks,Gumbachi,735,1,2,4,3
+7,4,102,Express,Hawks,GOYO,622,2,0,4,5
+7,4,102,Hawks,Express,Zayo,483,2,0,1,4
+7,4,102,Hawks,Express,TestGravity,637,2,1,2,8
+7,5,102,Express,Hawks,Gumbachi,829,2,0,6,6
+7,5,102,Express,Hawks,GOYO,353,1,0,2,1
+7,5,102,Hawks,Express,Zayo,538,2,0,3,3
+7,5,102,Hawks,Express,TestGravity,355,0,1,1,9
+7,1,103,Hive,Jets,Satsz,50,0,0,0,1
+7,1,103,Hive,Jets,JO3_YOUN9,50,0,0,0,1
+7,1,103,Jets,Hive,Plumato,150,1,1,1,1
+7,1,103,Jets,Hive,thomas,150,1,1,1,1
+7,2,103,Hive,Jets,Satsz,50,0,0,0,1
+7,2,103,Hive,Jets,JO3_YOUN9,50,0,0,0,1
+7,2,103,Jets,Hive,Plumato,150,1,1,1,1
+7,2,103,Jets,Hive,thomas,150,1,1,1,1
+7,3,103,Hive,Jets,Satsz,50,0,0,0,1
+7,3,103,Hive,Jets,JO3_YOUN9,50,0,0,0,1
+7,3,103,Jets,Hive,Plumato,150,1,1,1,1
+7,3,103,Jets,Hive,thomas,150,1,1,1,1
+7,4,103,Hive,Jets,Satsz,50,0,0,0,1
+7,4,103,Hive,Jets,JO3_YOUN9,50,0,0,0,1
+7,4,103,Jets,Hive,Plumato,150,1,1,1,1
+7,4,103,Jets,Hive,thomas,150,1,1,1,1
+7,5,103,Hive,Jets,Satsz,50,0,0,0,1
+7,5,103,Hive,Jets,JO3_YOUN9,50,0,0,0,1
+7,5,103,Jets,Hive,Plumato,150,1,1,1,1
+7,5,103,Jets,Hive,thomas,150,1,1,1,1
+7,1,104,Ducks,Spartans,Seanner,482,1,0,3,5
+7,1,104,Ducks,Spartans,easy359,338,1,1,0,2
+7,1,104,Spartans,Ducks,Letsgobluh,475,1,0,3,4
+7,1,104,Spartans,Ducks,Spork,169,0,0,1,1
+7,2,104,Ducks,Spartans,Seanner,479,2,0,2,2
+7,2,104,Ducks,Spartans,easy359,564,2,0,3,5
+7,2,104,Spartans,Ducks,Letsgobluh,516,2,1,0,7
+7,2,104,Spartans,Ducks,Spork,642,1,2,3,4
+7,3,104,Ducks,Spartans,Seanner,773,3,1,2,9
+7,3,104,Ducks,Spartans,easy359,400,1,0,1,4
+7,3,104,Spartans,Ducks,Letsgobluh,1060,3,2,4,6
+7,3,104,Spartans,Ducks,Spork,820,2,3,3,4
+7,4,104,Ducks,Spartans,Seanner,987,4,2,2,8
+7,4,104,Ducks,Spartans,easy359,853,3,1,3,7
+7,4,104,Spartans,Ducks,Letsgobluh,336,0,1,1,6
+7,4,104,Spartans,Ducks,Spork,680,1,0,5,1
+7,5,104,Ducks,Spartans,Seanner,336,0,1,0,4
+7,5,104,Ducks,Spartans,easy359,383,1,0,2,2
+7,5,104,Spartans,Ducks,Letsgobluh,232,0,0,2,1
+7,5,104,Spartans,Ducks,Spork,318,0,0,2,3
+7,1,105,Spectre,Bears,C^2,534,2,0,2,5
+7,1,105,Spectre,Bears,We take Ls,411,0,2,1,6
+7,1,105,Bears,Spectre,Ato.,619,2,1,3,3
+7,1,105,Bears,Spectre,Mage,379,1,0,2,2
+7,2,105,Spectre,Bears,C^2,325,1,0,1,2
+7,2,105,Spectre,Bears,We take Ls,346,0,0,2,4
+7,2,105,Bears,Spectre,Ato.,1000,4,1,3,6
+7,2,105,Bears,Spectre,Mage,403,1,3,0,2
+7,3,105,Spectre,Bears,C^2,448,2,1,0,2
+7,3,105,Spectre,Bears,We take Ls,468,1,2,0,3
+7,3,105,Bears,Spectre,Ato.,677,3,1,0,6
+7,3,105,Bears,Spectre,Mage,470,2,1,1,3
+7,4,105,Spectre,Bears,C^2,320,0,0,2,3
+7,4,105,Spectre,Bears,We take Ls,262,0,0,0,5
+7,4,105,Bears,Spectre,Ato.,819,5,1,1,5
+7,4,105,Bears,Spectre,Mage,786,1,3,4,4
+7,5,105,Spectre,Bears,C^2,581,3,0,1,3
+7,5,105,Spectre,Bears,We take Ls,582,0,3,4,4
+7,5,105,Bears,Spectre,Ato.,994,4,2,4,5
+7,5,105,Bears,Spectre,Mage,779,4,2,0,10
+7,1,106,Comets,Pirates,Erayne,812,5,0,1,5
+7,1,106,Comets,Pirates,Rolo,337,0,2,2,2
+7,1,106,Pirates,Comets,Cali,657,3,1,1,6
+7,1,106,Pirates,Comets,SirGamble,473,1,2,1,3
+7,2,106,Comets,Pirates,Erayne,809,4,1,0,9
+7,2,106,Comets,Pirates,Rolo,468,1,2,2,0
+7,2,106,Pirates,Comets,Cali,322,0,1,1,3
+7,2,106,Pirates,Comets,SirGamble,548,2,0,1,5
+7,3,106,Comets,Pirates,Erayne,573,3,0,1,7
+7,3,106,Comets,Pirates,Rolo,399,0,3,1,2
+7,3,106,Pirates,Comets,Cali,822,3,0,4,6
+7,3,106,Pirates,Comets,SirGamble,466,1,2,1,2
+7,4,106,Comets,Pirates,Erayne,172,0,0,0,2
+7,4,106,Comets,Pirates,Rolo,150,0,0,0,1
+7,4,106,Pirates,Comets,Cali,487,1,2,1,1
+7,4,106,Pirates,Comets,SirGamble,679,3,1,1,3
+7,5,106,Comets,Pirates,Erayne,718,4,1,0,7
+7,5,106,Comets,Pirates,Rolo,404,1,2,0,2
+7,5,106,Pirates,Comets,Cali,582,1,2,3,1
+7,5,106,Pirates,Comets,SirGamble,593,3,0,0,3
+7,1,107,Rhinos,Demolition,HersheyRL,793,4,2,0,7
+7,1,107,Rhinos,Demolition,Korluss,693,2,3,0,6
+7,1,107,Demolition,Rhinos,kccolts81,681,1,1,5,1
+7,1,107,Demolition,Rhinos,Seven,384,1,1,2,2
+7,2,107,Rhinos,Demolition,HersheyRL,1078,4,3,3,8
+7,2,107,Rhinos,Demolition,Korluss,765,3,2,2,4
+7,2,107,Demolition,Rhinos,kccolts81,398,1,1,1,4
+7,2,107,Demolition,Rhinos,Seven,555,2,0,3,3
+7,3,107,Rhinos,Demolition,HersheyRL,575,2,2,0,5
+7,3,107,Rhinos,Demolition,Korluss,698,3,1,1,6
+7,3,107,Demolition,Rhinos,kccolts81,653,2,0,4,5
+7,3,107,Demolition,Rhinos,Seven,676,2,1,3,4
+7,4,107,Rhinos,Demolition,HersheyRL,591,1,1,3,3
+7,4,107,Rhinos,Demolition,Korluss,617,1,1,4,5
+7,4,107,Demolition,Rhinos,kccolts81,480,2,1,0,7
+7,4,107,Demolition,Rhinos,Seven,569,1,0,4,5
+7,5,107,Rhinos,Demolition,HersheyRL,348,1,0,0,6
+7,5,107,Rhinos,Demolition,Korluss,488,0,1,3,7
+7,5,107,Demolition,Rhinos,kccolts81,677,0,1,7,3
+7,5,107,Demolition,Rhinos,Seven,517,2,0,3,3
+7,1,108,Outlaws,Wizards,Bacon,897,2,3,2,8
+7,1,108,Outlaws,Wizards,Stovvadz,653,3,2,1,5
+7,1,108,Wizards,Outlaws,isosolo,699,2,1,4,3
+7,1,108,Wizards,Outlaws,TrashVan,596,2,1,2,6
+7,2,108,Outlaws,Wizards,Bacon,236,0,0,0,4
+7,2,108,Outlaws,Wizards,Stovvadz,345,0,0,2,6
+7,2,108,Wizards,Outlaws,isosolo,713,2,1,3,3
+7,2,108,Wizards,Outlaws,TrashVan,556,1,0,4,1
+7,3,108,Outlaws,Wizards,Bacon,784,3,0,1,7
+7,3,108,Outlaws,Wizards,Stovvadz,144,0,0,0,2
+7,3,108,Wizards,Outlaws,isosolo,388,1,1,1,3
+7,3,108,Wizards,Outlaws,TrashVan,513,1,1,3,2
+7,4,108,Outlaws,Wizards,Bacon,424,1,0,0,5
+7,4,108,Outlaws,Wizards,Stovvadz,578,2,1,1,3
+7,4,108,Wizards,Outlaws,isosolo,712,3,0,2,5
+7,4,108,Wizards,Outlaws,TrashVan,625,1,2,3,2
+7,5,108,Outlaws,Wizards,Bacon,912,2,2,3,7
+7,5,108,Outlaws,Wizards,Stovvadz,594,2,2,1,6
+7,5,108,Wizards,Outlaws,isosolo,617,1,1,2,3
+7,5,108,Wizards,Outlaws,TrashVan,835,2,1,4,5
+7,1,109,Shadow,Bulls,Oni,764,3,0,3,5
+7,1,109,Shadow,Bulls,SillyBunny,544,1,2,2,3
+7,1,109,Bulls,Shadow,RainbowNoms,546,1,0,3,6
+7,1,109,Bulls,Shadow,Mike MMI,445,1,1,1,2
+7,2,109,Shadow,Bulls,Oni,673,3,1,0,7
+7,2,109,Shadow,Bulls,SillyBunny,488,2,2,0,6
+7,2,109,Bulls,Shadow,RainbowNoms,339,0,2,1,1
+7,2,109,Bulls,Shadow,Mike MMI,540,2,0,3,2
+7,3,109,Shadow,Bulls,Oni,609,2,1,1,5
+7,3,109,Shadow,Bulls,SillyBunny,432,1,1,1,4
+7,3,109,Bulls,Shadow,RainbowNoms,353,0,0,2,4
+7,3,109,Bulls,Shadow,Mike MMI,366,1,0,1,1
+7,4,109,Shadow,Bulls,Oni,726,3,0,1,6
+7,4,109,Shadow,Bulls,SillyBunny,437,0,2,2,2
+7,4,109,Bulls,Shadow,RainbowNoms,457,1,0,3,4
+7,4,109,Bulls,Shadow,Mike MMI,417,1,1,1,2
+7,5,109,Shadow,Bulls,Oni,1134,5,1,4,11
+7,5,109,Shadow,Bulls,SillyBunny,404,1,2,0,8
+7,5,109,Bulls,Shadow,RainbowNoms,1016,4,0,5,6
+7,5,109,Bulls,Shadow,Mike MMI,667,0,3,5,3
+7,1,110,Flames,Elite,Cedric,461,0,0,4,1
+7,1,110,Flames,Elite,Keltini,283,0,0,1,2
+7,1,110,Elite,Flames,Cearu,743,2,1,3,5
+7,1,110,Elite,Flames,veets,298,1,0,0,4
+7,2,110,Flames,Elite,Cedric,579,1,1,2,6
+7,2,110,Flames,Elite,Keltini,799,1,1,3,6
+7,2,110,Elite,Flames,Cearu,800,1,0,5,6
+7,2,110,Elite,Flames,veets,455,0,0,3,3
+7,3,110,Flames,Elite,Cedric,703,2,5,0,3
+7,3,110,Flames,Elite,Keltini,1465,7,1,6,6
+7,3,110,Elite,Flames,Cearu,397,1,0,1,4
+7,3,110,Elite,Flames,veets,547,3,0,0,7
+7,4,110,Flames,Elite,Cedric,409,1,0,1,2
+7,4,110,Flames,Elite,Keltini,333,0,1,1,3
+7,4,110,Elite,Flames,Cearu,316,0,1,1,2
+7,4,110,Elite,Flames,veets,555,3,0,1,3
+7,5,110,Flames,Elite,Cedric,932,4,1,3,10
+7,5,110,Flames,Elite,Keltini,723,1,3,4,2
+7,5,110,Elite,Flames,Cearu,612,2,0,4,5
+7,5,110,Elite,Flames,veets,718,2,2,3,5
+7,1,111,Tyrants,Pandas,Majik,691,1,3,3,5
+7,1,111,Tyrants,Pandas,Kaito,668,3,1,1,4
+7,1,111,Pandas,Tyrants,dan720,740,3,0,3,6
+7,1,111,Pandas,Tyrants,Not Juice,298,0,2,0,4
+7,2,111,Tyrants,Pandas,Majik,338,0,1,2,2
+7,2,111,Tyrants,Pandas,Kaito,522,2,0,2,3
+7,2,111,Pandas,Tyrants,dan720,556,2,1,1,4
+7,2,111,Pandas,Tyrants,Not Juice,321,1,1,0,3
+7,3,111,Tyrants,Pandas,Majik,781,4,1,1,6
+7,3,111,Tyrants,Pandas,Kaito,910,3,3,1,7
+7,3,111,Pandas,Tyrants,dan720,751,3,0,3,3
+7,3,111,Pandas,Tyrants,Not Juice,405,0,1,3,4
+7,4,111,Tyrants,Pandas,Majik,361,0,1,3,2
+7,4,111,Tyrants,Pandas,Kaito,513,1,0,2,5
+7,4,111,Pandas,Tyrants,dan720,826,1,1,5,7
+7,4,111,Pandas,Tyrants,Not Juice,409,1,1,1,2
+7,5,111,Tyrants,Pandas,Majik,808,4,0,2,5
+7,5,111,Tyrants,Pandas,Kaito,329,0,0,2,2
+7,5,111,Pandas,Tyrants,dan720,422,1,0,2,4
+7,5,111,Pandas,Tyrants,Not Juice,422,1,1,1,2
+7,1,112,Dodgers,Sharks,Minamacky,620,2,0,3,5
+7,1,112,Dodgers,Sharks,Whiffles,549,1,0,2,3
+7,1,112,Sharks,Dodgers,Luke_Rocks,891,3,1,2,6
+7,1,112,Sharks,Dodgers,W/\\/E,536,1,2,2,4
+7,2,112,Dodgers,Sharks,Minamacky,495,1,0,2,2
+7,2,112,Dodgers,Sharks,Whiffles,276,0,1,0,2
+7,2,112,Sharks,Dodgers,Luke_Rocks,634,3,0,1,4
+7,2,112,Sharks,Dodgers,W/\\/E,394,0,2,1,2
+7,3,112,Dodgers,Sharks,Minamacky,638,2,0,1,9
+7,3,112,Dodgers,Sharks,Whiffles,646,1,1,3,3
+7,3,112,Sharks,Dodgers,Luke_Rocks,908,3,0,4,7
+7,3,112,Sharks,Dodgers,W/\\/E,571,1,1,2,3
+7,4,112,Dodgers,Sharks,Minamacky,295,0,0,2,0
+7,4,112,Dodgers,Sharks,Whiffles,361,0,0,1,1
+7,4,112,Sharks,Dodgers,Luke_Rocks,643,3,1,0,5
+7,4,112,Sharks,Dodgers,W/\\/E,639,3,2,0,4
+7,5,112,Dodgers,Sharks,Minamacky,1188,4,2,6,6
+7,5,112,Dodgers,Sharks,Whiffles,715,2,2,3,4
+7,5,112,Sharks,Dodgers,Luke_Rocks,624,2,2,1,8
+7,5,112,Sharks,Dodgers,W/\\/E,656,2,2,2,7
+8,1,113,Hurricanes,Eclipse,Jimmer,750,3,1,2,5
+8,1,113,Hurricanes,Eclipse,Jet,600,1,2,2,5
+8,1,113,Eclipse,Hurricanes,dog,932,3,2,4,7
+8,1,113,Eclipse,Hurricanes,ballena,883,4,2,2,9
+8,2,113,Hurricanes,Eclipse,Jimmer,522,3,0,1,3
+8,2,113,Hurricanes,Eclipse,Jet,636,2,1,2,6
+8,2,113,Eclipse,Hurricanes,dog,596,2,2,1,8
+8,2,113,Eclipse,Hurricanes,ballena,789,4,2,1,5
+8,3,113,Hurricanes,Eclipse,Jimmer,507,1,1,1,3
+8,3,113,Hurricanes,Eclipse,Jet,405,1,1,1,5
+8,3,113,Eclipse,Hurricanes,dog,556,2,1,2,2
+8,3,113,Eclipse,Hurricanes,ballena,720,2,1,3,4
+8,4,113,Hurricanes,Eclipse,Jimmer,692,1,1,6,4
+8,4,113,Hurricanes,Eclipse,Jet,356,1,0,0,3
+8,4,113,Eclipse,Hurricanes,dog,826,2,5,1,4
+8,4,113,Eclipse,Hurricanes,ballena,1341,6,2,4,10
+8,5,113,Hurricanes,Eclipse,Jimmer,433,0,0,3,2
+8,5,113,Hurricanes,Eclipse,Jet,589,2,0,2,4
+8,5,113,Eclipse,Hurricanes,dog,514,2,2,1,2
+8,5,113,Eclipse,Hurricanes,ballena,807,3,1,2,10
+8,1,114,Blizzard,Lightning,Scoobert Doobert,683,1,0,5,3
+8,1,114,Blizzard,Lightning,Lad,528,1,1,2,1
+8,1,114,Lightning,Blizzard,Lutvara,602,1,1,1,5
+8,1,114,Lightning,Blizzard,RED,580,2,0,0,7
+8,2,114,Blizzard,Lightning,Scoobert Doobert,840,3,0,4,6
+8,2,114,Blizzard,Lightning,Lad,434,0,1,3,2
+8,2,114,Lightning,Blizzard,Lutvara,628,2,0,2,11
+8,2,114,Lightning,Blizzard,RED,282,0,2,0,3
+8,3,114,Blizzard,Lightning,Scoobert Doobert,541,2,0,2,7
+8,3,114,Blizzard,Lightning,Lad,515,1,2,2,3
+8,3,114,Lightning,Blizzard,Lutvara,902,4,2,2,7
+8,3,114,Lightning,Blizzard,RED,880,2,3,4,5
+8,4,114,Blizzard,Lightning,Scoobert Doobert,532,2,0,2,6
+8,4,114,Blizzard,Lightning,Lad,463,0,1,3,2
+8,4,114,Lightning,Blizzard,Lutvara,769,3,2,1,9
+8,4,114,Lightning,Blizzard,RED,1195,5,2,5,7
+8,5,114,Blizzard,Lightning,Scoobert Doobert,632,1,0,4,3
+8,5,114,Blizzard,Lightning,Lad,539,1,1,2,4
+8,5,114,Lightning,Blizzard,Lutvara,641,2,3,0,9
+8,5,114,Lightning,Blizzard,RED,712,3,0,2,7
+8,1,115,Sabres,Puffins,Prosperity2K,478,0,0,5,3
+8,1,115,Sabres,Puffins,Velero,191,0,0,1,1
+8,1,115,Puffins,Sabres,Bolio,1098,6,0,3,10
+8,1,115,Puffins,Sabres,Maseface26,303,0,3,0,3
+8,2,115,Sabres,Puffins,Prosperity2K,1365,6,1,4,7
+8,2,115,Sabres,Puffins,Velero,348,1,2,0,3
+8,2,115,Puffins,Sabres,Bolio,311,0,0,2,3
+8,2,115,Puffins,Sabres,Maseface26,203,0,0,1,2
+8,3,115,Sabres,Puffins,Prosperity2K,386,1,2,0,2
+8,3,115,Sabres,Puffins,Velero,495,2,1,1,4
+8,3,115,Puffins,Sabres,Bolio,715,3,1,1,4
+8,3,115,Puffins,Sabres,Maseface26,332,1,1,0,3
+8,4,115,Sabres,Puffins,Prosperity2K,453,0,2,1,1
+8,4,115,Sabres,Puffins,Velero,435,2,0,2,4
+8,4,115,Puffins,Sabres,Bolio,534,2,1,1,5
+8,4,115,Puffins,Sabres,Maseface26,492,1,2,2,4
+8,5,115,Sabres,Puffins,Prosperity2K,728,2,0,5,2
+8,5,115,Sabres,Puffins,Velero,379,0,1,4,0
+8,5,115,Puffins,Sabres,Bolio,623,3,1,0,10
+8,5,115,Puffins,Sabres,Maseface26,499,3,0,0,6
+8,1,116,Foxes,Wolves,Deluxe,50,0,0,0,1
+8,1,116,Foxes,Wolves,ohmeon,50,0,0,0,1
+8,1,116,Wolves,Foxes,Kou,150,1,1,1,1
+8,1,116,Wolves,Foxes,Zack,150,1,1,1,1
+8,2,116,Foxes,Wolves,Deluxe,50,0,0,0,1
+8,2,116,Foxes,Wolves,ohmeon,50,0,0,0,1
+8,2,116,Wolves,Foxes,Kou,150,1,1,1,1
+8,2,116,Wolves,Foxes,Zack,150,1,1,1,1
+8,3,116,Foxes,Wolves,Deluxe,50,0,0,0,1
+8,3,116,Foxes,Wolves,ohmeon,50,0,0,0,1
+8,3,116,Wolves,Foxes,Kou,150,1,1,1,1
+8,3,116,Wolves,Foxes,Zack,150,1,1,1,1
+8,4,116,Foxes,Wolves,Deluxe,50,0,0,0,1
+8,4,116,Foxes,Wolves,ohmeon,50,0,0,0,1
+8,4,116,Wolves,Foxes,Kou,150,1,1,1,1
+8,4,116,Wolves,Foxes,Zack,150,1,1,1,1
+8,5,116,Foxes,Wolves,Deluxe,50,0,0,0,1
+8,5,116,Foxes,Wolves,ohmeon,50,0,0,0,1
+8,5,116,Wolves,Foxes,Kou,150,1,1,1,1
+8,5,116,Wolves,Foxes,Zack,150,1,1,1,1
+8,1,117,Hawks,Ducks,TestGravity,745,3,0,2,7
+8,1,117,Hawks,Ducks,GodraciR,239,0,3,0,1
+8,1,117,Ducks,Hawks,Seanner,585,1,1,3,3
+8,1,117,Ducks,Hawks,BlueMars2,338,1,0,1,3
+8,2,117,Hawks,Ducks,TestGravity,588,2,0,2,8
+8,2,117,Hawks,Ducks,GodraciR,274,1,0,1,1
+8,2,117,Ducks,Hawks,Seanner,314,0,1,2,2
+8,2,117,Ducks,Hawks,BlueMars2,350,1,0,2,2
+8,3,117,Hawks,Ducks,TestGravity,889,3,3,2,7
+8,3,117,Hawks,Ducks,GodraciR,769,4,2,0,8
+8,3,117,Ducks,Hawks,Seanner,649,2,0,4,5
+8,3,117,Ducks,Hawks,BlueMars2,168,0,0,1,1
+8,4,117,Hawks,Ducks,TestGravity,835,5,0,1,13
+8,4,117,Hawks,Ducks,GodraciR,484,0,3,1,2
+8,4,117,Ducks,Hawks,Seanner,300,0,0,2,1
+8,4,117,Ducks,Hawks,BlueMars2,526,0,0,4,2
+8,5,117,Hawks,Ducks,TestGravity,1701,11,1,1,13
+8,5,117,Hawks,Ducks,GodraciR,647,2,4,1,6
+8,5,117,Ducks,Hawks,Seanner,536,2,0,3,3
+8,5,117,Ducks,Hawks,BlueMars2,100,1,0,0,0
+8,1,118,Aviators,Hive,Jdubbz,150,1,1,1,1
+8,1,118,Aviators,Hive,Vitali,150,1,1,1,1
+8,1,118,Hive,Aviators,Satsz,50,0,0,0,1
+8,1,118,Hive,Aviators,Toonifisch,50,0,0,0,1
+8,2,118,Aviators,Hive,Jdubbz,150,1,1,1,1
+8,2,118,Aviators,Hive,Vitali,150,1,1,1,1
+8,2,118,Hive,Aviators,Satsz,50,0,0,0,1
+8,2,118,Hive,Aviators,Toonifisch,50,0,0,0,1
+8,3,118,Aviators,Hive,Jdubbz,150,1,1,1,1
+8,3,118,Aviators,Hive,Vitali,150,1,1,1,1
+8,3,118,Hive,Aviators,Satsz,50,0,0,0,1
+8,3,118,Hive,Aviators,Toonifisch,50,0,0,0,1
+8,4,118,Aviators,Hive,Jdubbz,150,1,1,1,1
+8,4,118,Aviators,Hive,Vitali,150,1,1,1,1
+8,4,118,Hive,Aviators,Satsz,50,0,0,0,1
+8,4,118,Hive,Aviators,Toonifisch,50,0,0,0,1
+8,5,118,Aviators,Hive,Jdubbz,150,1,1,1,1
+8,5,118,Aviators,Hive,Vitali,150,1,1,1,1
+8,5,118,Hive,Aviators,Satsz,50,0,0,0,1
+8,5,118,Hive,Aviators,Toonifisch,50,0,0,0,1
+8,1,119,Knights,Jets,PuffTheDargon,150,1,1,1,1
+8,1,119,Knights,Jets,TosCrazy,150,1,1,1,1
+8,1,119,Jets,Knights,thomas,50,0,0,0,1
+8,1,119,Jets,Knights,Anömäly,50,0,0,0,1
+8,2,119,Knights,Jets,PuffTheDargon,150,1,1,1,1
+8,2,119,Knights,Jets,TosCrazy,150,1,1,1,1
+8,2,119,Jets,Knights,thomas,50,0,0,0,1
+8,2,119,Jets,Knights,Anömäly,50,0,0,0,1
+8,3,119,Knights,Jets,PuffTheDargon,150,1,1,1,1
+8,3,119,Knights,Jets,TosCrazy,150,1,1,1,1
+8,3,119,Jets,Knights,thomas,50,0,0,0,1
+8,3,119,Jets,Knights,Anömäly,50,0,0,0,1
+8,4,119,Knights,Jets,PuffTheDargon,150,1,1,1,1
+8,4,119,Knights,Jets,TosCrazy,150,1,1,1,1
+8,4,119,Jets,Knights,thomas,50,0,0,0,1
+8,4,119,Jets,Knights,Anömäly,50,0,0,0,1
+8,5,119,Knights,Jets,PuffTheDargon,150,1,1,1,1
+8,5,119,Knights,Jets,TosCrazy,150,1,1,1,1
+8,5,119,Jets,Knights,thomas,50,0,0,0,1
+8,5,119,Jets,Knights,Anömäly,50,0,0,0,1
+8,1,120,Express,Spartans,Mattybananas,672,2,1,4,5
+8,1,120,Express,Spartans,Pops,635,2,0,3,5
+8,1,120,Spartans,Express,Saucey,565,0,1,3,7
+8,1,120,Spartans,Express,Letsgobluh,356,1,0,2,3
+8,2,120,Express,Spartans,Mattybananas,296,0,0,2,3
+8,2,120,Express,Spartans,Pops,654,2,0,2,7
+8,2,120,Spartans,Express,Saucey,506,1,0,3,4
+8,2,120,Spartans,Express,Letsgobluh,613,2,0,2,4
+8,3,120,Express,Spartans,Mattybananas,537,1,2,2,6
+8,3,120,Express,Spartans,Pops,542,2,1,2,6
+8,3,120,Spartans,Express,Saucey,564,0,3,3,2
+8,3,120,Spartans,Express,Letsgobluh,1033,4,0,4,6
+8,4,120,Express,Spartans,Mattybananas,543,2,0,2,4
+8,4,120,Express,Spartans,Pops,360,0,1,1,4
+8,4,120,Spartans,Express,Saucey,785,2,0,4,3
+8,4,120,Spartans,Express,Letsgobluh,494,1,1,1,4
+8,5,120,Express,Spartans,Mattybananas,624,3,0,1,6
+8,5,120,Express,Spartans,Pops,529,1,2,2,3
+8,5,120,Spartans,Express,Saucey,559,2,1,2,3
+8,5,120,Spartans,Express,Letsgobluh,532,1,2,2,4
+8,1,121,Pirates,Outlaws,Taki,655,4,0,0,6
+8,1,121,Pirates,Outlaws,Cali,527,0,3,1,3
+8,1,121,Outlaws,Pirates,Scapegoat,754,2,1,4,3
+8,1,121,Outlaws,Pirates,Lotty Lettuce,682,3,2,0,4
+8,2,121,Pirates,Outlaws,Taki,763,1,1,6,5
+8,2,121,Pirates,Outlaws,Cali,825,2,1,4,5
+8,2,121,Outlaws,Pirates,Scapegoat,631,2,1,1,11
+8,2,121,Outlaws,Pirates,Lotty Lettuce,922,2,2,4,8
+8,3,121,Pirates,Outlaws,Taki,407,0,0,3,6
+8,3,121,Pirates,Outlaws,Cali,829,2,0,6,5
+8,3,121,Outlaws,Pirates,Scapegoat,513,2,0,2,7
+8,3,121,Outlaws,Pirates,Lotty Lettuce,599,2,1,3,6
+8,4,121,Pirates,Outlaws,Taki,466,2,0,1,5
+8,4,121,Pirates,Outlaws,Cali,284,0,2,0,3
+8,4,121,Outlaws,Pirates,Scapegoat,392,2,0,0,3
+8,4,121,Outlaws,Pirates,Lotty Lettuce,597,1,1,4,1
+8,5,121,Pirates,Outlaws,Taki,556,1,0,4,4
+8,5,121,Pirates,Outlaws,Cali,420,1,1,0,3
+8,5,121,Outlaws,Pirates,Scapegoat,954,3,4,1,9
+8,5,121,Outlaws,Pirates,Lotty Lettuce,898,5,0,2,7
+8,1,122,Bears,Rhinos,Koalemos,663,3,1,0,5
+8,1,122,Bears,Rhinos,Ato.,442,1,1,1,3
+8,1,122,Rhinos,Bears,HersheyRL,1041,4,1,3,3
+8,1,122,Rhinos,Bears,Giraffegirl,423,1,1,1,2
+8,2,122,Bears,Rhinos,Koalemos,716,3,0,4,3
+8,2,122,Bears,Rhinos,Ato.,834,1,3,5,2
+8,2,122,Rhinos,Bears,HersheyRL,680,2,1,0,11
+8,2,122,Rhinos,Bears,Giraffegirl,312,1,1,0,2
+8,3,122,Bears,Rhinos,Koalemos,495,2,0,2,2
+8,3,122,Bears,Rhinos,Ato.,570,1,2,2,5
+8,3,122,Rhinos,Bears,HersheyRL,936,3,1,3,7
+8,3,122,Rhinos,Bears,Giraffegirl,363,1,1,1,2
+8,4,122,Bears,Rhinos,Koalemos,642,2,2,0,9
+8,4,122,Bears,Rhinos,Ato.,755,3,1,2,7
+8,4,122,Rhinos,Bears,HersheyRL,868,3,1,4,3
+8,4,122,Rhinos,Bears,Giraffegirl,587,0,2,4,0
+8,5,122,Bears,Rhinos,Koalemos,290,0,2,2,0
+8,5,122,Bears,Rhinos,Ato.,1061,6,0,2,6
+8,5,122,Rhinos,Bears,HersheyRL,418,1,1,0,6
+8,5,122,Rhinos,Bears,Giraffegirl,324,1,1,0,2
+8,1,123,Spectre,Demolition,C^2,546,2,0,1,4
+8,1,123,Spectre,Demolition,snip,486,0,1,2,4
+8,1,123,Demolition,Spectre,kccolts81,844,2,1,3,5
+8,1,123,Demolition,Spectre,Kunics,534,1,0,3,4
+8,2,123,Spectre,Demolition,C^2,414,1,0,1,6
+8,2,123,Spectre,Demolition,snip,383,0,1,2,3
+8,2,123,Demolition,Spectre,kccolts81,778,1,2,6,2
+8,2,123,Demolition,Spectre,Kunics,517,2,0,2,4
+8,3,123,Spectre,Demolition,C^2,166,0,0,0,2
+8,3,123,Spectre,Demolition,snip,412,1,0,1,2
+8,3,123,Demolition,Spectre,kccolts81,720,3,0,2,5
+8,3,123,Demolition,Spectre,Kunics,334,1,1,0,1
+8,4,123,Spectre,Demolition,C^2,404,1,1,2,2
+8,4,123,Spectre,Demolition,snip,462,2,1,0,4
+8,4,123,Demolition,Spectre,kccolts81,840,4,1,2,6
+8,4,123,Demolition,Spectre,Kunics,514,2,1,1,2
+8,5,123,Spectre,Demolition,C^2,555,1,1,3,4
+8,5,123,Spectre,Demolition,snip,855,3,1,3,6
+8,5,123,Demolition,Spectre,kccolts81,366,0,2,2,2
+8,5,123,Demolition,Spectre,Kunics,601,3,0,2,6
+8,1,124,Comets,Wizards,Apple,256,0,0,0,4
+8,1,124,Comets,Wizards,Tunloink,202,0,0,0,4
+8,1,124,Wizards,Comets,JustTuck,490,0,1,3,0
+8,1,124,Wizards,Comets,TrashVan,476,1,0,3,2
+8,2,124,Comets,Wizards,Apple,507,1,1,2,2
+8,2,124,Comets,Wizards,Tunloink,669,2,1,1,3
+8,2,124,Wizards,Comets,JustTuck,649,2,0,1,4
+8,2,124,Wizards,Comets,TrashVan,304,0,1,1,2
+8,3,124,Comets,Wizards,Apple,240,0,1,2,0
+8,3,124,Comets,Wizards,Tunloink,395,1,0,2,3
+8,3,124,Wizards,Comets,JustTuck,649,4,0,0,6
+8,3,124,Wizards,Comets,TrashVan,522,0,3,2,2
+8,4,124,Comets,Wizards,Apple,572,2,2,1,8
+8,4,124,Comets,Wizards,Tunloink,859,4,1,2,6
+8,4,124,Wizards,Comets,JustTuck,534,0,1,3,1
+8,4,124,Wizards,Comets,TrashVan,508,1,0,4,5
+8,5,124,Comets,Wizards,Apple,706,3,0,3,6
+8,5,124,Comets,Wizards,Tunloink,506,2,1,0,3
+8,5,124,Wizards,Comets,JustTuck,632,3,0,1,4
+8,5,124,Wizards,Comets,TrashVan,509,1,2,2,5
+8,1,125,Elite,Dodgers,Cearu,769,2,1,6,3
+8,1,125,Elite,Dodgers,El Diablo Rojo,717,3,2,2,4
+8,1,125,Dodgers,Elite,bits,608,2,2,1,7
+8,1,125,Dodgers,Elite,Minamacky,464,2,1,1,7
+8,2,125,Elite,Dodgers,Cearu,603,1,1,3,4
+8,2,125,Elite,Dodgers,El Diablo Rojo,434,1,0,2,3
+8,2,125,Dodgers,Elite,bits,712,2,1,1,7
+8,2,125,Dodgers,Elite,Minamacky,630,1,0,4,3
+8,3,125,Elite,Dodgers,Cearu,660,2,2,1,4
+8,3,125,Elite,Dodgers,El Diablo Rojo,527,2,0,2,4
+8,3,125,Dodgers,Elite,bits,454,1,1,2,5
+8,3,125,Dodgers,Elite,Minamacky,458,1,1,2,3
+8,4,125,Elite,Dodgers,Cearu,267,0,0,1,1
+8,4,125,Elite,Dodgers,El Diablo Rojo,172,0,0,0,3
+8,4,125,Dodgers,Elite,bits,953,3,3,2,4
+8,4,125,Dodgers,Elite,Minamacky,571,3,1,1,3
+8,5,125,Elite,Dodgers,Cearu,693,1,2,4,3
+8,5,125,Elite,Dodgers,El Diablo Rojo,924,3,1,4,9
+8,5,125,Dodgers,Elite,bits,366,0,0,2,5
+8,5,125,Dodgers,Elite,Minamacky,717,2,0,4,6
+8,1,126,Bulls,Tyrants,RainbowNoms,657,3,1,1,5
+8,1,126,Bulls,Tyrants,Antzu,542,2,2,1,5
+8,1,126,Tyrants,Bulls,Kaito,713,4,0,2,5
+8,1,126,Tyrants,Bulls,Saucy.,603,2,2,2,3
+8,2,126,Bulls,Tyrants,RainbowNoms,429,1,1,2,6
+8,2,126,Bulls,Tyrants,Antzu,847,1,1,6,2
+8,2,126,Tyrants,Bulls,Kaito,737,3,1,2,7
+8,2,126,Tyrants,Bulls,Saucy.,729,2,1,3,8
+8,3,126,Bulls,Tyrants,RainbowNoms,373,1,0,3,1
+8,3,126,Bulls,Tyrants,Antzu,438,0,1,2,3
+8,3,126,Tyrants,Bulls,Kaito,242,1,0,0,3
+8,3,126,Tyrants,Bulls,Saucy.,559,2,0,2,6
+8,4,126,Bulls,Tyrants,RainbowNoms,648,2,2,2,6
+8,4,126,Bulls,Tyrants,Antzu,655,2,2,3,3
+8,4,126,Tyrants,Bulls,Kaito,561,2,0,2,5
+8,4,126,Tyrants,Bulls,Saucy.,721,3,2,1,4
+8,5,126,Bulls,Tyrants,RainbowNoms,701,3,0,1,3
+8,5,126,Bulls,Tyrants,Antzu,890,2,0,6,4
+8,5,126,Tyrants,Bulls,Kaito,769,4,0,1,9
+8,5,126,Tyrants,Bulls,Saucy.,377,0,2,1,3
+8,1,127,Shadow,Pandas,UnearthlyLegend,535,1,0,4,3
+8,1,127,Shadow,Pandas,synthex,532,0,1,4,1
+8,1,127,Pandas,Shadow,Wyyzard,847,3,2,3,7
+8,1,127,Pandas,Shadow,dan720,446,2,1,0,5
+8,2,127,Shadow,Pandas,UnearthlyLegend,715,2,2,3,3
+8,2,127,Shadow,Pandas,synthex,756,3,2,0,4
+8,2,127,Pandas,Shadow,Wyyzard,508,1,2,0,2
+8,2,127,Pandas,Shadow,dan720,789,3,0,3,5
+8,3,127,Shadow,Pandas,UnearthlyLegend,574,1,2,2,3
+8,3,127,Shadow,Pandas,synthex,600,2,0,3,3
+8,3,127,Pandas,Shadow,Wyyzard,494,1,0,2,5
+8,3,127,Pandas,Shadow,dan720,224,0,0,0,3
+8,4,127,Shadow,Pandas,UnearthlyLegend,465,1,0,3,2
+8,4,127,Shadow,Pandas,synthex,154,0,1,0,2
+8,4,127,Pandas,Shadow,Wyyzard,671,3,0,1,6
+8,4,127,Pandas,Shadow,dan720,358,1,1,1,3
+8,5,127,Shadow,Pandas,UnearthlyLegend,574,1,2,2,8
+8,5,127,Shadow,Pandas,synthex,564,2,1,1,4
+8,5,127,Pandas,Shadow,Wyyzard,655,2,1,3,5
+8,5,127,Pandas,Shadow,dan720,716,2,1,4,5
+8,1,128,Flames,Sharks,Keltini,992,2,1,7,5
+8,1,128,Flames,Sharks,crossfire8255,320,1,0,0,4
+8,1,128,Sharks,Flames,Hopper,784,3,0,4,7
+8,1,128,Sharks,Flames,W/\\/E,434,1,1,1,6
+8,2,128,Flames,Sharks,Keltini,434,1,0,2,7
+8,2,128,Flames,Sharks,crossfire8255,363,0,0,2,2
+8,2,128,Sharks,Flames,Hopper,787,2,0,3,4
+8,2,128,Sharks,Flames,W/\\/E,345,0,1,2,3
+8,3,128,Flames,Sharks,Keltini,741,2,0,5,5
+8,3,128,Flames,Sharks,crossfire8255,377,1,1,1,3
+8,3,128,Sharks,Flames,Hopper,754,2,0,4,6
+8,3,128,Sharks,Flames,W/\\/E,278,0,1,1,4
+8,4,128,Flames,Sharks,Keltini,492,1,0,2,1
+8,4,128,Flames,Sharks,crossfire8255,613,1,0,5,5
+8,4,128,Sharks,Flames,Hopper,421,0,2,3,5
+8,4,128,Sharks,Flames,W/\\/E,670,3,0,0,6
+8,5,128,Flames,Sharks,Keltini,618,0,2,4,3
+8,5,128,Flames,Sharks,crossfire8255,474,2,0,0,6
+8,5,128,Sharks,Flames,Hopper,384,1,0,2,4
+8,5,128,Sharks,Flames,W/\\/E,577,2,1,1,4
+9,1,129,Hurricanes,Blizzard,Iguane Fabuleux,539,2,0,1,6
+9,1,129,Hurricanes,Blizzard,AcePocket,341,0,0,3,0
+9,1,129,Blizzard,Hurricanes,MapleSurrup,319,0,0,2,3
+9,1,129,Blizzard,Hurricanes,Barry Allen,308,0,0,2,2
+9,2,129,Hurricanes,Blizzard,Iguane Fabuleux,754,1,2,5,2
+9,2,129,Hurricanes,Blizzard,AcePocket,617,3,1,0,4
+9,2,129,Blizzard,Hurricanes,MapleSurrup,290,1,1,0,3
+9,2,129,Blizzard,Hurricanes,Barry Allen,494,1,1,1,5
+9,3,129,Hurricanes,Blizzard,Iguane Fabuleux,388,0,0,1,5
+9,3,129,Hurricanes,Blizzard,AcePocket,318,1,0,1,4
+9,3,129,Blizzard,Hurricanes,MapleSurrup,545,2,0,3,4
+9,3,129,Blizzard,Hurricanes,Barry Allen,546,0,2,3,3
+9,4,129,Hurricanes,Blizzard,Iguane Fabuleux,747,1,0,6,3
+9,4,129,Hurricanes,Blizzard,AcePocket,421,0,0,4,2
+9,4,129,Blizzard,Hurricanes,MapleSurrup,551,3,0,0,9
+9,4,129,Blizzard,Hurricanes,Barry Allen,735,2,2,2,7
+9,5,129,Hurricanes,Blizzard,Iguane Fabuleux,855,3,1,5,2
+9,5,129,Hurricanes,Blizzard,AcePocket,635,2,0,3,3
+9,5,129,Blizzard,Hurricanes,MapleSurrup,402,2,0,0,6
+9,5,129,Blizzard,Hurricanes,Barry Allen,482,0,2,1,7
+9,1,130,Eclipse,Lightning,dog,867,4,0,3,3
+9,1,130,Eclipse,Lightning,Krops,627,3,1,1,5
+9,1,130,Lightning,Eclipse,Lutvara,238,0,0,0,3
+9,1,130,Lightning,Eclipse,Big Boi Johnny,174,0,0,0,2
+9,2,130,Eclipse,Lightning,dog,811,3,1,3,5
+9,2,130,Eclipse,Lightning,Krops,521,1,1,3,3
+9,2,130,Lightning,Eclipse,Lutvara,401,1,0,1,6
+9,2,130,Lightning,Eclipse,Big Boi Johnny,246,0,0,2,3
+9,3,130,Eclipse,Lightning,dog,767,4,0,1,7
+9,3,130,Eclipse,Lightning,Krops,326,0,2,1,1
+9,3,130,Lightning,Eclipse,Lutvara,593,2,1,2,3
+9,3,130,Lightning,Eclipse,Big Boi Johnny,442,1,1,1,3
+9,4,130,Eclipse,Lightning,dog,350,0,2,0,5
+9,4,130,Eclipse,Lightning,Krops,496,2,0,1,3
+9,4,130,Lightning,Eclipse,Lutvara,793,3,1,3,4
+9,4,130,Lightning,Eclipse,Big Boi Johnny,613,3,0,1,4
+9,5,130,Eclipse,Lightning,dog,621,2,1,1,7
+9,5,130,Eclipse,Lightning,Krops,522,2,2,0,2
+9,5,130,Lightning,Eclipse,Lutvara,977,5,0,2,6
+9,5,130,Lightning,Eclipse,Big Boi Johnny,503,0,2,3,0
+9,1,131,Sabres,Foxes,Prosperity2K,548,0,1,3,5
+9,1,131,Sabres,Foxes,Velero,428,2,0,0,5
+9,1,131,Foxes,Sabres,Bloop,240,0,1,1,2
+9,1,131,Foxes,Sabres,Deluxe,620,1,0,4,5
+9,2,131,Sabres,Foxes,Prosperity2K,402,0,1,0,3
+9,2,131,Sabres,Foxes,Velero,374,1,0,1,2
+9,2,131,Foxes,Sabres,Bloop,749,2,3,2,3
+9,2,131,Foxes,Sabres,Deluxe,829,4,1,2,7
+9,3,131,Sabres,Foxes,Prosperity2K,556,1,0,3,5
+9,3,131,Sabres,Foxes,Velero,386,0,1,3,2
+9,3,131,Foxes,Sabres,Bloop,1031,5,1,3,7
+9,3,131,Foxes,Sabres,Deluxe,703,2,3,2,6
+9,4,131,Sabres,Foxes,Prosperity2K,162,0,0,0,0
+9,4,131,Sabres,Foxes,Velero,506,1,0,3,5
+9,4,131,Foxes,Sabres,Bloop,522,2,0,1,3
+9,4,131,Foxes,Sabres,Deluxe,349,0,2,1,5
+9,5,131,Sabres,Foxes,Prosperity2K,689,2,0,4,5
+9,5,131,Sabres,Foxes,Velero,278,0,1,2,2
+9,5,131,Foxes,Sabres,Bloop,422,2,1,0,3
+9,5,131,Foxes,Sabres,Deluxe,1018,4,2,3,8
+9,1,132,Puffins,Wolves,KittenDuck,542,1,0,3,5
+9,1,132,Puffins,Wolves,Bolio,271,0,0,1,3
+9,1,132,Wolves,Puffins,Zack,739,3,1,2,3
+9,1,132,Wolves,Puffins,MattRochie,599,1,1,5,5
+9,2,132,Puffins,Wolves,KittenDuck,748,3,0,2,5
+9,2,132,Puffins,Wolves,Bolio,602,0,2,2,4
+9,2,132,Wolves,Puffins,Zack,484,2,0,1,6
+9,2,132,Wolves,Puffins,MattRochie,502,0,1,3,3
+9,3,132,Puffins,Wolves,KittenDuck,460,2,1,0,3
+9,3,132,Puffins,Wolves,Bolio,558,2,1,1,7
+9,3,132,Wolves,Puffins,Zack,670,2,0,3,4
+9,3,132,Wolves,Puffins,MattRochie,271,0,2,1,0
+9,4,132,Puffins,Wolves,KittenDuck,975,5,1,2,9
+9,4,132,Puffins,Wolves,Bolio,520,1,2,2,5
+9,4,132,Wolves,Puffins,Zack,923,5,2,1,6
+9,4,132,Wolves,Puffins,MattRochie,778,2,3,5,5
+9,5,132,Puffins,Wolves,KittenDuck,502,1,0,4,2
+9,5,132,Puffins,Wolves,Bolio,682,2,1,3,4
+9,5,132,Wolves,Puffins,Zack,783,3,1,1,8
+9,5,132,Wolves,Puffins,MattRochie,435,1,2,1,4
+9,1,133,Hawks,Aviators,TestGravity,302,0,2,0,3
+9,1,133,Hawks,Aviators,uh steve,642,2,0,2,4
+9,1,133,Aviators,Hawks,Icey6,367,1,0,1,3
+9,1,133,Aviators,Hawks,Vitali,342,0,0,2,1
+9,2,133,Hawks,Aviators,TestGravity,749,3,0,2,9
+9,2,133,Hawks,Aviators,uh steve,381,0,2,2,2
+9,2,133,Aviators,Hawks,Icey6,392,0,0,3,3
+9,2,133,Aviators,Hawks,Vitali,678,2,0,4,4
+9,3,133,Hawks,Aviators,TestGravity,733,4,0,2,8
+9,3,133,Hawks,Aviators,uh steve,499,0,4,1,3
+9,3,133,Aviators,Hawks,Icey6,512,1,2,1,4
+9,3,133,Aviators,Hawks,Vitali,655,2,0,3,4
+9,4,133,Hawks,Aviators,TestGravity,368,1,0,1,7
+9,4,133,Hawks,Aviators,uh steve,148,0,0,0,2
+9,4,133,Aviators,Hawks,Icey6,1103,4,2,5,5
+9,4,133,Aviators,Hawks,Vitali,899,3,2,3,5
+9,5,133,Hawks,Aviators,TestGravity,634,2,1,2,7
+9,5,133,Hawks,Aviators,uh steve,464,2,1,1,3
+9,5,133,Aviators,Hawks,Icey6,560,0,2,5,2
+9,5,133,Aviators,Hawks,Vitali,622,3,0,1,5
+9,1,134,Ducks,Hive,cahewa,296,1,0,0,2
+9,1,134,Ducks,Hive,Seanner,242,0,0,1,3
+9,1,134,Hive,Ducks,Shazzy,574,2,1,2,3
+9,1,134,Hive,Ducks,Baker,466,1,1,2,2
+9,2,134,Ducks,Hive,cahewa,941,4,2,2,9
+9,2,134,Ducks,Hive,Seanner,619,2,3,1,3
+9,2,134,Hive,Ducks,Shazzy,644,2,1,2,4
+9,2,134,Hive,Ducks,Baker,287,1,0,1,3
+9,3,134,Ducks,Hive,cahewa,390,1,1,0,6
+9,3,134,Ducks,Hive,Seanner,666,2,1,2,4
+9,3,134,Hive,Ducks,Shazzy,666,1,1,4,1
+9,3,134,Hive,Ducks,Baker,506,1,1,2,3
+9,4,134,Ducks,Hive,cahewa,1178,5,2,3,10
+9,4,134,Ducks,Hive,Seanner,830,3,4,2,4
+9,4,134,Hive,Ducks,Shazzy,469,0,1,3,2
+9,4,134,Hive,Ducks,Baker,543,2,0,2,5
+9,5,134,Ducks,Hive,cahewa,465,1,1,1,4
+9,5,134,Ducks,Hive,Seanner,298,1,0,1,3
+9,5,134,Hive,Ducks,Shazzy,903,4,0,3,5
+9,5,134,Hive,Ducks,Baker,426,1,2,0,3
+9,1,135,Knights,Express,Typhon,708,3,0,2,2
+9,1,135,Knights,Express,PuffTheDargon,364,1,0,2,1
+9,1,135,Express,Knights,Pops,723,3,2,0,5
+9,1,135,Express,Knights,Gumbachi,628,2,2,1,7
+9,2,135,Knights,Express,Typhon,560,2,0,1,7
+9,2,135,Knights,Express,PuffTheDargon,548,1,0,4,3
+9,2,135,Express,Knights,Pops,666,1,2,3,5
+9,2,135,Express,Knights,Gumbachi,873,3,0,3,4
+9,3,135,Knights,Express,Typhon,328,1,0,1,4
+9,3,135,Knights,Express,PuffTheDargon,498,0,1,3,5
+9,3,135,Express,Knights,Pops,968,5,4,0,6
+9,3,135,Express,Knights,Gumbachi,1638,6,3,7,10
+9,4,135,Knights,Express,Typhon,483,1,0,1,3
+9,4,135,Knights,Express,PuffTheDargon,497,1,0,4,1
+9,4,135,Express,Knights,Pops,466,2,0,0,5
+9,4,135,Express,Knights,Gumbachi,496,1,1,1,5
+9,5,135,Knights,Express,Typhon,300,1,1,0,4
+9,5,135,Knights,Express,PuffTheDargon,447,1,1,1,2
+9,5,135,Express,Knights,Pops,784,2,3,2,4
+9,5,135,Express,Knights,Gumbachi,961,4,2,2,4
+9,1,136,Jets,Spartans,Tagmata,915,3,2,3,5
+9,1,136,Jets,Spartans,Plumato,416,2,0,0,6
+9,1,136,Spartans,Jets,Saucey,768,2,1,4,6
+9,1,136,Spartans,Jets,Spork,593,2,0,3,5
+9,2,136,Jets,Spartans,Tagmata,664,1,0,4,7
+9,2,136,Jets,Spartans,Plumato,597,1,0,2,8
+9,2,136,Spartans,Jets,Saucey,984,2,1,5,8
+9,2,136,Spartans,Jets,Spork,712,1,1,4,4
+9,3,136,Jets,Spartans,Tagmata,558,1,1,3,3
+9,3,136,Jets,Spartans,Plumato,320,1,0,0,4
+9,3,136,Spartans,Jets,Saucey,447,1,1,1,5
+9,3,136,Spartans,Jets,Spork,743,2,1,4,2
+9,4,136,Jets,Spartans,Tagmata,671,1,1,5,3
+9,4,136,Jets,Spartans,Plumato,642,1,0,3,6
+9,4,136,Spartans,Jets,Saucey,366,0,1,1,5
+9,4,136,Spartans,Jets,Spork,588,1,0,4,7
+9,5,136,Jets,Spartans,Tagmata,1010,5,1,1,8
+9,5,136,Jets,Spartans,Plumato,494,2,2,0,6
+9,5,136,Spartans,Jets,Saucey,391,0,1,4,0
+9,5,136,Spartans,Jets,Spork,1015,4,0,4,6
+9,1,137,Pirates,Bears,Tater,900,3,1,5,6
+9,1,137,Pirates,Bears,Taki,414,1,1,0,5
+9,1,137,Bears,Pirates,Ato.,456,1,0,2,3
+9,1,137,Bears,Pirates,Rascel,343,0,0,2,4
+9,2,137,Pirates,Bears,Tater,739,5,0,0,7
+9,2,137,Pirates,Bears,Taki,734,1,1,5,5
+9,2,137,Bears,Pirates,Ato.,401,0,0,1,3
+9,2,137,Bears,Pirates,Rascel,310,0,0,2,6
+9,3,137,Pirates,Bears,Tater,740,2,0,4,5
+9,3,137,Pirates,Bears,Taki,721,1,2,4,4
+9,3,137,Bears,Pirates,Ato.,432,0,0,3,5
+9,3,137,Bears,Pirates,Rascel,497,1,0,2,5
+9,4,137,Pirates,Bears,Tater,768,2,2,3,6
+9,4,137,Pirates,Bears,Taki,752,3,1,2,8
+9,4,137,Bears,Pirates,Ato.,449,1,0,3,2
+9,4,137,Bears,Pirates,Rascel,413,0,1,3,4
+9,5,137,Pirates,Bears,Tater,655,2,2,1,5
+9,5,137,Pirates,Bears,Taki,843,4,1,2,7
+9,5,137,Bears,Pirates,Ato.,367,0,0,3,2
+9,5,137,Bears,Pirates,Rascel,661,2,0,3,2
+9,1,138,Outlaws,Rhinos,Will,649,3,0,1,6
+9,1,138,Outlaws,Rhinos,Scapegoat,561,1,2,1,5
+9,1,138,Rhinos,Outlaws,hiroH,604,1,0,3,6
+9,1,138,Rhinos,Outlaws,GoodNeighbor,408,0,1,3,1
+9,2,138,Outlaws,Rhinos,Will,741,3,2,3,4
+9,2,138,Outlaws,Rhinos,Scapegoat,1133,5,2,3,9
+9,2,138,Rhinos,Outlaws,hiroH,505,2,0,2,3
+9,2,138,Rhinos,Outlaws,GoodNeighbor,373,0,0,3,5
+9,3,138,Outlaws,Rhinos,Will,404,2,1,0,6
+9,3,138,Outlaws,Rhinos,Scapegoat,508,1,2,1,5
+9,3,138,Rhinos,Outlaws,hiroH,611,2,0,4,3
+9,3,138,Rhinos,Outlaws,GoodNeighbor,560,2,2,1,5
+9,4,138,Outlaws,Rhinos,Will,266,0,0,2,4
+9,4,138,Outlaws,Rhinos,Scapegoat,392,1,0,1,7
+9,4,138,Rhinos,Outlaws,hiroH,300,1,0,0,3
+9,4,138,Rhinos,Outlaws,GoodNeighbor,687,1,1,5,3
+9,5,138,Outlaws,Rhinos,Will,544,2,0,3,4
+9,5,138,Outlaws,Rhinos,Scapegoat,381,0,1,2,3
+9,5,138,Rhinos,Outlaws,hiroH,242,1,0,0,3
+9,5,138,Rhinos,Outlaws,GoodNeighbor,570,2,0,2,6
+9,1,139,Spectre,Comets,NovaCainRL,150,1,1,1,1
+9,1,139,Spectre,Comets,C^2,150,1,1,1,1
+9,1,139,Comets,Spectre,Erayne,50,0,0,0,1
+9,1,139,Comets,Spectre,Apple,50,0,0,0,1
+9,2,139,Spectre,Comets,NovaCainRL,150,1,1,1,1
+9,2,139,Spectre,Comets,C^2,150,1,1,1,1
+9,2,139,Comets,Spectre,Erayne,50,0,0,0,1
+9,2,139,Comets,Spectre,Apple,50,0,0,0,1
+9,3,139,Spectre,Comets,NovaCainRL,150,1,1,1,1
+9,3,139,Spectre,Comets,C^2,150,1,1,1,1
+9,3,139,Comets,Spectre,Erayne,50,0,0,0,1
+9,3,139,Comets,Spectre,Apple,50,0,0,0,1
+9,4,139,Spectre,Comets,NovaCainRL,150,1,1,1,1
+9,4,139,Spectre,Comets,C^2,150,1,1,1,1
+9,4,139,Comets,Spectre,Erayne,50,0,0,0,1
+9,4,139,Comets,Spectre,Apple,50,0,0,0,1
+9,5,139,Spectre,Comets,NovaCainRL,150,1,1,1,1
+9,5,139,Spectre,Comets,C^2,150,1,1,1,1
+9,5,139,Comets,Spectre,Erayne,50,0,0,0,1
+9,5,139,Comets,Spectre,Apple,50,0,0,0,1
+9,1,140,Demolition,Wizards,kccolts81,573,3,0,1,4
+9,1,140,Demolition,Wizards,ImBad,413,0,1,3,2
+9,1,140,Wizards,Demolition,JustTuck,720,2,2,2,3
+9,1,140,Wizards,Demolition,Smurf,755,5,0,0,8
+9,2,140,Demolition,Wizards,kccolts81,648,3,0,3,5
+9,2,140,Demolition,Wizards,ImBad,274,0,2,0,4
+9,2,140,Wizards,Demolition,JustTuck,378,1,1,1,2
+9,2,140,Wizards,Demolition,Smurf,667,1,1,4,4
+9,3,140,Demolition,Wizards,kccolts81,705,2,1,3,4
+9,3,140,Demolition,Wizards,ImBad,442,2,1,1,3
+9,3,140,Wizards,Demolition,JustTuck,568,1,2,2,6
+9,3,140,Wizards,Demolition,Smurf,462,2,0,1,5
+9,4,140,Demolition,Wizards,kccolts81,292,0,0,0,1
+9,4,140,Demolition,Wizards,ImBad,415,0,0,2,2
+9,4,140,Wizards,Demolition,JustTuck,278,0,0,2,1
+9,4,140,Wizards,Demolition,Smurf,466,1,0,1,2
+9,5,140,Demolition,Wizards,kccolts81,390,0,0,3,3
+9,5,140,Demolition,Wizards,ImBad,202,0,0,0,2
+9,5,140,Wizards,Demolition,JustTuck,607,2,0,2,4
+9,5,140,Wizards,Demolition,Smurf,248,0,0,1,5
+9,1,141,Elite,Bulls,Bones,629,2,0,2,6
+9,1,141,Elite,Bulls,Cearu,438,1,1,0,2
+9,1,141,Bulls,Elite,RainbowNoms,507,1,3,1,3
+9,1,141,Bulls,Elite,BraidedAxe,1032,4,1,4,5
+9,2,141,Elite,Bulls,Bones,517,1,2,3,2
+9,2,141,Elite,Bulls,Cearu,688,3,0,1,10
+9,2,141,Bulls,Elite,RainbowNoms,717,2,1,4,5
+9,2,141,Bulls,Elite,BraidedAxe,646,1,1,3,4
+9,3,141,Elite,Bulls,Bones,388,1,0,2,7
+9,3,141,Elite,Bulls,Cearu,450,1,1,2,3
+9,3,141,Bulls,Elite,RainbowNoms,780,3,1,3,4
+9,3,141,Bulls,Elite,BraidedAxe,1020,3,3,3,6
+9,4,141,Elite,Bulls,Bones,741,4,0,1,8
+9,4,141,Elite,Bulls,Cearu,483,0,3,1,6
+9,4,141,Bulls,Elite,RainbowNoms,663,2,0,4,3
+9,4,141,Bulls,Elite,BraidedAxe,601,0,2,4,3
+9,5,141,Elite,Bulls,Bones,150,0,1,0,2
+9,5,141,Elite,Bulls,Cearu,618,1,0,3,2
+9,5,141,Bulls,Elite,RainbowNoms,418,1,1,1,2
+9,5,141,Bulls,Elite,BraidedAxe,470,2,1,0,5
+9,1,142,Dodgers,Tyrants,InanimateJ,150,1,1,1,1
+9,1,142,Dodgers,Tyrants,Whiffles,150,1,1,1,1
+9,1,142,Tyrants,Dodgers,Kaito,50,0,0,0,1
+9,1,142,Tyrants,Dodgers,Saucy.,50,0,0,0,1
+9,2,142,Dodgers,Tyrants,InanimateJ,150,1,1,1,1
+9,2,142,Dodgers,Tyrants,Whiffles,150,1,1,1,1
+9,2,142,Tyrants,Dodgers,Kaito,50,0,0,0,1
+9,2,142,Tyrants,Dodgers,Saucy.,50,0,0,0,1
+9,3,142,Dodgers,Tyrants,InanimateJ,150,1,1,1,1
+9,3,142,Dodgers,Tyrants,Whiffles,150,1,1,1,1
+9,3,142,Tyrants,Dodgers,Kaito,50,0,0,0,1
+9,3,142,Tyrants,Dodgers,Saucy.,50,0,0,0,1
+9,4,142,Dodgers,Tyrants,InanimateJ,150,1,1,1,1
+9,4,142,Dodgers,Tyrants,Whiffles,150,1,1,1,1
+9,4,142,Tyrants,Dodgers,Kaito,50,0,0,0,1
+9,4,142,Tyrants,Dodgers,Saucy.,50,0,0,0,1
+9,5,142,Dodgers,Tyrants,InanimateJ,150,1,1,1,1
+9,5,142,Dodgers,Tyrants,Whiffles,150,1,1,1,1
+9,5,142,Tyrants,Dodgers,Kaito,50,0,0,0,1
+9,5,142,Tyrants,Dodgers,Saucy.,50,0,0,0,1
+9,1,143,Shadow,Flames,UnearthlyLegend,740,0,1,6,3
+9,1,143,Shadow,Flames,Oni,594,1,0,3,4
+9,1,143,Flames,Shadow,Reverse Fridge,644,1,1,4,5
+9,1,143,Flames,Shadow,Volts,484,1,0,2,6
+9,2,143,Shadow,Flames,UnearthlyLegend,578,2,2,0,2
+9,2,143,Shadow,Flames,Oni,685,2,1,3,3
+9,2,143,Flames,Shadow,Reverse Fridge,242,0,1,1,2
+9,2,143,Flames,Shadow,Volts,386,1,0,0,3
+9,3,143,Shadow,Flames,UnearthlyLegend,340,0,2,1,2
+9,3,143,Shadow,Flames,Oni,576,2,0,2,7
+9,3,143,Flames,Shadow,Reverse Fridge,430,0,2,1,5
+9,3,143,Flames,Shadow,Volts,932,4,0,4,5
+9,4,143,Shadow,Flames,UnearthlyLegend,655,2,0,4,4
+9,4,143,Shadow,Flames,Oni,610,1,2,3,5
+9,4,143,Flames,Shadow,Reverse Fridge,398,2,0,0,6
+9,4,143,Flames,Shadow,Volts,657,2,0,4,4
+9,5,143,Shadow,Flames,UnearthlyLegend,572,1,0,4,5
+9,5,143,Shadow,Flames,Oni,1077,1,1,7,4
+9,5,143,Flames,Shadow,Reverse Fridge,552,1,0,1,4
+9,5,143,Flames,Shadow,Volts,1010,2,1,5,10
+9,1,144,Pandas,Sharks,Red Line,1005,5,1,1,9
+9,1,144,Pandas,Sharks,Not Juice,667,2,4,1,6
+9,1,144,Sharks,Pandas,Twigler,582,1,0,3,3
+9,1,144,Sharks,Pandas,Luke_Rocks,288,0,1,1,2
+9,2,144,Pandas,Sharks,Red Line,464,1,2,1,7
+9,2,144,Pandas,Sharks,Not Juice,623,2,1,2,4
+9,2,144,Sharks,Pandas,Twigler,617,1,0,5,5
+9,2,144,Sharks,Pandas,Luke_Rocks,382,0,1,1,1
+9,3,144,Pandas,Sharks,Red Line,601,2,2,1,8
+9,3,144,Pandas,Sharks,Not Juice,703,4,1,1,3
+9,3,144,Sharks,Pandas,Twigler,507,1,3,2,1
+9,3,144,Sharks,Pandas,Luke_Rocks,1002,4,1,3,7
+9,4,144,Pandas,Sharks,Red Line,352,0,1,1,2
+9,4,144,Pandas,Sharks,Not Juice,609,3,0,0,3
+9,4,144,Sharks,Pandas,Twigler,396,0,2,1,4
+9,4,144,Sharks,Pandas,Luke_Rocks,492,2,0,2,3
+9,5,144,Pandas,Sharks,Red Line,665,1,3,2,4
+9,5,144,Pandas,Sharks,Not Juice,625,3,1,1,6
+9,5,144,Sharks,Pandas,Twigler,182,0,0,1,3
+9,5,144,Sharks,Pandas,Luke_Rocks,588,1,0,4,3
+10,1,145,Eclipse,Blizzard,Krops,713,2,0,4,3
+10,1,145,Eclipse,Blizzard,ballena,685,3,1,1,8
+10,1,145,Blizzard,Eclipse,MapleSurrup,563,1,0,3,4
+10,1,145,Blizzard,Eclipse,Scoobert Doobert,449,1,0,2,4
+10,2,145,Eclipse,Blizzard,Krops,533,2,1,2,4
+10,2,145,Eclipse,Blizzard,ballena,244,2,1,1,6
+10,2,145,Blizzard,Eclipse,MapleSurrup,1019,6,0,1,9
+10,2,145,Blizzard,Eclipse,Scoobert Doobert,478,1,2,2,1
+10,3,145,Eclipse,Blizzard,Krops,593,1,1,3,7
+10,3,145,Eclipse,Blizzard,ballena,581,2,1,2,7
+10,3,145,Blizzard,Eclipse,MapleSurrup,647,1,1,4,5
+10,3,145,Blizzard,Eclipse,Scoobert Doobert,328,1,0,1,4
+10,4,145,Eclipse,Blizzard,Krops,184,0,1,0,1
+10,4,145,Eclipse,Blizzard,ballena,529,1,0,3,3
+10,4,145,Blizzard,Eclipse,MapleSurrup,486,2,1,2,5
+10,4,145,Blizzard,Eclipse,Scoobert Doobert,491,1,2,1,3
+10,5,145,Eclipse,Blizzard,Krops,666,1,2,3,5
+10,5,145,Eclipse,Blizzard,ballena,728,4,0,1,7
+10,5,145,Blizzard,Eclipse,MapleSurrup,596,2,0,1,3
+10,5,145,Blizzard,Eclipse,Scoobert Doobert,843,1,1,7,4
+10,1,146,Lightning,Hurricanes,Dtr,507,1,0,4,1
+10,1,146,Lightning,Hurricanes,RED,676,1,0,4,1
+10,1,146,Hurricanes,Lightning,Peabs,540,1,2,2,6
+10,1,146,Hurricanes,Lightning,Iguane Fabuleux,480,2,1,0,6
+10,2,146,Lightning,Hurricanes,Dtr,603,1,1,3,4
+10,2,146,Lightning,Hurricanes,RED,358,1,0,1,2
+10,2,146,Hurricanes,Lightning,Peabs,410,1,0,0,4
+10,2,146,Hurricanes,Lightning,Iguane Fabuleux,766,3,0,3,6
+10,3,146,Lightning,Hurricanes,Dtr,607,0,1,5,0
+10,3,146,Lightning,Hurricanes,RED,430,1,0,2,5
+10,3,146,Hurricanes,Lightning,Peabs,571,2,0,3,2
+10,3,146,Hurricanes,Lightning,Iguane Fabuleux,346,0,1,2,8
+10,4,146,Lightning,Hurricanes,Dtr,331,0,2,1,3
+10,4,146,Lightning,Hurricanes,RED,495,2,0,1,7
+10,4,146,Hurricanes,Lightning,Peabs,724,3,0,4,5
+10,4,146,Hurricanes,Lightning,Iguane Fabuleux,449,0,2,3,0
+10,5,146,Lightning,Hurricanes,Dtr,306,0,1,1,5
+10,5,146,Lightning,Hurricanes,RED,832,4,0,2,5
+10,5,146,Hurricanes,Lightning,Peabs,648,2,2,2,5
+10,5,146,Hurricanes,Lightning,Iguane Fabuleux,866,4,1,3,5
+10,1,147,Puffins,Foxes,KittenDuck,288,1,0,0,3
+10,1,147,Puffins,Foxes,Taelo,198,0,1,0,2
+10,1,147,Foxes,Puffins,Deluxe,789,2,2,3,4
+10,1,147,Foxes,Puffins,Moosey,654,3,1,1,3
+10,2,147,Puffins,Foxes,KittenDuck,782,2,1,4,3
+10,2,147,Puffins,Foxes,Taelo,626,2,0,4,3
+10,2,147,Foxes,Puffins,Deluxe,759,3,1,1,9
+10,2,147,Foxes,Puffins,Moosey,488,2,2,0,5
+10,3,147,Puffins,Foxes,KittenDuck,556,2,1,2,5
+10,3,147,Puffins,Foxes,Taelo,641,2,2,2,3
+10,3,147,Foxes,Puffins,Deluxe,480,2,0,2,5
+10,3,147,Foxes,Puffins,Moosey,180,0,1,0,2
+10,4,147,Puffins,Foxes,KittenDuck,316,0,0,1,2
+10,4,147,Puffins,Foxes,Taelo,486,0,0,0,2
+10,4,147,Foxes,Puffins,Deluxe,630,2,2,1,2
+10,4,147,Foxes,Puffins,Moosey,579,2,0,2,4
+10,5,147,Puffins,Foxes,KittenDuck,424,1,2,1,2
+10,5,147,Puffins,Foxes,Taelo,791,3,1,2,7
+10,5,147,Foxes,Puffins,Deluxe,457,1,0,3,7
+10,5,147,Foxes,Puffins,Moosey,190,0,0,2,1
+10,1,148,Wolves,Sabres,Zack,792,3,2,2,9
+10,1,148,Wolves,Sabres,MattRochie,542,2,2,1,9
+10,1,148,Sabres,Wolves,SmilezRL,748,1,1,7,4
+10,1,148,Sabres,Wolves,Giant,621,2,1,2,4
+10,2,148,Wolves,Sabres,Zack,981,5,0,4,5
+10,2,148,Wolves,Sabres,MattRochie,772,2,5,2,5
+10,2,148,Sabres,Wolves,SmilezRL,620,2,1,2,6
+10,2,148,Sabres,Wolves,Giant,309,1,1,1,4
+10,3,148,Wolves,Sabres,Zack,585,1,1,1,6
+10,3,148,Wolves,Sabres,MattRochie,629,2,1,1,6
+10,3,148,Sabres,Wolves,SmilezRL,696,2,0,3,5
+10,3,148,Sabres,Wolves,Giant,543,0,0,4,2
+10,4,148,Wolves,Sabres,Zack,878,2,6,1,5
+10,4,148,Wolves,Sabres,MattRochie,1205,7,2,1,10
+10,4,148,Sabres,Wolves,SmilezRL,547,1,0,3,2
+10,4,148,Sabres,Wolves,Giant,366,1,0,1,3
+10,5,148,Wolves,Sabres,Zack,925,5,2,1,10
+10,5,148,Wolves,Sabres,MattRochie,866,3,4,1,6
+10,5,148,Sabres,Wolves,SmilezRL,190,0,0,0,2
+10,5,148,Sabres,Wolves,Giant,526,0,0,7,0
+10,1,149,Ducks,Aviators,cahewa,377,1,0,1,3
+10,1,149,Ducks,Aviators,easy359,374,0,1,2,2
+10,1,149,Aviators,Ducks,Craymin,540,1,1,2,5
+10,1,149,Aviators,Ducks,Jdubbz,322,1,0,1,0
+10,2,149,Ducks,Aviators,cahewa,366,1,0,1,2
+10,2,149,Ducks,Aviators,easy359,368,1,1,2,3
+10,2,149,Aviators,Ducks,Craymin,629,2,1,3,5
+10,2,149,Aviators,Ducks,Jdubbz,581,3,0,1,4
+10,3,149,Ducks,Aviators,cahewa,331,1,2,0,3
+10,3,149,Ducks,Aviators,easy359,729,3,1,1,8
+10,3,149,Aviators,Ducks,Craymin,615,2,0,3,3
+10,3,149,Aviators,Ducks,Jdubbz,247,0,0,1,0
+10,4,149,Ducks,Aviators,cahewa,697,2,3,1,6
+10,4,149,Ducks,Aviators,easy359,743,3,2,1,6
+10,4,149,Aviators,Ducks,Craymin,655,1,0,3,3
+10,4,149,Aviators,Ducks,Jdubbz,304,1,0,1,1
+10,5,149,Ducks,Aviators,cahewa,299,0,0,2,4
+10,5,149,Ducks,Aviators,easy359,308,1,0,1,5
+10,5,149,Aviators,Ducks,Craymin,477,1,1,2,2
+10,5,149,Aviators,Ducks,Jdubbz,426,1,0,2,4
+10,1,150,Hive,Hawks,Satsz,50,0,0,0,1
+10,1,150,Hive,Hawks,Toonifisch,50,0,0,0,1
+10,1,150,Hawks,Hive,GodraciR,150,1,1,1,1
+10,1,150,Hawks,Hive,Sleegi,150,1,1,1,1
+10,2,150,Hive,Hawks,Satsz,50,0,0,0,1
+10,2,150,Hive,Hawks,Toonifisch,50,0,0,0,1
+10,2,150,Hawks,Hive,GodraciR,150,1,1,1,1
+10,2,150,Hawks,Hive,Sleegi,150,1,1,1,1
+10,3,150,Hive,Hawks,Satsz,50,0,0,0,1
+10,3,150,Hive,Hawks,Toonifisch,50,0,0,0,1
+10,3,150,Hawks,Hive,GodraciR,150,1,1,1,1
+10,3,150,Hawks,Hive,Sleegi,150,1,1,1,1
+10,4,150,Hive,Hawks,Satsz,50,0,0,0,1
+10,4,150,Hive,Hawks,Toonifisch,50,0,0,0,1
+10,4,150,Hawks,Hive,GodraciR,150,1,1,1,1
+10,4,150,Hawks,Hive,Sleegi,150,1,1,1,1
+10,5,150,Hive,Hawks,Satsz,50,0,0,0,1
+10,5,150,Hive,Hawks,Toonifisch,50,0,0,0,1
+10,5,150,Hawks,Hive,GodraciR,150,1,1,1,1
+10,5,150,Hawks,Hive,Sleegi,150,1,1,1,1
+10,1,151,Jets,Express,Ezra,408,1,0,1,3
+10,1,151,Jets,Express,Descend,192,0,0,0,2
+10,1,151,Express,Jets,Gumbachi,1165,6,1,2,9
+10,1,151,Express,Jets,Mattybananas,704,2,4,1,3
+10,2,151,Jets,Express,Ezra,338,1,0,2,3
+10,2,151,Jets,Express,Descend,550,1,0,3,6
+10,2,151,Express,Jets,Gumbachi,1015,3,1,5,10
+10,2,151,Express,Jets,Mattybananas,681,3,1,2,4
+10,3,151,Jets,Express,Ezra,448,0,1,3,3
+10,3,151,Jets,Express,Descend,806,2,0,4,6
+10,3,151,Express,Jets,Gumbachi,974,3,0,5,8
+10,3,151,Express,Jets,Mattybananas,387,0,2,1,2
+10,4,151,Jets,Express,Ezra,599,2,0,2,3
+10,4,151,Jets,Express,Descend,415,0,2,2,3
+10,4,151,Express,Jets,Gumbachi,691,3,1,2,7
+10,4,151,Express,Jets,Mattybananas,643,2,2,2,4
+10,5,151,Jets,Express,Ezra,354,0,1,2,0
+10,5,151,Jets,Express,Descend,392,1,0,2,7
+10,5,151,Express,Jets,Gumbachi,1032,4,3,2,10
+10,5,151,Express,Jets,Mattybananas,1222,5,3,4,6
+10,1,152,Spartans,Knights,Sinnicole,1067,4,1,4,10
+10,1,152,Spartans,Knights,Letsgobluh,648,3,1,2,4
+10,1,152,Knights,Spartans,oogga,427,0,1,3,3
+10,1,152,Knights,Spartans,TosCrazy,387,1,0,2,4
+10,2,152,Spartans,Knights,Sinnicole,897,3,2,3,7
+10,2,152,Spartans,Knights,Letsgobluh,496,2,2,1,5
+10,2,152,Knights,Spartans,oogga,450,1,1,2,4
+10,2,152,Knights,Spartans,TosCrazy,444,1,1,2,3
+10,3,152,Spartans,Knights,Sinnicole,580,2,0,3,3
+10,3,152,Spartans,Knights,Letsgobluh,384,0,1,2,1
+10,3,152,Knights,Spartans,oogga,448,1,1,1,4
+10,3,152,Knights,Spartans,TosCrazy,404,2,0,0,6
+10,4,152,Spartans,Knights,Sinnicole,320,0,1,0,3
+10,4,152,Spartans,Knights,Letsgobluh,455,1,0,3,2
+10,4,152,Knights,Spartans,oogga,593,1,1,3,2
+10,4,152,Knights,Spartans,TosCrazy,378,1,1,0,3
+10,5,152,Spartans,Knights,Sinnicole,743,2,1,3,6
+10,5,152,Spartans,Knights,Letsgobluh,364,1,0,0,3
+10,5,152,Knights,Spartans,oogga,343,0,0,3,1
+10,5,152,Knights,Spartans,TosCrazy,294,0,0,1,3
+10,1,153,Outlaws,Bears,Bacon,50,0,0,0,1
+10,1,153,Outlaws,Bears,Lotty Lettuce,50,0,0,0,1
+10,1,153,Bears,Outlaws,Rascel,150,1,1,1,1
+10,1,153,Bears,Outlaws,Mage,150,1,1,1,1
+10,2,153,Outlaws,Bears,Bacon,50,0,0,0,1
+10,2,153,Outlaws,Bears,Lotty Lettuce,50,0,0,0,1
+10,2,153,Bears,Outlaws,Rascel,150,1,1,1,1
+10,2,153,Bears,Outlaws,Mage,150,1,1,1,1
+10,3,153,Outlaws,Bears,Bacon,50,0,0,0,1
+10,3,153,Outlaws,Bears,Lotty Lettuce,50,0,0,0,1
+10,3,153,Bears,Outlaws,Rascel,150,1,1,1,1
+10,3,153,Bears,Outlaws,Mage,150,1,1,1,1
+10,4,153,Outlaws,Bears,Bacon,50,0,0,0,1
+10,4,153,Outlaws,Bears,Lotty Lettuce,50,0,0,0,1
+10,4,153,Bears,Outlaws,Rascel,150,1,1,1,1
+10,4,153,Bears,Outlaws,Mage,150,1,1,1,1
+10,5,153,Outlaws,Bears,Bacon,50,0,0,0,1
+10,5,153,Outlaws,Bears,Lotty Lettuce,50,0,0,0,1
+10,5,153,Bears,Outlaws,Rascel,150,1,1,1,1
+10,5,153,Bears,Outlaws,Mage,150,1,1,1,1
+10,1,154,Rhinos,Pirates,HersheyRL,434,0,0,3,3
+10,1,154,Rhinos,Pirates,GoodNeighbor,178,0,0,0,4
+10,1,154,Pirates,Rhinos,Cali,573,2,0,2,6
+10,1,154,Pirates,Rhinos,Tater,397,0,1,3,2
+10,2,154,Rhinos,Pirates,HersheyRL,663,3,0,1,6
+10,2,154,Rhinos,Pirates,GoodNeighbor,384,0,1,2,8
+10,2,154,Pirates,Rhinos,Cali,429,0,0,3,5
+10,2,154,Pirates,Rhinos,Tater,652,1,0,6,2
+10,3,154,Rhinos,Pirates,HersheyRL,453,0,3,1,6
+10,3,154,Rhinos,Pirates,GoodNeighbor,718,4,0,1,6
+10,3,154,Pirates,Rhinos,Cali,442,0,0,4,1
+10,3,154,Pirates,Rhinos,Tater,522,1,0,3,2
+10,4,154,Rhinos,Pirates,HersheyRL,394,0,2,2,3
+10,4,154,Rhinos,Pirates,GoodNeighbor,914,6,0,1,7
+10,4,154,Pirates,Rhinos,Cali,278,0,1,2,1
+10,4,154,Pirates,Rhinos,Tater,468,2,0,1,7
+10,5,154,Rhinos,Pirates,HersheyRL,561,1,3,1,5
+10,5,154,Rhinos,Pirates,GoodNeighbor,822,3,0,3,6
+10,5,154,Pirates,Rhinos,Cali,612,1,0,5,3
+10,5,154,Pirates,Rhinos,Tater,441,1,0,1,5
+10,1,155,Demolition,Comets,Seven,306,1,0,1,3
+10,1,155,Demolition,Comets,Kunics,303,0,1,1,5
+10,1,155,Comets,Demolition,Unborn,649,3,0,1,4
+10,1,155,Comets,Demolition,Tunloink,385,0,0,3,2
+10,2,155,Demolition,Comets,Seven,574,2,1,1,6
+10,2,155,Demolition,Comets,Kunics,638,2,1,3,3
+10,2,155,Comets,Demolition,Unborn,796,3,0,3,7
+10,2,155,Comets,Demolition,Tunloink,228,0,1,0,2
+10,3,155,Demolition,Comets,Seven,411,0,2,1,6
+10,3,155,Demolition,Comets,Kunics,594,2,0,2,5
+10,3,155,Comets,Demolition,Unborn,1000,3,0,5,4
+10,3,155,Comets,Demolition,Tunloink,515,0,3,2,4
+10,4,155,Demolition,Comets,Seven,716,2,0,3,3
+10,4,155,Demolition,Comets,Kunics,452,0,1,2,3
+10,4,155,Comets,Demolition,Unborn,658,0,1,4,2
+10,4,155,Comets,Demolition,Tunloink,506,1,0,1,8
+10,5,155,Demolition,Comets,Seven,455,0,0,5,1
+10,5,155,Demolition,Comets,Kunics,283,0,0,2,1
+10,5,155,Comets,Demolition,Unborn,354,2,0,1,3
+10,5,155,Comets,Demolition,Tunloink,800,3,1,1,10
+10,1,156,Wizards,Spectre,Smurf,950,3,2,3,4
+10,1,156,Wizards,Spectre,Scapegoat,855,4,0,3,8
+10,1,156,Spectre,Wizards,We take Ls,204,0,0,0,4
+10,1,156,Spectre,Wizards,ZavaZ86,354,1,0,1,4
+10,2,156,Wizards,Spectre,Smurf,819,4,1,2,6
+10,2,156,Wizards,Spectre,Scapegoat,821,2,4,2,8
+10,2,156,Spectre,Wizards,We take Ls,778,3,0,2,6
+10,2,156,Spectre,Wizards,ZavaZ86,428,0,3,2,2
+10,3,156,Wizards,Spectre,Smurf,459,1,0,2,3
+10,3,156,Wizards,Spectre,Scapegoat,615,3,1,0,5
+10,3,156,Spectre,Wizards,We take Ls,659,3,1,1,3
+10,3,156,Spectre,Wizards,ZavaZ86,665,2,1,2,4
+10,4,156,Wizards,Spectre,Smurf,912,3,3,3,5
+10,4,156,Wizards,Spectre,Scapegoat,845,4,2,1,3
+10,4,156,Spectre,Wizards,We take Ls,316,1,1,0,4
+10,4,156,Spectre,Wizards,ZavaZ86,599,1,0,3,5
+10,5,156,Wizards,Spectre,Smurf,614,2,1,3,3
+10,5,156,Wizards,Spectre,Scapegoat,412,1,1,2,2
+10,5,156,Spectre,Wizards,We take Ls,853,3,2,2,7
+10,5,156,Spectre,Wizards,ZavaZ86,681,3,2,0,6
+10,1,157,Dodgers,Bulls,bits,945,4,2,2,6
+10,1,157,Dodgers,Bulls,InanimateJ,776,3,0,3,6
+10,1,157,Bulls,Dodgers,Antzu,706,2,0,3,6
+10,1,157,Bulls,Dodgers,Nobody Special,339,0,1,2,1
+10,2,157,Dodgers,Bulls,bits,897,4,2,1,6
+10,2,157,Dodgers,Bulls,InanimateJ,552,2,1,2,5
+10,2,157,Bulls,Dodgers,Antzu,620,1,1,4,3
+10,2,157,Bulls,Dodgers,Nobody Special,364,2,0,0,4
+10,3,157,Dodgers,Bulls,bits,398,1,0,1,6
+10,3,157,Dodgers,Bulls,InanimateJ,292,1,0,1,2
+10,3,157,Bulls,Dodgers,Antzu,559,2,1,2,3
+10,3,157,Bulls,Dodgers,Nobody Special,368,1,2,0,2
+10,4,157,Dodgers,Bulls,bits,885,3,1,2,4
+10,4,157,Dodgers,Bulls,InanimateJ,288,1,1,0,4
+10,4,157,Bulls,Dodgers,Antzu,480,1,1,1,4
+10,4,157,Bulls,Dodgers,Nobody Special,290,1,1,0,1
+10,5,157,Dodgers,Bulls,bits,551,3,0,0,6
+10,5,157,Dodgers,Bulls,InanimateJ,376,0,1,2,6
+10,5,157,Bulls,Dodgers,Antzu,509,0,1,4,2
+10,5,157,Bulls,Dodgers,Nobody Special,392,1,0,1,2
+10,1,158,Tyrants,Elite,Kaito,906,4,0,4,5
+10,1,158,Tyrants,Elite,Kordova-_-,852,1,4,3,5
+10,1,158,Elite,Tyrants,El Diablo Rojo,836,2,2,3,7
+10,1,158,Elite,Tyrants,veets,534,2,2,0,7
+10,2,158,Tyrants,Elite,Kaito,441,1,0,3,2
+10,2,158,Tyrants,Elite,Kordova-_-,570,1,0,3,3
+10,2,158,Elite,Tyrants,El Diablo Rojo,541,1,1,2,5
+10,2,158,Elite,Tyrants,veets,756,4,1,1,6
+10,3,158,Tyrants,Elite,Kaito,146,0,0,0,4
+10,3,158,Tyrants,Elite,Kordova-_-,172,0,0,0,4
+10,3,158,Elite,Tyrants,El Diablo Rojo,986,5,0,4,6
+10,3,158,Elite,Tyrants,veets,621,0,4,3,1
+10,4,158,Tyrants,Elite,Kaito,575,1,0,4,4
+10,4,158,Tyrants,Elite,Kordova-_-,352,0,1,2,4
+10,4,158,Elite,Tyrants,El Diablo Rojo,957,4,2,3,6
+10,4,158,Elite,Tyrants,veets,727,2,3,2,6
+10,5,158,Tyrants,Elite,Kaito,472,0,1,3,3
+10,5,158,Tyrants,Elite,Kordova-_-,696,2,0,3,4
+10,5,158,Elite,Tyrants,El Diablo Rojo,648,2,1,1,6
+10,5,158,Elite,Tyrants,veets,649,1,2,4,4
+10,1,159,Pandas,Flames,Red Line,696,1,1,5,1
+10,1,159,Pandas,Flames,dan720,506,2,0,2,7
+10,1,159,Flames,Pandas,crossfire8255,571,0,2,4,4
+10,1,159,Flames,Pandas,Volts,466,2,0,0,7
+10,2,159,Pandas,Flames,Red Line,603,2,0,2,6
+10,2,159,Pandas,Flames,dan720,644,1,2,5,2
+10,2,159,Flames,Pandas,crossfire8255,751,1,0,6,3
+10,2,159,Flames,Pandas,Volts,260,0,1,0,6
+10,3,159,Pandas,Flames,Red Line,312,1,0,0,4
+10,3,159,Pandas,Flames,dan720,585,1,1,5,1
+10,3,159,Flames,Pandas,crossfire8255,380,1,1,0,3
+10,3,159,Flames,Pandas,Volts,976,5,0,2,10
+10,4,159,Pandas,Flames,Red Line,815,3,1,2,6
+10,4,159,Pandas,Flames,dan720,524,1,1,3,7
+10,4,159,Flames,Pandas,crossfire8255,280,0,0,1,3
+10,4,159,Flames,Pandas,Volts,561,0,0,5,3
+10,5,159,Pandas,Flames,Red Line,764,0,2,5,2
+10,5,159,Pandas,Flames,dan720,842,3,0,2,7
+10,5,159,Flames,Pandas,crossfire8255,920,3,1,4,5
+10,5,159,Flames,Pandas,Volts,811,1,3,3,10
+10,1,160,Sharks,Shadow,Twigler,853,4,0,3,7
+10,1,160,Sharks,Shadow,Hopper,771,3,2,2,4
+10,1,160,Shadow,Sharks,Oni,733,3,1,2,6
+10,1,160,Shadow,Sharks,synthex,604,1,3,1,7
+10,2,160,Sharks,Shadow,Twigler,316,1,0,1,4
+10,2,160,Sharks,Shadow,Hopper,534,0,1,5,5
+10,2,160,Shadow,Sharks,Oni,819,3,1,3,9
+10,2,160,Shadow,Sharks,synthex,1109,4,2,3,7
+10,3,160,Sharks,Shadow,Twigler,547,3,0,2,3
+10,3,160,Sharks,Shadow,Hopper,653,1,2,3,5
+10,3,160,Shadow,Sharks,Oni,212,0,0,1,1
+10,3,160,Shadow,Sharks,synthex,554,2,0,2,6
+10,4,160,Sharks,Shadow,Twigler,949,4,0,4,7
+10,4,160,Sharks,Shadow,Hopper,324,0,2,0,3
+10,4,160,Shadow,Sharks,Oni,425,1,1,2,3
+10,4,160,Shadow,Sharks,synthex,422,1,1,0,2
+10,5,160,Sharks,Shadow,Twigler,204,0,0,2,1
+10,5,160,Sharks,Shadow,Hopper,660,3,0,3,5
+10,5,160,Shadow,Sharks,Oni,380,1,0,1,5
+10,5,160,Shadow,Sharks,synthex,836,4,1,2,5
