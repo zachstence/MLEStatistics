@@ -26,21 +26,22 @@ def get_match_id(stats_line):
 def get_team(stats_line):
     m = re.search(LINE_REGEX, stats_line)
     if m == None:
-        return 0
+        return ""
     team = m.group(4)
     return team
 
 def get_opponent(stats_line):
     m = re.search(LINE_REGEX, stats_line)
     if m == None:
-        return 0
+        return ""
     team = m.group(5)
     return team
 
 def get_player(stats_line):
     m = re.search(LINE_REGEX, stats_line)
     if m == None:
-        return 0
+        print(stats_line)
+        return ""
     player = m.group(6)
     return player
 

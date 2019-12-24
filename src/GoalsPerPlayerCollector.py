@@ -15,7 +15,7 @@ def get_goals_per_player(csv_filepath, exclude_ncp):
 
         teamBGoals = 0
         teamBPlayers = []
-        for player in game["teamB"]:
+        for stats in game["teamB"]:
             teamBPlayers.append(stats[0])
             teamBGoals += stats[2]
         
@@ -31,7 +31,7 @@ def get_goals_per_player(csv_filepath, exclude_ncp):
                 goals_per_player[player][0] += teamBGoals
                 goals_per_player[player][1] += teamAGoals
             else:
-                goals_per_player[player][0] = [teamBGoals, teamAGoals]
+                goals_per_player[player] = [teamBGoals, teamAGoals]
     return goals_per_player
 
 def write_goals_per_player_to_csv(output_filepath, goals_per_player):
