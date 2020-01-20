@@ -41,5 +41,7 @@ def write_goals_per_player_to_csv(output_filepath, goals_per_player):
             out.write("{},{},{}\n".format(player, goals_per_player[player][0], goals_per_player[player][1]))
 
 if __name__ == "__main__":
-    gpp = get_goals_per_player(r"csv\MLE Season 9 Stats - PREMIER.csv", True)
-    write_goals_per_player_to_csv("S9 Premier GPP (no NCPs).csv", gpp)
+    leagues = ["PREMIER", "CHAMPION", "ACADEMY", "FOUNDATION"]
+    for league in leagues:
+        gpp = get_goals_per_player("csv/Season 9 Stats/MLE Season 9 Stats - {}.csv".format(league), True)
+        write_goals_per_player_to_csv("out/S9/S9 {} GPP (no NCPs).csv".format(league), gpp)
