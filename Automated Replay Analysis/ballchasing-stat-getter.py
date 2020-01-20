@@ -54,7 +54,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     if args.visibility == None:
-        args.visibility = 'private'
+        args.visibility = 'unlisted'
     if args.output == None:
         args.output = 'out.json'
 
